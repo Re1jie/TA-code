@@ -1,10 +1,17 @@
 import pandas as pd
 import numpy as np
 
-def run_priority_simulation(voyages_df, port_capacity, priority_vector):
+def run_priority_simulation(voyages_df, port_capacity, priority_vector, return_detailed=False):
     """
     VERSI FINAL: Global Chronological with Virtual Queue Priority.
-    Menjamin tidak ada bug 'Time Travel' (34 tahun delay).
+    
+    Args:
+        voyages_df: DataFrame input
+        port_capacity: Dictionary kapasitas pelabuhan
+        priority_vector: Array prioritas (0.0 - 1.0)
+        return_detailed (bool): 
+            - False: Return float total_lateness (untuk Optimizer)
+            - True: Return DataFrame detail (untuk Reporting/Analisis)
     """
     # 1. Setup Data
     sim_df = voyages_df.copy()
@@ -16,64 +23,73 @@ def run_priority_simulation(voyages_df, port_capacity, priority_vector):
     sim_df['CAOA_Priority'] = priority_vector
     
     # --- LOGIKA PRIORITAS AMAN ---
-    # Kita buat 'Queue_Time' (Waktu Antrean Virtual).
-    # Kapal Prioritas 1.0 akan "dimajukan" waktu antreannya sebanyak 2 JAM.
-    # Kapal Prioritas 0.0 tetap di waktu aslinya.
-    # Pergeseran kecil ini cukup untuk menyalip antrean, tapi tidak merusak urutan Voyage.
-    
     max_time_shift_hours = 24.0 
     time_shift = pd.to_timedelta(sim_df['CAOA_Priority'] * max_time_shift_hours, unit='h')
     
-    # Waktu Antrean = ETA Asli - (Prioritas * 2 Jam)
-    # Semakin tinggi prioritas, semakin kecil (awal) Queue_Time-nya.
+    # Waktu Antrean Virtual
     sim_df['Queue_Time'] = sim_df['ETA_Planned'] - time_shift
     
     # URUTKAN GLOBAL BERDASARKAN QUEUE TIME
-    # Ini inti perbaikannya: Kita memproses timeline secara global, bukan per pelabuhan.
     sim_df.sort_values(by='Queue_Time', inplace=True)
     
     # 2. STATE MANAGER
     port_state = {p: [pd.Timestamp.min] * cap for p, cap in port_capacity.items()}
-    ship_availability = {} # Kapan kapal selesai dari port sebelumnya
+    ship_availability = {} 
     
     total_lateness = 0.0
+    detailed_results = [] # Penampung data jika return_detailed=True
     
-    # 3. PROSES SIMULASI (Sama persis dengan diagnostic_check, tapi urutannya sudah dimanipulasi prioritas)
+    # 3. PROSES SIMULASI
     for idx, row in sim_df.iterrows():
         ship = row['Ship_Name']
         port = row['Port_Name']
-        planned_eta = row['ETA_Planned'] # Tetap gunakan ETA asli untuk hitung delay
+        planned_eta = row['ETA_Planned']
         duration = row['Service_Time_Hours']
         
-        # Kapan kapal siap secara fisik? (Tunggu voyage sebelumnya selesai)
+        # Propagasi Delay
         prev_finish = ship_availability.get(ship, pd.Timestamp.min)
-        
-        # Kapal tiba di lokasi = Max(Jadwal Tiket, Selesai dari Port Lalu)
         physical_arrival = max(planned_eta, prev_finish)
         
         # Cek Ketersediaan Dermaga
-        berths = port_state.get(port, [pd.Timestamp.min]) # Default 1 berth
-        berths.sort() # [0] adalah berth yang paling cepat kosong
+        berths = port_state.get(port, [pd.Timestamp.min])
+        berths.sort()
         free_berth_time = berths[0]
         
-        # Waktu Sandar = Max(Kapal Tiba, Dermaga Kosong)
-        # Di sinilah 'Queue_Time' bekerja. Karena baris ini diproses lebih dulu (akibat sort),
-        # kapal prioritas tinggi akan mengambil 'free_berth_time' yang lebih awal.
+        # Waktu Sandar
         berthing_time = max(physical_arrival, free_berth_time)
         
         # Waktu Selesai
         finish_time = berthing_time + pd.to_timedelta(duration, unit='h')
         
-        # Hitung Lateness (Keterlambatan dari Jadwal Tiket)
-        # Rumus: Waktu Sandar Aktual - ETA Planned
-        lateness = (berthing_time - planned_eta).total_seconds() / 3600.0
+        # Hitung Metrics
+        lateness_seconds = (berthing_time - planned_eta).total_seconds()
+        lateness_hours = max(0.0, lateness_seconds / 3600.0)
         
-        # Hanya hitung jika positif (terlambat)
-        total_lateness += max(0.0, lateness)
+        total_lateness += lateness_hours
         
         # Update State
         berths[0] = finish_time
         port_state[port] = berths
         ship_availability[ship] = finish_time
+        
+        # Simpan Detail HANYA jika diminta (untuk menghemat memori saat optimasi)
+        if return_detailed:
+            waiting_time = (berthing_time - physical_arrival).total_seconds() / 3600.0
+            detailed_results.append({
+                'Ship_Name': ship,
+                'Port_Name': port,
+                'ETA_Planned': planned_eta,
+                'Optimized_Priority': row['CAOA_Priority'],
+                'Queue_Time': row['Queue_Time'],
+                'Actual_Arrival': physical_arrival,
+                'Actual_Berth': berthing_time,
+                'Actual_Departure': finish_time,
+                'Delay_Hours': lateness_hours,
+                'Waiting_Time_Hours': waiting_time
+            })
             
-    return total_lateness
+    # RETURN LOGIC
+    if return_detailed:
+        return pd.DataFrame(detailed_results)
+    else:
+        return total_lateness
