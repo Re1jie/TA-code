@@ -1,0 +1,16 @@
+=== MEMULAI PERHITUNGAN METRIK (INDEX MERGE) ===
+✅ Validasi Sukses: Kedua file memiliki 617 baris.
+Menggabungkan data prioritas berdasarkan index...
+1. Menghitung Baseline (FCFS)...
+2. Menghitung Optimized (CAOA)...
+
+=============================================
+METRIK               | NILAI               
+---------------------------------------------
+Total Delay Baseline : 160,456.00 Jam
+Total Delay Optimized : 155,017.00 Jam
+---------------------------------------------
+Time Saved           : 5,439.00 Jam
+Efficiency Gain      : 3.39%
+=============================================
+Laporan detail disimpan ke: results_file/current/final_detailed_report.csv
