@@ -82,12 +82,12 @@ function [gBestScore,gBest,cg_curve] = CAOA(N,iter,lb,ub,dim,fobj,alpha,beta,gam
             n_depleted = sum(depleted);
             pos(depleted, :) = lb + (ub - lb) .* rand(n_depleted, dim);
             energies(depleted) = initial_energy;
-            for i = find(depleted)'
+            for i = find(depleted)
                 fitness(i) = fobj(pos(i, :));
             end
         end
         
-        %Update Global Optimal
+        % Update Global Optimal
         [min_fit, min_idx] = min(fitness);
         if min_fit < gBestScore
             gBestScore = min_fit;
