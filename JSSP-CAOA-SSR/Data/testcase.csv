@@ -1,0 +1,1891 @@
+NAMA_KAPAL,VOYAGE,PELABUHAN,ETA_HARI,ETA_TANGGAL,ETA_JAM,ETD_HARI,ETD_TANGGAL,ETD_JAM
+KM. AWU,01.2025,Kumai,Rabu,8-Jan-25,04:00,Rabu,8-Jan-25,14:00
+KM. AWU,01.2025,Surabaya,Kamis,9-Jan-25,17:00,Kamis,9-Jan-25,23:59
+KM. AWU,01.2025,Benoa,Sabtu,11-Jan-25,03:00,Sabtu,11-Jan-25,09:00
+KM. AWU,01.2025,Bima,Minggu,12-Jan-25,06:00,Minggu,12-Jan-25,08:00
+KM. AWU,01.2025,Waingapu,Minggu,12-Jan-25,22:00,Senin,13-Jan-25,01:00
+KM. AWU,01.2025,Ende,Senin,13-Jan-25,10:00,Senin,13-Jan-25,12:00
+KM. AWU,01.2025,Kupang,Selasa,14-Jan-25,01:00,Selasa,14-Jan-25,05:00
+KM. AWU,01.2025,Kalabahi,Selasa,14-Jan-25,18:00,Rabu,15-Jan-25,16:00
+KM. AWU,01.2025,Kupang,Kamis,16-Jan-25,05:00,Kamis,16-Jan-25,09:00
+KM. AWU,01.2025,Ende,Kamis,16-Jan-25,22:00,Jum'at,17-Jan-25,01:00
+KM. AWU,01.2025,Waingapu,Jum'at,17-Jan-25,10:00,Jum'at,17-Jan-25,13:00
+KM. AWU,01.2025,Bima,Sabtu,18-Jan-25,03:00,Sabtu,18-Jan-25,06:00
+KM. AWU,01.2025,Benoa,Minggu,19-Jan-25,03:00,Minggu,19-Jan-25,09:00
+KM. AWU,01.2025,Surabaya,Senin,20-Jan-25,13:00,Senin,20-Jan-25,18:00
+KM. AWU,01.2025,Kumai,Selasa,21-Jan-25,22:00,,,
+KM. AWU,02.2025,Kumai,Selasa,21-Jan-25,22:00,Kamis,23-Jan-25,04:00
+KM. AWU,02.2025,Surabaya,Jum'at,24-Jan-25,07:00,Jum'at,24-Jan-25,14:00
+KM. AWU,02.2025,Benoa,Sabtu,25-Jan-25,17:00,Sabtu,25-Jan-25,23:00
+KM. AWU,02.2025,Bima,Minggu,26-Jan-25,20:00,Minggu,26-Jan-25,22:00
+KM. AWU,02.2025,Waingapu,Senin,27-Jan-25,12:00,Senin,27-Jan-25,15:00
+KM. AWU,02.2025,Ende,Selasa,28-Jan-25,00:01,Selasa,28-Jan-25,02:00
+KM. AWU,02.2025,Kupang,Selasa,28-Jan-25,15:00,Selasa,28-Jan-25,19:00
+KM. AWU,02.2025,Kalabahi,Rabu,29-Jan-25,08:00,Rabu,29-Jan-25,15:00
+KM. AWU,02.2025,Kupang,Kamis,30-Jan-25,04:00,Kamis,30-Jan-25,08:00
+KM. AWU,02.2025,Ende,Kamis,30-Jan-25,21:00,Kamis,30-Jan-25,23:00
+KM. AWU,02.2025,Waingapu,Jum'at,31-Jan-25,08:00,Jum'at,31-Jan-25,11:00
+KM. AWU,02.2025,Bima,Sabtu,1-Feb-25,01:00,Sabtu,1-Feb-25,03:00
+KM. AWU,02.2025,Benoa,Minggu,2-Feb-25,00:01,Minggu,2-Feb-25,06:00
+KM. AWU,02.2025,Surabaya,Senin,3-Feb-25,10:00,Senin,3-Feb-25,14:00
+KM. AWU,02.2025,Kumai,Selasa,4-Feb-25,18:00,,,
+KM. AWU,03.2025,Semarang,Jum'at,7-Feb-25,10:00,Kamis,6-Mar-25,22:00
+KM. AWU,03.2025,Surabaya,Jum'at,7-Mar-25,17:00,Sabtu,8-Mar-25,10:00
+KM. AWU,03.2025,Benoa,Minggu,9-Mar-25,14:00,Minggu,9-Mar-25,20:00
+KM. AWU,03.2025,Bima,Senin,10-Mar-25,17:00,Senin,10-Mar-25,20:00
+KM. AWU,03.2025,Waingapu,Selasa,11-Mar-25,10:00,Selasa,11-Mar-25,13:00
+KM. AWU,03.2025,Ende,Selasa,11-Mar-25,22:00,Selasa,11-Mar-25,23:59
+KM. AWU,03.2025,Kupang,Rabu,12-Mar-25,13:00,Rabu,12-Mar-25,16:00
+KM. AWU,03.2025,Kalabahi,Kamis,13-Mar-25,05:00,Kamis,13-Mar-25,07:00
+KM. AWU,03.2025,Kupang,Kamis,13-Mar-25,20:00,Kamis,13-Mar-25,23:00
+KM. AWU,03.2025,Ende,Jum'at,14-Mar-25,12:00,Jum'at,14-Mar-25,14:00
+KM. AWU,03.2025,Waingapu,Jum'at,14-Mar-25,23:00,Sabtu,15-Mar-25,01:00
+KM. AWU,03.2025,Bima,Sabtu,15-Mar-25,15:00,Sabtu,15-Mar-25,17:00
+KM. AWU,03.2025,Benoa,Minggu,16-Mar-25,14:00,Minggu,16-Mar-25,17:00
+KM. AWU,03.2025,Surabaya,Senin,17-Mar-25,21:00,Senin,17-Mar-25,23:59
+KM. AWU,03.2025,Kumai,Rabu,19-Mar-25,04:00,Rabu,19-Mar-25,07:00
+KM. AWU,03.2025,Semarang,Kamis,20-Mar-25,09:00,Kamis,20-Mar-25,12:00
+KM. AWU,03.2025,Kumai,Jum'at,21-Mar-25,12:00,,,
+KM. AWU,04.2025,Kumai,Jum'at,21-Mar-25,12:00,Jum'at,21-Mar-25,15:00
+KM. AWU,04.2025,Semarang,Sabtu,22-Mar-25,16:00,Sabtu,22-Mar-25,19:00
+KM. AWU,04.2025,Kumai,Minggu,23-Mar-25,19:00,Minggu,23-Mar-25,22:00
+KM. AWU,04.2025,Surabaya,Selasa,25-Mar-25,03:00,Selasa,25-Mar-25,09:00
+KM. AWU,04.2025,Benoa,Rabu,26-Mar-25,12:00,Rabu,26-Mar-25,16:00
+KM. AWU,04.2025,Bima,Kamis,27-Mar-25,13:00,Kamis,27-Mar-25,15:00
+KM. AWU,04.2025,Waingapu,Jum'at,28-Mar-25,05:00,Jum'at,28-Mar-25,08:00
+KM. AWU,04.2025,Ende,Jum'at,28-Mar-25,17:00,Jum'at,28-Mar-25,19:00
+KM. AWU,04.2025,Kupang,Sabtu,29-Mar-25,08:00,Sabtu,29-Mar-25,12:00
+KM. AWU,04.2025,Kalabahi,Minggu,30-Mar-25,01:00,Minggu,30-Mar-25,03:00
+KM. AWU,04.2025,Kupang,Minggu,30-Mar-25,16:00,Minggu,30-Mar-25,20:00
+KM. AWU,04.2025,Ende,Senin,31-Mar-25,09:00,Senin,31-Mar-25,11:00
+KM. AWU,04.2025,Waingapu,Senin,31-Mar-25,20:00,Senin,31-Mar-25,23:00
+KM. AWU,04.2025,Bima,Selasa,1-Apr-25,13:00,Selasa,1-Apr-25,15:00
+KM. AWU,04.2025,Benoa,Rabu,2-Apr-25,13:00,Rabu,2-Apr-25,17:00
+KM. AWU,04.2025,Surabaya,Kamis,3-Apr-25,21:00,Kamis,3-Apr-25,23:00
+KM. AWU,04.2025,Kumai,Sabtu,5-Apr-25,03:00,,,
+KM. AWU,05.2025,Kumai,Sabtu,5-Apr-25,03:00,Sabtu,5-Apr-25,06:00
+KM. AWU,05.2025,Semarang,Minggu,6-Apr-25,07:00,Minggu,6-Apr-25,16:00
+KM. AWU,05.2025,Kumai,Senin,7-Apr-25,16:00,Selasa,8-Apr-25,04:00
+KM. AWU,05.2025,Surabaya,Rabu,9-Apr-25,09:00,Rabu,9-Apr-25,15:00
+KM. AWU,05.2025,Benoa,Kamis,10-Apr-25,18:00,Kamis,10-Apr-25,21:00
+KM. AWU,05.2025,Bima,Jum'at,11-Apr-25,18:00,Jum'at,11-Apr-25,20:00
+KM. AWU,05.2025,Waingapu,Sabtu,12-Apr-25,10:00,Sabtu,12-Apr-25,12:00
+KM. AWU,05.2025,Ende,Sabtu,12-Apr-25,21:00,Sabtu,12-Apr-25,23:00
+KM. AWU,05.2025,Kupang,Minggu,13-Apr-25,12:00,Minggu,13-Apr-25,16:00
+KM. AWU,05.2025,Kalabahi,Senin,14-Apr-25,05:00,Senin,14-Apr-25,07:00
+KM. AWU,05.2025,Kupang,Senin,14-Apr-25,20:00,Senin,14-Apr-25,23:59
+KM. AWU,05.2025,Ende,Selasa,15-Apr-25,13:00,Selasa,15-Apr-25,15:00
+KM. AWU,05.2025,Waingapu,Rabu,16-Apr-25,00:01,Rabu,16-Apr-25,03:00
+KM. AWU,05.2025,Bima,Rabu,16-Apr-25,17:00,Rabu,16-Apr-25,19:00
+KM. AWU,05.2025,Benoa,Kamis,17-Apr-25,16:00,Kamis,17-Apr-25,19:00
+KM. AWU,05.2025,Surabaya,Jum'at,18-Apr-25,23:00,Sabtu,19-Apr-25,02:00
+KM. AWU,05.2025,Kumai,Minggu,20-Apr-25,06:00,,,
+KM. BINAIYA,01.2025,Benoa,Jum'at,3-Jan-25,18:00,Sabtu,4-Jan-25,16:00
+KM. BINAIYA,01.2025,Bima,Minggu,5-Jan-25,15:00,Minggu,5-Jan-25,17:00
+KM. BINAIYA,01.2025,Labuan Bajo,Senin,6-Jan-25,01:00,Senin,6-Jan-25,03:00
+KM. BINAIYA,01.2025,Makassar,Senin,6-Jan-25,22:00,Selasa,7-Jan-25,03:00
+KM. BINAIYA,01.2025,Pare-Pare,Selasa,7-Jan-25,09:00,Selasa,7-Jan-25,11:00
+KM. BINAIYA,01.2025,Bontang,Rabu,8-Jan-25,14:00,Rabu,8-Jan-25,17:00
+KM. BINAIYA,01.2025,Pare-Pare,Kamis,9-Jan-25,20:00,Kamis,9-Jan-25,22:00
+KM. BINAIYA,01.2025,Makassar,Jum'at,10-Jan-25,04:00,Jum'at,10-Jan-25,09:00
+KM. BINAIYA,01.2025,Labuan Bajo,Sabtu,11-Jan-25,05:00,Sabtu,11-Jan-25,07:00
+KM. BINAIYA,01.2025,Bima,Sabtu,11-Jan-25,15:00,Sabtu,11-Jan-25,16:00
+KM. BINAIYA,01.2025,Benoa,Minggu,12-Jan-25,15:00,Minggu,12-Jan-25,19:00
+KM. BINAIYA,01.2025,Bima,Senin,13-Jan-25,18:00,Senin,13-Jan-25,21:00
+KM. BINAIYA,01.2025,Waingapu,Selasa,14-Jan-25,11:00,Selasa,14-Jan-25,13:00
+KM. BINAIYA,01.2025,Ende,Selasa,14-Jan-25,22:00,Selasa,14-Jan-25,23:59
+KM. BINAIYA,01.2025,Kupang,Rabu,15-Jan-25,13:00,Rabu,15-Jan-25,17:00
+KM. BINAIYA,01.2025,Ende,Kamis,16-Jan-25,06:00,Kamis,16-Jan-25,08:00
+KM. BINAIYA,01.2025,Waingapu,Kamis,16-Jan-25,17:00,Kamis,16-Jan-25,18:00
+KM. BINAIYA,01.2025,Bima,Jum'at,17-Jan-25,08:00,Jum'at,17-Jan-25,09:00
+KM. BINAIYA,01.2025,Benoa,Sabtu,18-Jan-25,08:00,,,
+KM. BINAIYA,02.2025,Benoa,Sabtu,18-Jan-25,08:00,Sabtu,18-Jan-25,23:59
+KM. BINAIYA,02.2025,Bima,Minggu,19-Jan-25,23:00,Senin,20-Jan-25,01:00
+KM. BINAIYA,02.2025,Labuan Bajo,Senin,20-Jan-25,09:00,Senin,20-Jan-25,11:00
+KM. BINAIYA,02.2025,Makassar,Selasa,21-Jan-25,06:00,Selasa,21-Jan-25,11:00
+KM. BINAIYA,02.2025,Awerange,Selasa,21-Jan-25,17:00,Selasa,21-Jan-25,19:00
+KM. BINAIYA,02.2025,Bontang,Rabu,22-Jan-25,22:00,Kamis,23-Jan-25,01:00
+KM. BINAIYA,02.2025,Pare-Pare,Jum'at,24-Jan-25,04:00,Jum'at,24-Jan-25,07:00
+KM. BINAIYA,02.2025,Bontang,Sabtu,25-Jan-25,11:00,Sabtu,25-Jan-25,14:00
+KM. BINAIYA,02.2025,Awerange,Minggu,26-Jan-25,17:00,Minggu,26-Jan-25,19:00
+KM. BINAIYA,02.2025,Makassar,Senin,27-Jan-25,01:00,Senin,27-Jan-25,05:00
+KM. BINAIYA,02.2025,Labuan Bajo,Selasa,28-Jan-25,00:01,Selasa,28-Jan-25,02:00
+KM. BINAIYA,02.2025,Bima,Selasa,28-Jan-25,10:00,Selasa,28-Jan-25,11:00
+KM. BINAIYA,02.2025,Benoa,Rabu,29-Jan-25,10:00,,,
+KM. BINAIYA,03.2025,Benoa,Rabu,29-Jan-25,10:00,Rabu,29-Jan-25,22:00
+KM. BINAIYA,03.2025,Bima,Kamis,30-Jan-25,21:00,Kamis,30-Jan-25,23:00
+KM. BINAIYA,03.2025,Labuan Bajo,Jum'at,31-Jan-25,07:00,Jum'at,31-Jan-25,09:00
+KM. BINAIYA,03.2025,Makassar,Sabtu,1-Feb-25,04:00,Sabtu,1-Feb-25,09:00
+KM. BINAIYA,03.2025,Pare-Pare,Sabtu,1-Feb-25,15:00,Sabtu,1-Feb-25,17:00
+KM. BINAIYA,03.2025,Bontang,Minggu,2-Feb-25,20:00,Minggu,2-Feb-25,23:00
+KM. BINAIYA,03.2025,Pare-Pare,Selasa,4-Feb-25,02:00,Selasa,4-Feb-25,04:00
+KM. BINAIYA,03.2025,Makassar,Selasa,4-Feb-25,10:00,Selasa,4-Feb-25,15:00
+KM. BINAIYA,03.2025,Labuan Bajo,Rabu,5-Feb-25,11:00,Rabu,5-Feb-25,13:00
+KM. BINAIYA,03.2025,Bima,Rabu,5-Feb-25,21:00,Rabu,5-Feb-25,22:00
+KM. BINAIYA,03.2025,Benoa,Kamis,6-Feb-25,21:00,Jum'at,7-Feb-25,01:00
+KM. BINAIYA,03.2025,Bima,Sabtu,8-Feb-25,00:01,Sabtu,8-Feb-25,03:00
+KM. BINAIYA,03.2025,Waingapu,Sabtu,8-Feb-25,17:00,Sabtu,8-Feb-25,19:00
+KM. BINAIYA,03.2025,Ende,Minggu,9-Feb-25,04:00,Minggu,9-Feb-25,06:00
+KM. BINAIYA,03.2025,Kupang,Minggu,9-Feb-25,19:00,Minggu,9-Feb-25,23:00
+KM. BINAIYA,03.2025,Ende,Senin,10-Feb-25,12:00,Senin,10-Feb-25,14:00
+KM. BINAIYA,03.2025,Waingapu,Senin,10-Feb-25,23:00,Senin,10-Feb-25,23:59
+KM. BINAIYA,03.2025,Bima,Selasa,11-Feb-25,14:00,Selasa,11-Feb-25,15:00
+KM. BINAIYA,03.2025,Benoa,Rabu,12-Feb-25,14:00,,,
+KM. BINAIYA,04.2025,Benoa,Rabu,12-Feb-25,14:00,Kamis,13-Feb-25,08:00
+KM. BINAIYA,04.2025,Bima,Jum'at,14-Feb-25,07:00,Jum'at,14-Feb-25,09:00
+KM. BINAIYA,04.2025,Labuan Bajo,Jum'at,14-Feb-25,17:00,Jum'at,14-Feb-25,19:00
+KM. BINAIYA,04.2025,Makassar,Sabtu,15-Feb-25,14:00,Sabtu,15-Feb-25,19:00
+KM. BINAIYA,04.2025,Awerange,Minggu,16-Feb-25,01:00,Minggu,16-Feb-25,03:00
+KM. BINAIYA,04.2025,Bontang,Senin,17-Feb-25,06:00,Senin,17-Feb-25,09:00
+KM. BINAIYA,04.2025,Pare-Pare,Selasa,18-Feb-25,12:00,Selasa,18-Feb-25,14:00
+KM. BINAIYA,04.2025,Bontang,Rabu,19-Feb-25,17:00,Rabu,19-Feb-25,21:00
+KM. BINAIYA,04.2025,Awerange,Jum'at,21-Feb-25,00:01,Jum'at,21-Feb-25,02:00
+KM. BINAIYA,04.2025,Makassar,Jum'at,21-Feb-25,08:00,Jum'at,21-Feb-25,12:00
+KM. BINAIYA,04.2025,Labuan Bajo,Sabtu,22-Feb-25,07:00,Sabtu,22-Feb-25,09:00
+KM. BINAIYA,04.2025,Bima,Sabtu,22-Feb-25,17:00,Sabtu,22-Feb-25,18:00
+KM. BINAIYA,04.2025,Benoa,Minggu,23-Feb-25,17:00,Senin,24-Feb-25,07:00
+KM. BINAIYA,04.2025,Labuan Bajo,Selasa,25-Feb-25,10:00,Selasa,25-Feb-25,13:00
+KM. BINAIYA,04.2025,Benoa,Rabu,26-Feb-25,16:00,,,
+KM. BINAIYA,05.2025,Benoa,Rabu,26-Feb-25,16:00,Kamis,27-Feb-25,08:00
+KM. BINAIYA,05.2025,Bima,Jum'at,28-Feb-25,07:00,Jum'at,28-Feb-25,09:00
+KM. BINAIYA,05.2025,Labuan Bajo,Jum'at,28-Feb-25,17:00,Jum'at,28-Feb-25,19:00
+KM. BINAIYA,05.2025,Makassar,Sabtu,1-Mar-25,14:00,Sabtu,1-Mar-25,19:00
+KM. BINAIYA,05.2025,Pare-Pare,Minggu,2-Mar-25,01:00,Minggu,2-Mar-25,03:00
+KM. BINAIYA,05.2025,Bontang,Senin,3-Mar-25,06:00,Senin,3-Mar-25,09:00
+KM. BINAIYA,05.2025,Pare-Pare,Selasa,4-Mar-25,12:00,Selasa,4-Mar-25,14:00
+KM. BINAIYA,05.2025,Makassar,Selasa,4-Mar-25,20:00,Rabu,5-Mar-25,01:00
+KM. BINAIYA,05.2025,Labuan Bajo,Rabu,5-Mar-25,21:00,Rabu,5-Mar-25,23:00
+KM. BINAIYA,05.2025,Bima,Kamis,6-Mar-25,07:00,Kamis,6-Mar-25,08:00
+KM. BINAIYA,05.2025,Benoa,Jum'at,7-Mar-25,07:00,Jum'at,7-Mar-25,11:00
+KM. BINAIYA,05.2025,Bima,Sabtu,8-Mar-25,10:00,Sabtu,8-Mar-25,13:00
+KM. BINAIYA,05.2025,Waingapu,Minggu,9-Mar-25,03:00,Minggu,9-Mar-25,05:00
+KM. BINAIYA,05.2025,Ende,Minggu,9-Mar-25,14:00,Minggu,9-Mar-25,16:00
+KM. BINAIYA,05.2025,Kupang,Senin,10-Mar-25,05:00,Senin,10-Mar-25,09:00
+KM. BINAIYA,05.2025,Ende,Senin,10-Mar-25,22:00,Senin,10-Mar-25,23:59
+KM. BINAIYA,05.2025,Waingapu,Selasa,11-Mar-25,09:00,Selasa,11-Mar-25,10:00
+KM. BINAIYA,05.2025,Bima,Rabu,12-Mar-25,00:01,Rabu,12-Mar-25,01:00
+KM. BINAIYA,05.2025,Benoa,Kamis,13-Mar-25,00:01,,,
+KM. BUKIT RAYA,01.2025,Tg. Priok,Kamis,26-Dec-24,04:00,Kamis,26-Dec-24,12:00
+KM. BUKIT RAYA,01.2025,Blinyu,Jum'at,27-Dec-24,16:00,Jum'at,27-Dec-24,17:00
+KM. BUKIT RAYA,01.2025,Kijang,Sabtu,28-Dec-24,08:00,Sabtu,28-Dec-24,11:00
+KM. BUKIT RAYA,01.2025,Letung,Minggu,29-Dec-24,00:01,Minggu,29-Dec-24,01:00
+KM. BUKIT RAYA,01.2025,Tarempa,Minggu,29-Dec-24,05:00,Minggu,29-Dec-24,07:00
+KM. BUKIT RAYA,01.2025,Natuna,Minggu,29-Dec-24,18:00,Minggu,29-Dec-24,21:00
+KM. BUKIT RAYA,01.2025,Midai,Senin,30-Dec-24,01:00,Senin,30-Dec-24,03:00
+KM. BUKIT RAYA,01.2025,Serasan,Senin,30-Dec-24,11:00,Senin,30-Dec-24,13:00
+KM. BUKIT RAYA,01.2025,Pontianak,Selasa,31-Dec-24,06:00,Selasa,31-Dec-24,09:00
+KM. BUKIT RAYA,01.2025,Surabaya,Kamis,2-Jan-25,10:00,Kamis,2-Jan-25,14:00
+KM. BUKIT RAYA,01.2025,Pontianak,Sabtu,4-Jan-25,11:00,Sabtu,4-Jan-25,13:00
+KM. BUKIT RAYA,01.2025,Serasan,Minggu,5-Jan-25,03:00,Minggu,5-Jan-25,05:00
+KM. BUKIT RAYA,01.2025,Midai,Minggu,5-Jan-25,13:00,Minggu,5-Jan-25,14:00
+KM. BUKIT RAYA,01.2025,Natuna,Minggu,5-Jan-25,18:00,Minggu,5-Jan-25,20:00
+KM. BUKIT RAYA,01.2025,Tarempa,Senin,6-Jan-25,07:00,Senin,6-Jan-25,08:00
+KM. BUKIT RAYA,01.2025,Letung,Senin,6-Jan-25,12:00,Senin,6-Jan-25,13:00
+KM. BUKIT RAYA,01.2025,Kijang,Selasa,7-Jan-25,03:00,Selasa,7-Jan-25,06:00
+KM. BUKIT RAYA,01.2025,Blinyu,Selasa,7-Jan-25,22:00,Selasa,7-Jan-25,23:00
+KM. BUKIT RAYA,01.2025,Tg. Priok,Kamis,9-Jan-25,03:00,,,
+KM. BUKIT RAYA,02.2025,Tg. Priok,Kamis,9-Jan-25,03:00,Kamis,9-Jan-25,11:00
+KM. BUKIT RAYA,02.2025,Blinyu,Jum'at,10-Jan-25,15:00,Jum'at,10-Jan-25,17:00
+KM. BUKIT RAYA,02.2025,Kijang,Sabtu,11-Jan-25,08:00,Sabtu,11-Jan-25,11:00
+KM. BUKIT RAYA,02.2025,Letung,Minggu,12-Jan-25,00:01,Minggu,12-Jan-25,01:00
+KM. BUKIT RAYA,02.2025,Tarempa,Minggu,12-Jan-25,05:00,Minggu,12-Jan-25,07:00
+KM. BUKIT RAYA,02.2025,Natuna,Minggu,12-Jan-25,18:00,Minggu,12-Jan-25,21:00
+KM. BUKIT RAYA,02.2025,Midai,Senin,13-Jan-25,01:00,Senin,13-Jan-25,02:00
+KM. BUKIT RAYA,02.2025,Serasan,Senin,13-Jan-25,10:00,Senin,13-Jan-25,12:00
+KM. BUKIT RAYA,02.2025,Pontianak,Selasa,14-Jan-25,05:00,Selasa,14-Jan-25,07:00
+KM. BUKIT RAYA,02.2025,Surabaya,Kamis,16-Jan-25,05:00,Kamis,16-Jan-25,09:00
+KM. BUKIT RAYA,02.2025,Pontianak,Sabtu,18-Jan-25,08:00,Sabtu,18-Jan-25,10:00
+KM. BUKIT RAYA,02.2025,Serasan,Minggu,19-Jan-25,01:00,Minggu,19-Jan-25,03:00
+KM. BUKIT RAYA,02.2025,Midai,Minggu,19-Jan-25,11:00,Minggu,19-Jan-25,12:00
+KM. BUKIT RAYA,02.2025,Natuna,Minggu,19-Jan-25,16:00,Minggu,19-Jan-25,18:00
+KM. BUKIT RAYA,02.2025,Tarempa,Senin,20-Jan-25,05:00,Senin,20-Jan-25,06:00
+KM. BUKIT RAYA,02.2025,Letung,Senin,20-Jan-25,10:00,Senin,20-Jan-25,11:00
+KM. BUKIT RAYA,02.2025,Kijang,Selasa,21-Jan-25,00:01,Selasa,21-Jan-25,03:00
+KM. BUKIT RAYA,02.2025,Blinyu,Selasa,21-Jan-25,18:00,Selasa,21-Jan-25,19:00
+KM. BUKIT RAYA,02.2025,Tg. Priok,Rabu,22-Jan-25,23:00,,,
+KM. BUKIT RAYA,04.2025,Tg. Priok,Minggu,9-Feb-25,01:00,Minggu,9-Feb-25,10:00
+KM. BUKIT RAYA,04.2025,Blinyu,Senin,10-Feb-25,14:00,Senin,10-Feb-25,15:00
+KM. BUKIT RAYA,04.2025,Kijang,Selasa,11-Feb-25,06:00,Selasa,11-Feb-25,09:00
+KM. BUKIT RAYA,04.2025,Letung,Selasa,11-Feb-25,22:00,Selasa,11-Feb-25,23:00
+KM. BUKIT RAYA,04.2025,Tarempa,Rabu,12-Feb-25,04:00,Rabu,12-Feb-25,06:00
+KM. BUKIT RAYA,04.2025,Natuna,Rabu,12-Feb-25,17:00,Rabu,12-Feb-25,20:00
+KM. BUKIT RAYA,04.2025,Midai,Kamis,13-Feb-25,00:01,Kamis,13-Feb-25,02:00
+KM. BUKIT RAYA,04.2025,Serasan,Kamis,13-Feb-25,10:00,Kamis,13-Feb-25,12:00
+KM. BUKIT RAYA,04.2025,Pontianak,Jum'at,14-Feb-25,06:00,Jum'at,14-Feb-25,08:00
+KM. BUKIT RAYA,04.2025,Surabaya,Minggu,16-Feb-25,05:00,Minggu,16-Feb-25,09:00
+KM. BUKIT RAYA,04.2025,Pontianak,Selasa,18-Feb-25,09:00,Selasa,18-Feb-25,11:00
+KM. BUKIT RAYA,04.2025,Serasan,Rabu,19-Feb-25,01:00,Rabu,19-Feb-25,03:00
+KM. BUKIT RAYA,04.2025,Midai,Rabu,19-Feb-25,11:00,Rabu,19-Feb-25,12:00
+KM. BUKIT RAYA,04.2025,Natuna,Rabu,19-Feb-25,16:00,Rabu,19-Feb-25,18:00
+KM. BUKIT RAYA,04.2025,Tarempa,Kamis,20-Feb-25,05:00,Kamis,20-Feb-25,06:00
+KM. BUKIT RAYA,04.2025,Letung,Kamis,20-Feb-25,10:00,Kamis,20-Feb-25,11:00
+KM. BUKIT RAYA,04.2025,Kijang,Jum'at,21-Feb-25,01:00,Jum'at,21-Feb-25,03:00
+KM. BUKIT RAYA,04.2025,Blinyu,Jum'at,21-Feb-25,19:00,Jum'at,21-Feb-25,20:00
+KM. BUKIT RAYA,04.2025,Tg. Priok,Minggu,23-Feb-25,00:01,,,
+KM. BUKIT RAYA,05.2025,Tg. Priok,Rabu,26-Feb-25,18:00,Kamis,27-Feb-25,03:00
+KM. BUKIT RAYA,05.2025,Blinyu,Jum'at,28-Feb-25,08:00,Jum'at,28-Feb-25,09:00
+KM. BUKIT RAYA,05.2025,Kijang,Sabtu,1-Mar-25,02:00,Sabtu,1-Mar-25,05:00
+KM. BUKIT RAYA,05.2025,Letung,Sabtu,1-Mar-25,19:00,Sabtu,1-Mar-25,21:00
+KM. BUKIT RAYA,05.2025,Tarempa,Minggu,2-Mar-25,02:00,Minggu,2-Mar-25,04:00
+KM. BUKIT RAYA,05.2025,Natuna,Minggu,2-Mar-25,17:00,Minggu,2-Mar-25,20:00
+KM. BUKIT RAYA,05.2025,Midai,Senin,3-Mar-25,00:01,Senin,3-Mar-25,02:00
+KM. BUKIT RAYA,05.2025,Serasan,Senin,3-Mar-25,11:00,Senin,3-Mar-25,14:00
+KM. BUKIT RAYA,05.2025,Pontianak,Selasa,4-Mar-25,08:00,Selasa,4-Mar-25,17:00
+KM. BUKIT RAYA,05.2025,Surabaya,Kamis,6-Mar-25,16:00,Kamis,6-Mar-25,21:00
+KM. BUKIT RAYA,05.2025,Pontianak,Minggu,9-Mar-25,02:00,Minggu,9-Mar-25,04:00
+KM. BUKIT RAYA,05.2025,Serasan,Minggu,9-Mar-25,19:00,Minggu,9-Mar-25,21:00
+KM. BUKIT RAYA,05.2025,Midai,Senin,10-Mar-25,05:00,Senin,10-Mar-25,06:00
+KM. BUKIT RAYA,05.2025,Natuna,Senin,10-Mar-25,10:00,Senin,10-Mar-25,12:00
+KM. BUKIT RAYA,05.2025,Tarempa,Senin,10-Mar-25,23:00,Senin,10-Mar-25,23:59
+KM. BUKIT RAYA,05.2025,Letung,Selasa,11-Mar-25,04:00,Selasa,11-Mar-25,05:00
+KM. BUKIT RAYA,05.2025,Kijang,Selasa,11-Mar-25,19:00,Selasa,11-Mar-25,22:00
+KM. BUKIT RAYA,05.2025,Blinyu,Rabu,12-Mar-25,14:00,Rabu,12-Mar-25,15:00
+KM. BUKIT RAYA,05.2025,Tg. Priok,Kamis,13-Mar-25,19:00,,,
+KM. BUKIT SIGUNTANG,01.2025,Makassar,Sabtu,28-Dec-24,07:00,Sabtu,28-Dec-24,23:59
+KM. BUKIT SIGUNTANG,01.2025,Pare-Pare,Minggu,29-Dec-24,05:00,Minggu,29-Dec-24,09:00
+KM. BUKIT SIGUNTANG,01.2025,Balikpapan,Senin,30-Dec-24,00:01,Senin,30-Dec-24,02:00
+KM. BUKIT SIGUNTANG,01.2025,Tarakan,Selasa,31-Dec-24,03:00,Selasa,31-Dec-24,07:00
+KM. BUKIT SIGUNTANG,01.2025,Nunukan,Selasa,31-Dec-24,13:00,Selasa,31-Dec-24,16:00
+KM. BUKIT SIGUNTANG,01.2025,Balikpapan,Rabu,1-Jan-25,19:00,Rabu,1-Jan-25,21:00
+KM. BUKIT SIGUNTANG,01.2025,Pare-Pare,Kamis,2-Jan-25,12:00,Kamis,2-Jan-25,16:00
+KM. BUKIT SIGUNTANG,01.2025,Makassar,Kamis,2-Jan-25,21:00,Kamis,2-Jan-25,23:59
+KM. BUKIT SIGUNTANG,01.2025,Maumere,Jum'at,3-Jan-25,18:00,Jum'at,3-Jan-25,20:00
+KM. BUKIT SIGUNTANG,01.2025,Lewoleba,Sabtu,4-Jan-25,02:00,Sabtu,4-Jan-25,04:00
+KM. BUKIT SIGUNTANG,01.2025,Kupang,Sabtu,4-Jan-25,11:00,Sabtu,4-Jan-25,17:00
+KM. BUKIT SIGUNTANG,01.2025,Lewoleba,Minggu,5-Jan-25,00:01,Minggu,5-Jan-25,02:00
+KM. BUKIT SIGUNTANG,01.2025,Maumere,Minggu,5-Jan-25,08:00,Minggu,5-Jan-25,10:00
+KM. BUKIT SIGUNTANG,01.2025,Makassar,Senin,6-Jan-25,04:00,Senin,6-Jan-25,10:00
+KM. BUKIT SIGUNTANG,01.2025,Pare-Pare,Senin,6-Jan-25,15:00,Senin,6-Jan-25,19:00
+KM. BUKIT SIGUNTANG,01.2025,Balikpapan,Selasa,7-Jan-25,11:00,Selasa,7-Jan-25,13:00
+KM. BUKIT SIGUNTANG,01.2025,Tarakan,Rabu,8-Jan-25,13:00,Rabu,8-Jan-25,17:00
+KM. BUKIT SIGUNTANG,01.2025,Nunukan,Rabu,8-Jan-25,23:00,Kamis,9-Jan-25,01:00
+KM. BUKIT SIGUNTANG,01.2025,Balikpapan,Jum'at,10-Jan-25,04:00,Jum'at,10-Jan-25,06:00
+KM. BUKIT SIGUNTANG,01.2025,Pare-Pare,Jum'at,10-Jan-25,22:00,Sabtu,11-Jan-25,02:00
+KM. BUKIT SIGUNTANG,01.2025,Makassar,Sabtu,11-Jan-25,07:00,,,
+KM. BUKIT SIGUNTANG,02.2025,Makassar,Sabtu,11-Jan-25,07:00,Sabtu,11-Jan-25,23:59
+KM. BUKIT SIGUNTANG,02.2025,Pare-Pare,Minggu,12-Jan-25,05:00,Minggu,12-Jan-25,09:00
+KM. BUKIT SIGUNTANG,02.2025,Balikpapan,Senin,13-Jan-25,00:01,Senin,13-Jan-25,02:00
+KM. BUKIT SIGUNTANG,02.2025,Tarakan,Selasa,14-Jan-25,03:00,Selasa,14-Jan-25,07:00
+KM. BUKIT SIGUNTANG,02.2025,Nunukan,Selasa,14-Jan-25,13:00,Selasa,14-Jan-25,16:00
+KM. BUKIT SIGUNTANG,02.2025,Balikpapan,Rabu,15-Jan-25,19:00,Rabu,15-Jan-25,21:00
+KM. BUKIT SIGUNTANG,02.2025,Pare-Pare,Kamis,16-Jan-25,12:00,Kamis,16-Jan-25,16:00
+KM. BUKIT SIGUNTANG,02.2025,Makassar,Kamis,16-Jan-25,21:00,Kamis,16-Jan-25,23:59
+KM. BUKIT SIGUNTANG,02.2025,Maumere,Jum'at,17-Jan-25,18:00,Jum'at,17-Jan-25,20:00
+KM. BUKIT SIGUNTANG,02.2025,Lewoleba,Sabtu,18-Jan-25,02:00,Sabtu,18-Jan-25,04:00
+KM. BUKIT SIGUNTANG,02.2025,Kupang,Sabtu,18-Jan-25,11:00,Sabtu,18-Jan-25,17:00
+KM. BUKIT SIGUNTANG,02.2025,Lewoleba,Minggu,19-Jan-25,00:01,Minggu,19-Jan-25,02:00
+KM. BUKIT SIGUNTANG,02.2025,Maumere,Minggu,19-Jan-25,08:00,Minggu,19-Jan-25,10:00
+KM. BUKIT SIGUNTANG,02.2025,Makassar,Senin,20-Jan-25,04:00,Senin,20-Jan-25,10:00
+KM. BUKIT SIGUNTANG,02.2025,Pare-Pare,Senin,20-Jan-25,15:00,Senin,20-Jan-25,19:00
+KM. BUKIT SIGUNTANG,02.2025,Balikpapan,Selasa,21-Jan-25,11:00,Selasa,21-Jan-25,13:00
+KM. BUKIT SIGUNTANG,02.2025,Tarakan,Rabu,22-Jan-25,13:00,Rabu,22-Jan-25,17:00
+KM. BUKIT SIGUNTANG,02.2025,Nunukan,Rabu,22-Jan-25,23:00,Kamis,23-Jan-25,01:00
+KM. BUKIT SIGUNTANG,02.2025,Balikpapan,Jum'at,24-Jan-25,04:00,Jum'at,24-Jan-25,06:00
+KM. BUKIT SIGUNTANG,02.2025,Pare-Pare,Jum'at,24-Jan-25,22:00,Sabtu,25-Jan-25,02:00
+KM. BUKIT SIGUNTANG,02.2025,Makassar,Sabtu,25-Jan-25,07:00,,,
+KM. BUKIT SIGUNTANG,03.2025,Makassar,Sabtu,25-Jan-25,07:00,Sabtu,25-Jan-25,23:59
+KM. BUKIT SIGUNTANG,03.2025,Pare-Pare,Minggu,26-Jan-25,05:00,Minggu,26-Jan-25,09:00
+KM. BUKIT SIGUNTANG,03.2025,Balikpapan,Senin,27-Jan-25,00:01,Senin,27-Jan-25,02:00
+KM. BUKIT SIGUNTANG,03.2025,Tarakan,Selasa,28-Jan-25,03:00,Selasa,28-Jan-25,07:00
+KM. BUKIT SIGUNTANG,03.2025,Nunukan,Selasa,28-Jan-25,13:00,Selasa,28-Jan-25,16:00
+KM. BUKIT SIGUNTANG,03.2025,Balikpapan,Rabu,29-Jan-25,19:00,Rabu,29-Jan-25,21:00
+KM. BUKIT SIGUNTANG,03.2025,Pare-Pare,Kamis,30-Jan-25,12:00,Kamis,30-Jan-25,16:00
+KM. BUKIT SIGUNTANG,03.2025,Makassar,Kamis,30-Jan-25,21:00,Kamis,30-Jan-25,23:59
+KM. BUKIT SIGUNTANG,03.2025,Maumere,Jum'at,31-Jan-25,18:00,Jum'at,31-Jan-25,20:00
+KM. BUKIT SIGUNTANG,03.2025,Lewoleba,Sabtu,1-Feb-25,02:00,Sabtu,1-Feb-25,04:00
+KM. BUKIT SIGUNTANG,03.2025,Kupang,Sabtu,1-Feb-25,11:00,Sabtu,1-Feb-25,17:00
+KM. BUKIT SIGUNTANG,03.2025,Lewoleba,Minggu,2-Feb-25,00:01,Minggu,2-Feb-25,02:00
+KM. BUKIT SIGUNTANG,03.2025,Maumere,Minggu,2-Feb-25,08:00,Minggu,2-Feb-25,10:00
+KM. BUKIT SIGUNTANG,03.2025,Makassar,Senin,3-Feb-25,04:00,Senin,3-Feb-25,10:00
+KM. BUKIT SIGUNTANG,03.2025,Pare-Pare,Senin,3-Feb-25,15:00,Senin,3-Feb-25,19:00
+KM. BUKIT SIGUNTANG,03.2025,Balikpapan,Selasa,4-Feb-25,11:00,Selasa,4-Feb-25,13:00
+KM. BUKIT SIGUNTANG,03.2025,Tarakan,Rabu,5-Feb-25,13:00,Rabu,5-Feb-25,17:00
+KM. BUKIT SIGUNTANG,03.2025,Nunukan,Rabu,5-Feb-25,23:00,Kamis,6-Feb-25,01:00
+KM. BUKIT SIGUNTANG,03.2025,Balikpapan,Jum'at,7-Feb-25,04:00,Jum'at,7-Feb-25,06:00
+KM. BUKIT SIGUNTANG,03.2025,Pare-Pare,Jum'at,7-Feb-25,22:00,Sabtu,8-Feb-25,02:00
+KM. BUKIT SIGUNTANG,03.2025,Makassar,Sabtu,8-Feb-25,07:00,,,
+KM. BUKIT SIGUNTANG,04.2025,Makassar,Sabtu,8-Feb-25,07:00,Sabtu,8-Feb-25,23:59
+KM. BUKIT SIGUNTANG,04.2025,Pare-Pare,Minggu,9-Feb-25,05:00,Minggu,9-Feb-25,09:00
+KM. BUKIT SIGUNTANG,04.2025,Balikpapan,Senin,10-Feb-25,00:01,Senin,10-Feb-25,02:00
+KM. BUKIT SIGUNTANG,04.2025,Tarakan,Selasa,11-Feb-25,03:00,Selasa,11-Feb-25,07:00
+KM. BUKIT SIGUNTANG,04.2025,Nunukan,Selasa,11-Feb-25,13:00,Selasa,11-Feb-25,16:00
+KM. BUKIT SIGUNTANG,04.2025,Balikpapan,Rabu,12-Feb-25,19:00,Rabu,12-Feb-25,21:00
+KM. BUKIT SIGUNTANG,04.2025,Pare-Pare,Kamis,13-Feb-25,12:00,Kamis,13-Feb-25,16:00
+KM. BUKIT SIGUNTANG,04.2025,Makassar,Kamis,13-Feb-25,21:00,Kamis,13-Feb-25,23:59
+KM. BUKIT SIGUNTANG,04.2025,Maumere,Jum'at,14-Feb-25,18:00,Jum'at,14-Feb-25,20:00
+KM. BUKIT SIGUNTANG,04.2025,Lewoleba,Sabtu,15-Feb-25,02:00,Sabtu,15-Feb-25,04:00
+KM. BUKIT SIGUNTANG,04.2025,Kupang,Sabtu,15-Feb-25,11:00,Sabtu,15-Feb-25,17:00
+KM. BUKIT SIGUNTANG,04.2025,Lewoleba,Minggu,16-Feb-25,00:01,Minggu,16-Feb-25,02:00
+KM. BUKIT SIGUNTANG,04.2025,Maumere,Minggu,16-Feb-25,08:00,Minggu,16-Feb-25,10:00
+KM. BUKIT SIGUNTANG,04.2025,Makassar,Senin,17-Feb-25,04:00,Senin,17-Feb-25,10:00
+KM. BUKIT SIGUNTANG,04.2025,Pare-Pare,Senin,17-Feb-25,15:00,Senin,17-Feb-25,19:00
+KM. BUKIT SIGUNTANG,04.2025,Balikpapan,Selasa,18-Feb-25,11:00,Selasa,18-Feb-25,13:00
+KM. BUKIT SIGUNTANG,04.2025,Tarakan,Rabu,19-Feb-25,13:00,Rabu,19-Feb-25,17:00
+KM. BUKIT SIGUNTANG,04.2025,Nunukan,Rabu,19-Feb-25,23:00,Kamis,20-Feb-25,01:00
+KM. BUKIT SIGUNTANG,04.2025,Balikpapan,Jum'at,21-Feb-25,04:00,Jum'at,21-Feb-25,06:00
+KM. BUKIT SIGUNTANG,04.2025,Pare-Pare,Jum'at,21-Feb-25,22:00,Sabtu,22-Feb-25,02:00
+KM. BUKIT SIGUNTANG,04.2025,Makassar,Sabtu,22-Feb-25,07:00,,,
+KM. BUKIT SIGUNTANG,05.2025,Makassar,Sabtu,22-Feb-25,07:00,Sabtu,22-Feb-25,23:59
+KM. BUKIT SIGUNTANG,05.2025,Pare-Pare,Minggu,23-Feb-25,05:00,Minggu,23-Feb-25,09:00
+KM. BUKIT SIGUNTANG,05.2025,Balikpapan,Senin,24-Feb-25,00:01,Senin,24-Feb-25,02:00
+KM. BUKIT SIGUNTANG,05.2025,Tarakan,Selasa,25-Feb-25,03:00,Selasa,25-Feb-25,07:00
+KM. BUKIT SIGUNTANG,05.2025,Nunukan,Selasa,25-Feb-25,13:00,Selasa,25-Feb-25,16:00
+KM. BUKIT SIGUNTANG,05.2025,Balikpapan,Rabu,26-Feb-25,19:00,Rabu,26-Feb-25,21:00
+KM. BUKIT SIGUNTANG,05.2025,Pare-Pare,Kamis,27-Feb-25,12:00,Kamis,27-Feb-25,16:00
+KM. BUKIT SIGUNTANG,05.2025,Makassar,Kamis,27-Feb-25,21:00,Kamis,27-Feb-25,23:59
+KM. BUKIT SIGUNTANG,05.2025,Maumere,Jum'at,28-Feb-25,18:00,Jum'at,28-Feb-25,20:00
+KM. BUKIT SIGUNTANG,05.2025,Lewoleba,Sabtu,1-Mar-25,02:00,Sabtu,1-Mar-25,04:00
+KM. BUKIT SIGUNTANG,05.2025,Kupang,Sabtu,1-Mar-25,11:00,Sabtu,1-Mar-25,17:00
+KM. BUKIT SIGUNTANG,05.2025,Lewoleba,Minggu,2-Mar-25,00:01,Minggu,2-Mar-25,02:00
+KM. BUKIT SIGUNTANG,05.2025,Maumere,Minggu,2-Mar-25,08:00,Minggu,2-Mar-25,10:00
+KM. BUKIT SIGUNTANG,05.2025,Makassar,Senin,3-Mar-25,04:00,Senin,3-Mar-25,10:00
+KM. BUKIT SIGUNTANG,05.2025,Pare-Pare,Senin,3-Mar-25,15:00,Senin,3-Mar-25,19:00
+KM. BUKIT SIGUNTANG,05.2025,Balikpapan,Selasa,4-Mar-25,11:00,Selasa,4-Mar-25,13:00
+KM. BUKIT SIGUNTANG,05.2025,Tarakan,Rabu,5-Mar-25,13:00,Rabu,5-Mar-25,17:00
+KM. BUKIT SIGUNTANG,05.2025,Nunukan,Rabu,5-Mar-25,23:00,Kamis,6-Mar-25,01:00
+KM. BUKIT SIGUNTANG,05.2025,Balikpapan,Jum'at,7-Mar-25,04:00,Jum'at,7-Mar-25,06:00
+KM. BUKIT SIGUNTANG,05.2025,Pare-Pare,Jum'at,7-Mar-25,22:00,Sabtu,8-Mar-25,02:00
+KM. BUKIT SIGUNTANG,05.2025,Makassar,Sabtu,8-Mar-25,07:00,,,
+KM. CIREMAI,01.2025,Tg. Priok,Minggu,29-Dec-24,05:00,Senin,30-Dec-24,13:00
+KM. CIREMAI,01.2025,Surabaya,Selasa,31-Dec-24,15:00,Selasa,31-Dec-24,18:00
+KM. CIREMAI,01.2025,Makassar,Rabu,1-Jan-25,23:00,Kamis,2-Jan-25,02:00
+KM. CIREMAI,01.2025,Bau-Bau,Kamis,2-Jan-25,17:00,Kamis,2-Jan-25,19:00
+KM. CIREMAI,01.2025,Ambon,Jum'at,3-Jan-25,20:00,Jum'at,3-Jan-25,23:00
+KM. CIREMAI,01.2025,Sorong,Sabtu,4-Jan-25,20:00,Sabtu,4-Jan-25,23:00
+KM. CIREMAI,01.2025,Serui,Minggu,5-Jan-25,22:00,Minggu,5-Jan-25,23:59
+KM. CIREMAI,01.2025,Jayapura,Senin,6-Jan-25,20:00,Selasa,7-Jan-25,01:00
+KM. CIREMAI,01.2025,Serui,Selasa,7-Jan-25,23:00,Rabu,8-Jan-25,01:00
+KM. CIREMAI,01.2025,Sorong,Kamis,9-Jan-25,01:00,Kamis,9-Jan-25,04:00
+KM. CIREMAI,01.2025,Serui,Jum'at,10-Jan-25,03:00,Jum'at,10-Jan-25,05:00
+KM. CIREMAI,01.2025,Jayapura,Sabtu,11-Jan-25,01:00,Sabtu,11-Jan-25,06:00
+KM. CIREMAI,01.2025,Serui,Minggu,12-Jan-25,04:00,Minggu,12-Jan-25,06:00
+KM. CIREMAI,01.2025,Sorong,Senin,13-Jan-25,07:00,Senin,13-Jan-25,10:00
+KM. CIREMAI,01.2025,Ambon,Selasa,14-Jan-25,10:00,Selasa,14-Jan-25,13:00
+KM. CIREMAI,01.2025,Bau-Bau,Rabu,15-Jan-25,16:00,Rabu,15-Jan-25,19:00
+KM. CIREMAI,01.2025,Makassar,Kamis,16-Jan-25,12:00,Kamis,16-Jan-25,15:00
+KM. CIREMAI,01.2025,Surabaya,Jum'at,17-Jan-25,22:00,Jum'at,17-Jan-25,23:59
+KM. CIREMAI,01.2025,Tg. Priok,Minggu,19-Jan-25,03:00,,,
+KM. CIREMAI,02.2025,Tg. Priok,Minggu,19-Jan-25,03:00,Minggu,19-Jan-25,22:00
+KM. CIREMAI,02.2025,Surabaya,Selasa,21-Jan-25,03:00,Selasa,21-Jan-25,07:00
+KM. CIREMAI,02.2025,Makassar,Rabu,22-Jan-25,13:00,Rabu,22-Jan-25,17:00
+KM. CIREMAI,02.2025,Bau-Bau,Kamis,23-Jan-25,09:00,Kamis,23-Jan-25,11:00
+KM. CIREMAI,02.2025,Ambon,Jum'at,24-Jan-25,13:00,Jum'at,24-Jan-25,16:00
+KM. CIREMAI,02.2025,Sorong,Sabtu,25-Jan-25,14:00,Sabtu,25-Jan-25,16:00
+KM. CIREMAI,02.2025,Serui,Minggu,26-Jan-25,16:00,Minggu,26-Jan-25,18:00
+KM. CIREMAI,02.2025,Jayapura,Senin,27-Jan-25,14:00,Senin,27-Jan-25,19:00
+KM. CIREMAI,02.2025,Serui,Selasa,28-Jan-25,17:00,Selasa,28-Jan-25,19:00
+KM. CIREMAI,02.2025,Sorong,Rabu,29-Jan-25,18:00,Rabu,29-Jan-25,21:00
+KM. CIREMAI,02.2025,Ambon,Kamis,30-Jan-25,20:00,Kamis,30-Jan-25,23:00
+KM. CIREMAI,02.2025,Bau-Bau,Sabtu,1-Feb-25,02:00,Sabtu,1-Feb-25,04:00
+KM. CIREMAI,02.2025,Makassar,Sabtu,1-Feb-25,21:00,Sabtu,1-Feb-25,23:59
+KM. CIREMAI,02.2025,Surabaya,Senin,3-Feb-25,06:00,Senin,3-Feb-25,08:00
+KM. CIREMAI,02.2025,Tg. Priok,Selasa,4-Feb-25,12:00,,,
+KM. CIREMAI,03.2025,Tg. Priok,Selasa,4-Feb-25,12:00,Rabu,5-Feb-25,22:00
+KM. CIREMAI,03.2025,Surabaya,Jum'at,7-Feb-25,01:00,Jum'at,7-Feb-25,05:00
+KM. CIREMAI,03.2025,Makassar,Sabtu,8-Feb-25,10:00,Sabtu,8-Feb-25,14:00
+KM. CIREMAI,03.2025,Bau-Bau,Minggu,9-Feb-25,07:00,Minggu,9-Feb-25,09:00
+KM. CIREMAI,03.2025,Ambon,Senin,10-Feb-25,10:00,Senin,10-Feb-25,13:00
+KM. CIREMAI,03.2025,Sorong,Selasa,11-Feb-25,11:00,Selasa,11-Feb-25,14:00
+KM. CIREMAI,03.2025,Serui,Rabu,12-Feb-25,14:00,Rabu,12-Feb-25,16:00
+KM. CIREMAI,03.2025,Jayapura,Kamis,13-Feb-25,11:00,Kamis,13-Feb-25,17:00
+KM. CIREMAI,03.2025,Serui,Jum'at,14-Feb-25,15:00,Jum'at,14-Feb-25,17:00
+KM. CIREMAI,03.2025,Sorong,Sabtu,15-Feb-25,16:00,Sabtu,15-Feb-25,19:00
+KM. CIREMAI,03.2025,Ambon,Minggu,16-Feb-25,17:00,Minggu,16-Feb-25,20:00
+KM. CIREMAI,03.2025,Bau-Bau,Senin,17-Feb-25,21:00,Senin,17-Feb-25,23:00
+KM. CIREMAI,03.2025,Makassar,Selasa,18-Feb-25,15:00,Selasa,18-Feb-25,18:00
+KM. CIREMAI,03.2025,Surabaya,Rabu,19-Feb-25,23:00,Kamis,20-Feb-25,01:00
+KM. CIREMAI,03.2025,Tg. Priok,Jum'at,21-Feb-25,04:00,,,
+KM. CIREMAI,04.2025,Tg. Priok,Jum'at,21-Feb-25,04:00,Jum'at,21-Feb-25,19:00
+KM. CIREMAI,04.2025,Surabaya,Sabtu,22-Feb-25,22:00,Minggu,23-Feb-25,02:00
+KM. CIREMAI,04.2025,Makassar,Senin,24-Feb-25,08:00,Senin,24-Feb-25,12:00
+KM. CIREMAI,04.2025,Bau-Bau,Selasa,25-Feb-25,04:00,Selasa,25-Feb-25,06:00
+KM. CIREMAI,04.2025,Ambon,Rabu,26-Feb-25,08:00,Rabu,26-Feb-25,11:00
+KM. CIREMAI,04.2025,Sorong,Kamis,27-Feb-25,09:00,Kamis,27-Feb-25,12:00
+KM. CIREMAI,04.2025,Ambon,Jum'at,28-Feb-25,11:00,Jum'at,28-Feb-25,14:00
+KM. CIREMAI,04.2025,Bau-Bau,Sabtu,1-Mar-25,17:00,Sabtu,1-Mar-25,19:00
+KM. CIREMAI,04.2025,Makassar,Minggu,2-Mar-25,12:00,Minggu,2-Mar-25,15:00
+KM. CIREMAI,04.2025,Surabaya,Senin,3-Mar-25,22:00,Senin,3-Mar-25,23:59
+KM. CIREMAI,04.2025,Tg. Priok,Rabu,5-Mar-25,03:00,,,
+KM. CIREMAI,05.2025,Tg. Priok,Rabu,5-Mar-25,03:00,Rabu,5-Mar-25,11:00
+KM. CIREMAI,05.2025,Surabaya,Kamis,6-Mar-25,12:00,Kamis,6-Mar-25,15:00
+KM. CIREMAI,05.2025,Makassar,Jum'at,7-Mar-25,20:00,Jum'at,7-Mar-25,23:00
+KM. CIREMAI,05.2025,Bau-Bau,Sabtu,8-Mar-25,15:00,Sabtu,8-Mar-25,17:00
+KM. CIREMAI,05.2025,Sorong,Senin,10-Mar-25,11:00,Senin,10-Mar-25,14:00
+KM. CIREMAI,05.2025,Manokwari,Selasa,11-Mar-25,03:00,Selasa,11-Mar-25,05:00
+KM. CIREMAI,05.2025,Biak,Selasa,11-Mar-25,14:00,Selasa,11-Mar-25,16:00
+KM. CIREMAI,05.2025,Jayapura,Rabu,12-Mar-25,12:00,Rabu,12-Mar-25,17:00
+KM. CIREMAI,05.2025,Serui,Kamis,13-Mar-25,14:00,Kamis,13-Mar-25,16:00
+KM. CIREMAI,05.2025,Biak,Jum'at,14-Mar-25,00:01,Jum'at,14-Mar-25,02:00
+KM. CIREMAI,05.2025,Manokwari,Jum'at,14-Mar-25,11:00,Jum'at,14-Mar-25,13:00
+KM. CIREMAI,05.2025,Sorong,Sabtu,15-Mar-25,02:00,Sabtu,15-Mar-25,04:00
+KM. CIREMAI,05.2025,Ambon,Minggu,16-Mar-25,00:01,Minggu,16-Mar-25,02:00
+KM. CIREMAI,05.2025,Namlea,Minggu,16-Mar-25,08:00,Minggu,16-Mar-25,10:00
+KM. CIREMAI,05.2025,Bau-Bau,Senin,17-Mar-25,08:00,Senin,17-Mar-25,10:00
+KM. CIREMAI,05.2025,Makassar,Selasa,18-Mar-25,03:00,Selasa,18-Mar-25,06:00
+KM. CIREMAI,05.2025,Surabaya,Rabu,19-Mar-25,10:00,Rabu,19-Mar-25,13:00
+KM. CIREMAI,05.2025,Tg. Priok,Kamis,20-Mar-25,15:00,,,
+KM. DOBONSOLO,01.2025,Tg. Priok,Selasa,7-Jan-25,14:00,Rabu,8-Jan-25,10:00
+KM. DOBONSOLO,01.2025,Surabaya,Kamis,9-Jan-25,13:00,Kamis,9-Jan-25,17:00
+KM. DOBONSOLO,01.2025,Makassar,Jum'at,10-Jan-25,21:00,Jum'at,10-Jan-25,23:59
+KM. DOBONSOLO,01.2025,Bau-Bau,Sabtu,11-Jan-25,16:00,Sabtu,11-Jan-25,18:00
+KM. DOBONSOLO,01.2025,Sorong,Senin,13-Jan-25,12:00,Senin,13-Jan-25,15:00
+KM. DOBONSOLO,01.2025,Manokwari,Selasa,14-Jan-25,07:00,Selasa,14-Jan-25,10:00
+KM. DOBONSOLO,01.2025,Sorong,Rabu,15-Jan-25,02:00,Rabu,15-Jan-25,05:00
+KM. DOBONSOLO,01.2025,Bau-Bau,Kamis,16-Jan-25,22:00,Kamis,16-Jan-25,23:59
+KM. DOBONSOLO,01.2025,Makassar,Jum'at,17-Jan-25,16:00,Jum'at,17-Jan-25,19:00
+KM. DOBONSOLO,01.2025,Surabaya,Minggu,19-Jan-25,02:00,Minggu,19-Jan-25,04:00
+KM. DOBONSOLO,01.2025,Tg. Priok,Senin,20-Jan-25,08:00,,,
+KM. DOBONSOLO,02.2025,Tg. Priok,Senin,20-Jan-25,12:00,Kamis,20-Feb-25,23:59
+KM. DOBONSOLO,02.2025,Surabaya,Sabtu,22-Feb-25,03:00,Sabtu,22-Feb-25,07:00
+KM. DOBONSOLO,02.2025,Makassar,Minggu,23-Feb-25,13:00,Minggu,23-Feb-25,17:00
+KM. DOBONSOLO,02.2025,Bau-Bau,Senin,24-Feb-25,09:00,Senin,24-Feb-25,12:00
+KM. DOBONSOLO,02.2025,Sorong,Rabu,26-Feb-25,06:00,Rabu,26-Feb-25,10:00
+KM. DOBONSOLO,02.2025,Manokwari,Kamis,27-Feb-25,02:00,Kamis,27-Feb-25,05:00
+KM. DOBONSOLO,02.2025,Biak,Kamis,27-Feb-25,15:00,Kamis,27-Feb-25,18:00
+KM. DOBONSOLO,02.2025,Jayapura,Jum'at,28-Feb-25,16:00,Jum'at,28-Feb-25,22:00
+KM. DOBONSOLO,02.2025,Biak,Sabtu,1-Mar-25,20:00,Sabtu,1-Mar-25,23:00
+KM. DOBONSOLO,02.2025,Manokwari,Minggu,2-Mar-25,10:00,Minggu,2-Mar-25,13:00
+KM. DOBONSOLO,02.2025,Sorong,Senin,3-Mar-25,05:00,Senin,3-Mar-25,09:00
+KM. DOBONSOLO,02.2025,Bau-Bau,Rabu,5-Mar-25,05:00,Rabu,5-Mar-25,08:00
+KM. DOBONSOLO,02.2025,Makassar,Kamis,6-Mar-25,01:00,Kamis,6-Mar-25,04:00
+KM. DOBONSOLO,02.2025,Surabaya,Jum'at,7-Mar-25,12:00,Jum'at,7-Mar-25,14:00
+KM. DOBONSOLO,02.2025,Tg. Priok,Sabtu,8-Mar-25,18:00,,,
+KM. DOBONSOLO,03.2025,Tg. Priok,Sabtu,8-Mar-25,18:00,Minggu,9-Mar-25,07:00
+KM. DOBONSOLO,03.2025,Surabaya,Senin,10-Mar-25,09:00,Senin,10-Mar-25,13:00
+KM. DOBONSOLO,03.2025,Makassar,Selasa,11-Mar-25,19:00,Selasa,11-Mar-25,22:00
+KM. DOBONSOLO,03.2025,Bau-Bau,Rabu,12-Mar-25,12:00,Rabu,12-Mar-25,14:00
+KM. DOBONSOLO,03.2025,Ambon,Kamis,13-Mar-25,16:00,Kamis,13-Mar-25,19:00
+KM. DOBONSOLO,03.2025,Sorong,Jum'at,14-Mar-25,17:00,Jum'at,14-Mar-25,20:00
+KM. DOBONSOLO,03.2025,Serui,Sabtu,15-Mar-25,20:00,Sabtu,15-Mar-25,22:00
+KM. DOBONSOLO,03.2025,Jayapura,Minggu,16-Mar-25,18:00,Minggu,16-Mar-25,23:59
+KM. DOBONSOLO,03.2025,Serui,Senin,17-Mar-25,21:00,Senin,17-Mar-25,23:00
+KM. DOBONSOLO,03.2025,Nabire,Selasa,18-Mar-25,06:00,Selasa,18-Mar-25,08:00
+KM. DOBONSOLO,03.2025,Manokwari,Selasa,18-Mar-25,19:00,Selasa,18-Mar-25,21:00
+KM. DOBONSOLO,03.2025,Sorong,Rabu,19-Mar-25,11:00,Rabu,19-Mar-25,14:00
+KM. DOBONSOLO,03.2025,Ambon,Kamis,20-Mar-25,13:00,Kamis,20-Mar-25,16:00
+KM. DOBONSOLO,03.2025,Bau-Bau,Jum'at,21-Mar-25,19:00,Jum'at,21-Mar-25,21:00
+KM. DOBONSOLO,03.2025,Makassar,Sabtu,22-Mar-25,12:00,Sabtu,22-Mar-25,14:00
+KM. DOBONSOLO,03.2025,Surabaya,Minggu,23-Mar-25,21:00,Minggu,23-Mar-25,23:00
+KM. DOBONSOLO,03.2025,Tg. Priok,Selasa,25-Mar-25,02:00,,,
+KM. DOBONSOLO,04.2025,Tg. Priok,Selasa,25-Mar-25,02:00,Selasa,25-Mar-25,11:00
+KM. DOBONSOLO,04.2025,Surabaya,Rabu,26-Mar-25,12:00,Rabu,26-Mar-25,16:00
+KM. DOBONSOLO,04.2025,Makassar,Kamis,27-Mar-25,22:00,Jum'at,28-Mar-25,01:00
+KM. DOBONSOLO,04.2025,Bau-Bau,Jum'at,28-Mar-25,15:00,Jum'at,28-Mar-25,17:00
+KM. DOBONSOLO,04.2025,Ambon,Sabtu,29-Mar-25,19:00,Sabtu,29-Mar-25,22:00
+KM. DOBONSOLO,04.2025,Banda,Minggu,30-Mar-25,06:00,Minggu,30-Mar-25,08:00
+KM. DOBONSOLO,04.2025,Tual,Minggu,30-Mar-25,21:00,Minggu,30-Mar-25,23:59
+KM. DOBONSOLO,04.2025,Dobo,Senin,31-Mar-25,07:00,Senin,31-Mar-25,09:00
+KM. DOBONSOLO,04.2025,Kaimana,Senin,31-Mar-25,19:00,Senin,31-Mar-25,22:00
+KM. DOBONSOLO,04.2025,Fak-Fak,Selasa,1-Apr-25,10:00,Selasa,1-Apr-25,14:00
+KM. DOBONSOLO,04.2025,Ambon,Rabu,2-Apr-25,10:00,Rabu,2-Apr-25,13:00
+KM. DOBONSOLO,04.2025,Bau-Bau,Kamis,3-Apr-25,16:00,Kamis,3-Apr-25,18:00
+KM. DOBONSOLO,04.2025,Makassar,Jum'at,4-Apr-25,10:00,Jum'at,4-Apr-25,12:00
+KM. DOBONSOLO,04.2025,Surabaya,Sabtu,5-Apr-25,20:00,Sabtu,5-Apr-25,22:00
+KM. DOBONSOLO,04.2025,Tg. Priok,Senin,7-Apr-25,01:00,,,
+KM. DOBONSOLO,05.2025,Tg. Priok,Senin,7-Apr-25,01:00,Senin,7-Apr-25,20:00
+KM. DOBONSOLO,05.2025,Surabaya,Rabu,9-Apr-25,00:01,Rabu,9-Apr-25,04:00
+KM. DOBONSOLO,05.2025,Balikpapan,Kamis,10-Apr-25,15:00,Kamis,10-Apr-25,20:00
+KM. DOBONSOLO,05.2025,Makassar,Jum'at,11-Apr-25,19:00,Jum'at,11-Apr-25,23:00
+KM. DOBONSOLO,05.2025,Bau-Bau,Sabtu,12-Apr-25,16:00,Sabtu,12-Apr-25,19:00
+KM. DOBONSOLO,05.2025,Ambon,Senin,14-Apr-25,00:01,Senin,14-Apr-25,04:00
+KM. DOBONSOLO,05.2025,Sorong,Selasa,15-Apr-25,04:00,Selasa,15-Apr-25,08:00
+KM. DOBONSOLO,05.2025,Manokwari,Rabu,16-Apr-25,00:01,Rabu,16-Apr-25,03:00
+KM. DOBONSOLO,05.2025,Nabire,Rabu,16-Apr-25,14:00,Rabu,16-Apr-25,16:00
+KM. DOBONSOLO,05.2025,Serui,Kamis,17-Apr-25,00:01,Kamis,17-Apr-25,02:00
+KM. DOBONSOLO,05.2025,Jayapura,Jum'at,18-Apr-25,00:01,Jum'at,18-Apr-25,06:00
+KM. DOBONSOLO,05.2025,Serui,Sabtu,19-Apr-25,04:00,Sabtu,19-Apr-25,06:00
+KM. DOBONSOLO,05.2025,Nabire,Sabtu,19-Apr-25,13:00,Sabtu,19-Apr-25,15:00
+KM. DOBONSOLO,05.2025,Manokwari,Minggu,20-Apr-25,02:00,Minggu,20-Apr-25,05:00
+KM. DOBONSOLO,05.2025,Sorong,Minggu,20-Apr-25,21:00,Minggu,20-Apr-25,23:59
+KM. DOBONSOLO,05.2025,Ambon,Senin,21-Apr-25,23:00,Selasa,22-Apr-25,02:00
+KM. DOBONSOLO,05.2025,Bau-Bau,Rabu,23-Apr-25,06:00,Rabu,23-Apr-25,08:00
+KM. DOBONSOLO,05.2025,Makassar,Kamis,24-Apr-25,01:00,Kamis,24-Apr-25,04:00
+KM. DOBONSOLO,05.2025,Surabaya,Jum'at,25-Apr-25,12:00,Jum'at,25-Apr-25,14:00
+KM. DOBONSOLO,05.2025,Tg. Priok,Sabtu,26-Apr-25,19:00,,,
+KM. DOROLONDA,01.2025,Surabaya,Rabu,8-Jan-25,04:00,Rabu,8-Jan-25,13:00
+KM. DOROLONDA,01.2025,Balikpapan,Kamis,9-Jan-25,17:00,Kamis,9-Jan-25,19:00
+KM. DOROLONDA,01.2025,Pantoloan,Jum'at,10-Jan-25,07:00,Jum'at,10-Jan-25,09:00
+KM. DOROLONDA,01.2025,Bitung,Sabtu,11-Jan-25,14:00,Sabtu,11-Jan-25,17:00
+KM. DOROLONDA,01.2025,Ternate,Minggu,12-Jan-25,02:00,Minggu,12-Jan-25,04:00
+KM. DOROLONDA,01.2025,Sorong,Minggu,12-Jan-25,23:00,Senin,13-Jan-25,02:00
+KM. DOROLONDA,01.2025,Manokwari,Senin,13-Jan-25,14:00,Senin,13-Jan-25,16:00
+KM. DOROLONDA,01.2025,Nabire,Selasa,14-Jan-25,02:00,Selasa,14-Jan-25,04:00
+KM. DOROLONDA,01.2025,Serui,Selasa,14-Jan-25,10:00,Selasa,14-Jan-25,12:00
+KM. DOROLONDA,01.2025,Jayapura,Rabu,15-Jan-25,08:00,Rabu,15-Jan-25,13:00
+KM. DOROLONDA,01.2025,Serui,Kamis,16-Jan-25,08:00,Kamis,16-Jan-25,10:00
+KM. DOROLONDA,01.2025,Nabire,Kamis,16-Jan-25,16:00,Kamis,16-Jan-25,18:00
+KM. DOROLONDA,01.2025,Manokwari,Jum'at,17-Jan-25,04:00,Jum'at,17-Jan-25,06:00
+KM. DOROLONDA,01.2025,Sorong,Jum'at,17-Jan-25,18:00,Jum'at,17-Jan-25,21:00
+KM. DOROLONDA,01.2025,Ternate,Sabtu,18-Jan-25,16:00,Sabtu,18-Jan-25,18:00
+KM. DOROLONDA,01.2025,Bitung,Minggu,19-Jan-25,02:00,Minggu,19-Jan-25,04:00
+KM. DOROLONDA,01.2025,Pantoloan,Senin,20-Jan-25,07:00,Senin,20-Jan-25,09:00
+KM. DOROLONDA,01.2025,Balikpapan,Senin,20-Jan-25,21:00,Senin,20-Jan-25,23:00
+KM. DOROLONDA,01.2025,Surabaya,Rabu,22-Jan-25,04:00,,,
+KM. DOROLONDA,02.2025,Surabaya,Rabu,22-Jan-25,04:00,Rabu,22-Jan-25,13:00
+KM. DOROLONDA,02.2025,Makassar,Kamis,23-Jan-25,18:00,Kamis,23-Jan-25,21:00
+KM. DOROLONDA,02.2025,Bau-Bau,Jum'at,24-Jan-25,12:00,Jum'at,24-Jan-25,14:00
+KM. DOROLONDA,02.2025,Namlea,Sabtu,25-Jan-25,14:00,Sabtu,25-Jan-25,16:00
+KM. DOROLONDA,02.2025,Ambon,Sabtu,25-Jan-25,21:00,Sabtu,25-Jan-25,23:59
+KM. DOROLONDA,02.2025,Sorong,Minggu,26-Jan-25,20:00,Minggu,26-Jan-25,23:00
+KM. DOROLONDA,02.2025,Manokwari,Senin,27-Jan-25,12:00,Senin,27-Jan-25,14:00
+KM. DOROLONDA,02.2025,Nabire,Selasa,28-Jan-25,01:00,Selasa,28-Jan-25,03:00
+KM. DOROLONDA,02.2025,Serui,Selasa,28-Jan-25,09:00,Selasa,28-Jan-25,11:00
+KM. DOROLONDA,02.2025,Jayapura,Rabu,29-Jan-25,05:00,Rabu,29-Jan-25,11:00
+KM. DOROLONDA,02.2025,Serui,Kamis,30-Jan-25,06:00,Kamis,30-Jan-25,08:00
+KM. DOROLONDA,02.2025,Nabire,Kamis,30-Jan-25,14:00,Kamis,30-Jan-25,16:00
+KM. DOROLONDA,02.2025,Manokwari,Jum'at,31-Jan-25,02:00,Jum'at,31-Jan-25,04:00
+KM. DOROLONDA,02.2025,Sorong,Jum'at,31-Jan-25,16:00,Jum'at,31-Jan-25,19:00
+KM. DOROLONDA,02.2025,Ambon,Sabtu,1-Feb-25,15:00,Sabtu,1-Feb-25,18:00
+KM. DOROLONDA,02.2025,Namlea,Sabtu,1-Feb-25,23:00,Minggu,2-Feb-25,01:00
+KM. DOROLONDA,02.2025,Bau-Bau,Senin,3-Feb-25,00:01,Senin,3-Feb-25,02:00
+KM. DOROLONDA,02.2025,Makassar,Senin,3-Feb-25,16:00,Senin,3-Feb-25,19:00
+KM. DOROLONDA,02.2025,Surabaya,Selasa,4-Feb-25,22:00,,,
+KM. DOROLONDA,03.2025,Surabaya,Selasa,4-Feb-25,22:00,Rabu,5-Feb-25,10:00
+KM. DOROLONDA,03.2025,Balikpapan,Kamis,6-Feb-25,15:00,Kamis,6-Feb-25,17:00
+KM. DOROLONDA,03.2025,Pantoloan,Jum'at,7-Feb-25,05:00,Jum'at,7-Feb-25,07:00
+KM. DOROLONDA,03.2025,Bitung,Sabtu,8-Feb-25,12:00,Sabtu,8-Feb-25,15:00
+KM. DOROLONDA,03.2025,Ternate,Minggu,9-Feb-25,00:01,Minggu,9-Feb-25,02:00
+KM. DOROLONDA,03.2025,Sorong,Minggu,9-Feb-25,21:00,Minggu,9-Feb-25,23:59
+KM. DOROLONDA,03.2025,Manokwari,Senin,10-Feb-25,12:00,Senin,10-Feb-25,14:00
+KM. DOROLONDA,03.2025,Nabire,Selasa,11-Feb-25,00:01,Selasa,11-Feb-25,02:00
+KM. DOROLONDA,03.2025,Serui,Selasa,11-Feb-25,08:00,Selasa,11-Feb-25,10:00
+KM. DOROLONDA,03.2025,Jayapura,Rabu,12-Feb-25,05:00,Rabu,12-Feb-25,11:00
+KM. DOROLONDA,03.2025,Serui,Kamis,13-Feb-25,06:00,Kamis,13-Feb-25,08:00
+KM. DOROLONDA,03.2025,Nabire,Kamis,13-Feb-25,14:00,Kamis,13-Feb-25,16:00
+KM. DOROLONDA,03.2025,Manokwari,Jum'at,14-Feb-25,02:00,Jum'at,14-Feb-25,04:00
+KM. DOROLONDA,03.2025,Sorong,Jum'at,14-Feb-25,16:00,Jum'at,14-Feb-25,19:00
+KM. DOROLONDA,03.2025,Ternate,Sabtu,15-Feb-25,14:00,Sabtu,15-Feb-25,16:00
+KM. DOROLONDA,03.2025,Bitung,Minggu,16-Feb-25,00:01,Minggu,16-Feb-25,02:00
+KM. DOROLONDA,03.2025,Pantoloan,Senin,17-Feb-25,05:00,Senin,17-Feb-25,07:00
+KM. DOROLONDA,03.2025,Balikpapan,Senin,17-Feb-25,19:00,Senin,17-Feb-25,21:00
+KM. DOROLONDA,03.2025,Surabaya,Rabu,19-Feb-25,02:00,,,
+KM. DOROLONDA,04.2025,Surabaya,Rabu,19-Feb-25,02:00,Rabu,19-Feb-25,13:00
+KM. DOROLONDA,04.2025,Makassar,Kamis,20-Feb-25,16:00,Kamis,20-Feb-25,19:00
+KM. DOROLONDA,04.2025,Bau-Bau,Jum'at,21-Feb-25,09:00,Jum'at,21-Feb-25,11:00
+KM. DOROLONDA,04.2025,Namlea,Sabtu,22-Feb-25,10:00,Sabtu,22-Feb-25,12:00
+KM. DOROLONDA,04.2025,Ambon,Sabtu,22-Feb-25,17:00,Sabtu,22-Feb-25,20:00
+KM. DOROLONDA,04.2025,Sorong,Minggu,23-Feb-25,16:00,Minggu,23-Feb-25,19:00
+KM. DOROLONDA,04.2025,Manokwari,Senin,24-Feb-25,08:00,Senin,24-Feb-25,10:00
+KM. DOROLONDA,04.2025,Nabire,Senin,24-Feb-25,21:00,Senin,24-Feb-25,23:00
+KM. DOROLONDA,04.2025,Waren,Selasa,25-Feb-25,06:00,Selasa,25-Feb-25,08:00
+KM. DOROLONDA,04.2025,Jayapura,Rabu,26-Feb-25,04:00,Rabu,26-Feb-25,09:00
+KM. DOROLONDA,04.2025,Waren,Kamis,27-Feb-25,04:00,Kamis,27-Feb-25,06:00
+KM. DOROLONDA,04.2025,Nabire,Kamis,27-Feb-25,12:00,Kamis,27-Feb-25,14:00
+KM. DOROLONDA,04.2025,Manokwari,Jum'at,28-Feb-25,00:01,Jum'at,28-Feb-25,02:00
+KM. DOROLONDA,04.2025,Sorong,Jum'at,28-Feb-25,14:00,Jum'at,28-Feb-25,17:00
+KM. DOROLONDA,04.2025,Ambon,Sabtu,1-Mar-25,13:00,Sabtu,1-Mar-25,16:00
+KM. DOROLONDA,04.2025,Namlea,Sabtu,1-Mar-25,21:00,Sabtu,1-Mar-25,23:00
+KM. DOROLONDA,04.2025,Bau-Bau,Minggu,2-Mar-25,23:00,Senin,3-Mar-25,01:00
+KM. DOROLONDA,04.2025,Makassar,Senin,3-Mar-25,16:00,Senin,3-Mar-25,19:00
+KM. DOROLONDA,04.2025,Surabaya,Selasa,4-Mar-25,23:00,,,
+KM. DOROLONDA,05.2025,Surabaya,Selasa,4-Mar-25,23:00,Rabu,5-Mar-25,10:00
+KM. DOROLONDA,05.2025,Makassar,Kamis,6-Mar-25,14:00,Kamis,6-Mar-25,17:00
+KM. DOROLONDA,05.2025,Bau-Bau,Jum'at,7-Mar-25,08:00,Jum'at,7-Mar-25,10:00
+KM. DOROLONDA,05.2025,Namlea,Sabtu,8-Mar-25,10:00,Sabtu,8-Mar-25,12:00
+KM. DOROLONDA,05.2025,Ambon,Sabtu,8-Mar-25,17:00,Sabtu,8-Mar-25,20:00
+KM. DOROLONDA,05.2025,Sorong,Minggu,9-Mar-25,16:00,Minggu,9-Mar-25,19:00
+KM. DOROLONDA,05.2025,Manokwari,Senin,10-Mar-25,08:00,Senin,10-Mar-25,10:00
+KM. DOROLONDA,05.2025,Nabire,Senin,10-Mar-25,21:00,Senin,10-Mar-25,23:00
+KM. DOROLONDA,05.2025,Waren,Selasa,11-Mar-25,06:00,Selasa,11-Mar-25,07:00
+KM. DOROLONDA,05.2025,Serui,Selasa,11-Mar-25,09:00,Selasa,11-Mar-25,11:00
+KM. DOROLONDA,05.2025,Jayapura,Rabu,12-Mar-25,06:00,Rabu,12-Mar-25,12:00
+KM. DOROLONDA,05.2025,Serui,Kamis,13-Mar-25,07:00,Kamis,13-Mar-25,09:00
+KM. DOROLONDA,05.2025,Waren,Kamis,13-Mar-25,11:00,Kamis,13-Mar-25,12:00
+KM. DOROLONDA,05.2025,Nabire,Kamis,13-Mar-25,18:00,Kamis,13-Mar-25,20:00
+KM. DOROLONDA,05.2025,Manokwari,Jum'at,14-Mar-25,06:00,Jum'at,14-Mar-25,08:00
+KM. DOROLONDA,05.2025,Sorong,Jum'at,14-Mar-25,20:00,Jum'at,14-Mar-25,22:00
+KM. DOROLONDA,05.2025,Ambon,Sabtu,15-Mar-25,18:00,Sabtu,15-Mar-25,21:00
+KM. DOROLONDA,05.2025,Ternate,Minggu,16-Mar-25,17:00,Minggu,16-Mar-25,19:00
+KM. DOROLONDA,05.2025,Bitung,Senin,17-Mar-25,03:00,Senin,17-Mar-25,06:00
+KM. DOROLONDA,05.2025,Pantoloan,Selasa,18-Mar-25,09:00,Selasa,18-Mar-25,11:00
+KM. DOROLONDA,05.2025,Balikpapan,Selasa,18-Mar-25,23:00,Rabu,19-Mar-25,01:00
+KM. DOROLONDA,05.2025,Surabaya,Kamis,20-Mar-25,06:00,,,
+KM. EGON,01.2025,Waingapu,Selasa,7-Jan-25,21:00,Rabu,8-Jan-25,03:00
+KM. EGON,01.2025,Lembar,Kamis,9-Jan-25,06:00,Kamis,9-Jan-25,09:00
+KM. EGON,01.2025,Surabaya,Jum'at,10-Jan-25,06:00,Jum'at,10-Jan-25,10:00
+KM. EGON,01.2025,Batulicin,Sabtu,11-Jan-25,14:00,Sabtu,11-Jan-25,17:00
+KM. EGON,01.2025,Pare-Pare,Minggu,12-Jan-25,15:00,Minggu,12-Jan-25,17:00
+KM. EGON,01.2025,Bontang,Senin,13-Jan-25,18:00,Senin,13-Jan-25,21:00
+KM. EGON,01.2025,Pare-Pare,Selasa,14-Jan-25,23:00,Rabu,15-Jan-25,02:00
+KM. EGON,01.2025,Bontang,Kamis,16-Jan-25,04:00,Kamis,16-Jan-25,07:00
+KM. EGON,01.2025,Pare-Pare,Jum'at,17-Jan-25,08:00,Jum'at,17-Jan-25,10:00
+KM. EGON,01.2025,Batulicin,Sabtu,18-Jan-25,07:00,Sabtu,18-Jan-25,10:00
+KM. EGON,01.2025,Surabaya,Minggu,19-Jan-25,11:00,Minggu,19-Jan-25,15:00
+KM. EGON,01.2025,Lembar,Senin,20-Jan-25,14:00,Senin,20-Jan-25,16:00
+KM. EGON,01.2025,Waingapu,Selasa,21-Jan-25,18:00,,,
+KM. EGON,02.2025,Waingapu,Selasa,21-Jan-25,18:00,Rabu,22-Jan-25,06:00
+KM. EGON,02.2025,Lembar,Kamis,23-Jan-25,10:00,Kamis,23-Jan-25,13:00
+KM. EGON,02.2025,Surabaya,Jum'at,24-Jan-25,13:00,Jum'at,24-Jan-25,17:00
+KM. EGON,02.2025,Batulicin,Sabtu,25-Jan-25,20:00,Sabtu,25-Jan-25,23:59
+KM. EGON,02.2025,Pare-Pare,Minggu,26-Jan-25,22:00,Senin,27-Jan-25,01:00
+KM. EGON,02.2025,Bontang,Selasa,28-Jan-25,01:00,Selasa,28-Jan-25,04:00
+KM. EGON,02.2025,Pare-Pare,Rabu,29-Jan-25,04:00,Rabu,29-Jan-25,06:00
+KM. EGON,02.2025,Bontang,Kamis,30-Jan-25,06:00,Kamis,30-Jan-25,12:00
+KM. EGON,02.2025,Pare-Pare,Jum'at,31-Jan-25,15:00,Jum'at,31-Jan-25,17:00
+KM. EGON,02.2025,Batulicin,Sabtu,1-Feb-25,16:00,Sabtu,1-Feb-25,19:00
+KM. EGON,02.2025,Surabaya,Minggu,2-Feb-25,22:00,Senin,3-Feb-25,02:00
+KM. EGON,02.2025,Lembar,Selasa,4-Feb-25,02:00,Selasa,4-Feb-25,04:00
+KM. EGON,02.2025,Waingapu,Rabu,5-Feb-25,06:00,,,
+KM. EGON,03.2025,Waingapu,Rabu,5-Feb-25,06:00,Rabu,5-Feb-25,13:00
+KM. EGON,03.2025,Lembar,Kamis,6-Feb-25,15:00,Kamis,6-Feb-25,18:00
+KM. EGON,03.2025,Surabaya,Jum'at,7-Feb-25,16:00,Jum'at,7-Feb-25,20:00
+KM. EGON,03.2025,Batulicin,Sabtu,8-Feb-25,21:00,Sabtu,8-Feb-25,23:59
+KM. EGON,03.2025,Pare-Pare,Minggu,9-Feb-25,20:00,Minggu,9-Feb-25,23:00
+KM. EGON,03.2025,Bontang,Selasa,11-Feb-25,00:01,Selasa,11-Feb-25,04:00
+KM. EGON,03.2025,Pare-Pare,Rabu,12-Feb-25,05:00,Rabu,12-Feb-25,08:00
+KM. EGON,03.2025,Bontang,Kamis,13-Feb-25,08:00,Kamis,13-Feb-25,15:00
+KM. EGON,03.2025,Pare-Pare,Jum'at,14-Feb-25,16:00,Jum'at,14-Feb-25,18:00
+KM. EGON,03.2025,Batulicin,Sabtu,15-Feb-25,16:00,Sabtu,15-Feb-25,19:00
+KM. EGON,03.2025,Surabaya,Minggu,16-Feb-25,20:00,Minggu,16-Feb-25,23:59
+KM. EGON,03.2025,Lembar,Senin,17-Feb-25,22:00,Selasa,18-Feb-25,01:00
+KM. EGON,03.2025,Waingapu,Rabu,19-Feb-25,05:00,,,
+KM. EGON,04.2025,Waingapu,Rabu,19-Feb-25,05:00,Rabu,19-Feb-25,11:00
+KM. EGON,04.2025,Lembar,Kamis,20-Feb-25,13:00,Kamis,20-Feb-25,16:00
+KM. EGON,04.2025,Surabaya,Jum'at,21-Feb-25,14:00,Jum'at,21-Feb-25,18:00
+KM. EGON,04.2025,Batulicin,Sabtu,22-Feb-25,19:00,Sabtu,22-Feb-25,23:00
+KM. EGON,04.2025,Pare-Pare,Minggu,23-Feb-25,19:00,Minggu,23-Feb-25,22:00
+KM. EGON,04.2025,Bontang,Senin,24-Feb-25,23:00,Selasa,25-Feb-25,03:00
+KM. EGON,04.2025,Pare-Pare,Rabu,26-Feb-25,04:00,Rabu,26-Feb-25,07:00
+KM. EGON,04.2025,Bontang,Kamis,27-Feb-25,07:00,Kamis,27-Feb-25,13:00
+KM. EGON,04.2025,Pare-Pare,Jum'at,28-Feb-25,15:00,Jum'at,28-Feb-25,17:00
+KM. EGON,04.2025,Batulicin,Sabtu,1-Mar-25,15:00,Sabtu,1-Mar-25,18:00
+KM. EGON,04.2025,Surabaya,Minggu,2-Mar-25,19:00,Minggu,2-Mar-25,23:00
+KM. EGON,04.2025,Lembar,Senin,3-Mar-25,21:00,Senin,3-Mar-25,23:59
+KM. EGON,04.2025,Waingapu,Rabu,5-Mar-25,04:00,,,
+KM. EGON,05.2025,Waingapu,Rabu,5-Mar-25,04:00,Rabu,5-Mar-25,15:00
+KM. EGON,05.2025,Lembar,Kamis,6-Mar-25,17:00,Kamis,6-Mar-25,20:00
+KM. EGON,05.2025,Surabaya,Jum'at,7-Mar-25,21:00,Sabtu,8-Mar-25,01:00
+KM. EGON,05.2025,Batulicin,Minggu,9-Mar-25,04:00,Minggu,9-Mar-25,10:00
+KM. EGON,05.2025,Pare-Pare,Senin,10-Mar-25,07:00,Senin,10-Mar-25,10:00
+KM. EGON,05.2025,Bontang,Selasa,11-Mar-25,11:00,Selasa,11-Mar-25,15:00
+KM. EGON,05.2025,Pare-Pare,Rabu,12-Mar-25,16:00,Rabu,12-Mar-25,18:00
+KM. EGON,05.2025,Bontang,Kamis,13-Mar-25,19:00,Kamis,13-Mar-25,23:00
+KM. EGON,05.2025,Pare-Pare,Sabtu,15-Mar-25,00:01,Sabtu,15-Mar-25,03:00
+KM. EGON,05.2025,Batulicin,Minggu,16-Mar-25,02:00,Minggu,16-Mar-25,06:00
+KM. EGON,05.2025,Surabaya,Senin,17-Mar-25,07:00,Senin,17-Mar-25,11:00
+KM. EGON,05.2025,Lembar,Selasa,18-Mar-25,10:00,Selasa,18-Mar-25,12:00
+KM. EGON,05.2025,Waingapu,Rabu,19-Mar-25,17:00,,,
+KM. KELIMUTU,01.2025,Surabaya,Rabu,1-Jan-25,20:00,Kamis,2-Jan-25,02:00
+KM. KELIMUTU,01.2025,Batulicin,Jum'at,3-Jan-25,09:00,Jum'at,3-Jan-25,13:00
+KM. KELIMUTU,01.2025,Semarang,Minggu,5-Jan-25,04:00,Minggu,5-Jan-25,12:00
+KM. KELIMUTU,01.2025,Pontianak,Selasa,7-Jan-25,10:00,Selasa,7-Jan-25,12:00
+KM. KELIMUTU,01.2025,Tg. Pandan,Rabu,8-Jan-25,11:00,Rabu,8-Jan-25,13:00
+KM. KELIMUTU,01.2025,Tg. Priok,Kamis,9-Jan-25,07:00,,,
+KM. KELIMUTU,02.2025,Tg. Priok,Kamis,9-Jan-25,07:00,Jum'at,10-Jan-25,10:00
+KM. KELIMUTU,02.2025,Tg. Pandan,Sabtu,11-Jan-25,04:00,Sabtu,11-Jan-25,06:00
+KM. KELIMUTU,02.2025,Pontianak,Minggu,12-Jan-25,04:00,Minggu,12-Jan-25,07:00
+KM. KELIMUTU,02.2025,Semarang,Selasa,14-Jan-25,03:00,Selasa,14-Jan-25,13:00
+KM. KELIMUTU,02.2025,Kumai,Rabu,15-Jan-25,16:00,Rabu,15-Jan-25,20:00
+KM. KELIMUTU,02.2025,Semarang,Kamis,16-Jan-25,21:00,Jum'at,17-Jan-25,13:00
+KM. KELIMUTU,02.2025,Pontianak,Minggu,19-Jan-25,09:00,Minggu,19-Jan-25,11:00
+KM. KELIMUTU,02.2025,Tg. Pandan,Senin,20-Jan-25,07:00,Senin,20-Jan-25,09:00
+KM. KELIMUTU,02.2025,Tg. Priok,Selasa,21-Jan-25,03:00,,,
+KM. KELIMUTU,03.2025,Tg. Priok,Selasa,21-Jan-25,03:00,Rabu,22-Jan-25,05:00
+KM. KELIMUTU,03.2025,Tg. Pandan,Kamis,23-Jan-25,00:00,Kamis,23-Jan-25,02:00
+KM. KELIMUTU,03.2025,Pontianak,Jum'at,24-Jan-25,02:00,Jum'at,24-Jan-25,04:00
+KM. KELIMUTU,03.2025,Semarang,Minggu,26-Jan-25,00:01,Minggu,26-Jan-25,04:00
+KM. KELIMUTU,03.2025,Kumai,Senin,27-Jan-25,05:00,Senin,27-Jan-25,12:00
+KM. KELIMUTU,03.2025,Surabaya,Selasa,28-Jan-25,15:00,Selasa,28-Jan-25,18:00
+KM. KELIMUTU,03.2025,Batulicin,Kamis,30-Jan-25,01:00,Kamis,30-Jan-25,05:00
+KM. KELIMUTU,03.2025,Surabaya,Jum'at,31-Jan-25,11:00,Jum'at,31-Jan-25,14:00
+KM. KELIMUTU,03.2025,Kumai,Sabtu,1-Feb-25,17:00,Sabtu,1-Feb-25,19:00
+KM. KELIMUTU,03.2025,Semarang,Minggu,2-Feb-25,20:00,Senin,3-Feb-25,10:00
+KM. KELIMUTU,03.2025,Pontianak,Rabu,5-Feb-25,10:00,Rabu,5-Feb-25,20:00
+KM. KELIMUTU,03.2025,Tg. Pandan,Kamis,6-Feb-25,17:00,Kamis,6-Feb-25,18:00
+KM. KELIMUTU,03.2025,Tg. Priok,Jum'at,7-Feb-25,13:00,,,
+KM. KELIMUTU,04.2025,Surabaya,Selasa,4-Feb-25,01:00,Selasa,18-Mar-25,23:00
+KM. KELIMUTU,04.2025,Semarang,Rabu,19-Mar-25,21:00,Kamis,20-Mar-25,04:00
+KM. KELIMUTU,04.2025,Sampit,Jum'at,21-Mar-25,14:00,Sabtu,22-Mar-25,09:00
+KM. KELIMUTU,04.2025,Surabaya,Minggu,23-Mar-25,13:00,Minggu,23-Mar-25,16:00
+KM. KELIMUTU,04.2025,Kumai,Senin,24-Mar-25,20:00,Senin,24-Mar-25,23:59
+KM. KELIMUTU,04.2025,Semarang,Rabu,26-Mar-25,01:00,Rabu,26-Mar-25,08:00
+KM. KELIMUTU,04.2025,Sampit,Kamis,27-Mar-25,18:00,Jum'at,28-Mar-25,13:00
+KM. KELIMUTU,04.2025,Semarang,Sabtu,29-Mar-25,19:00,,,
+KM. KELIMUTU,05.2025,Semarang,Sabtu,29-Mar-25,19:00,Rabu,2-Apr-25,18:00
+KM. KELIMUTU,05.2025,Kumai,Kamis,3-Apr-25,19:00,Kamis,3-Apr-25,21:00
+KM. KELIMUTU,05.2025,Semarang,Jum'at,4-Apr-25,22:00,Sabtu,5-Apr-25,02:00
+KM. KELIMUTU,05.2025,Kumai,Minggu,6-Apr-25,03:00,Minggu,6-Apr-25,11:00
+KM. KELIMUTU,05.2025,Semarang,Senin,7-Apr-25,12:00,Senin,7-Apr-25,23:59
+KM. KELIMUTU,05.2025,Pontianak,Kamis,10-Apr-25,02:00,Kamis,10-Apr-25,05:00
+KM. KELIMUTU,05.2025,Tg. Pandan,Jum'at,11-Apr-25,02:00,Jum'at,11-Apr-25,03:00
+KM. KELIMUTU,05.2025,Tg. Priok,Jum'at,11-Apr-25,21:00,,,
+KM. KELUD,01.2025,Tg. Priok,Senin,30-Dec-24,04:00,Senin,30-Dec-24,19:00
+KM. KELUD,01.2025,Batam,Rabu,1-Jan-25,02:00,Rabu,1-Jan-25,05:00
+KM. KELUD,01.2025,Tg. Balai Karimun,Rabu,1-Jan-25,08:00,Rabu,1-Jan-25,09:00
+KM. KELUD,01.2025,Belawan,Kamis,2-Jan-25,07:00,Kamis,2-Jan-25,11:00
+KM. KELUD,01.2025,Batam,Jum'at,3-Jan-25,10:00,Jum'at,3-Jan-25,13:00
+KM. KELUD,01.2025,Belawan,Sabtu,4-Jan-25,11:00,Sabtu,4-Jan-25,15:00
+KM. KELUD,01.2025,Batam,Minggu,5-Jan-25,13:00,Minggu,5-Jan-25,16:00
+KM. KELUD,01.2025,Belawan,Senin,6-Jan-25,14:00,Selasa,7-Jan-25,08:00
+KM. KELUD,01.2025,Batam,Rabu,8-Jan-25,07:00,Rabu,8-Jan-25,14:00
+KM. KELUD,01.2025,Belawan,Kamis,9-Jan-25,13:00,Kamis,9-Jan-25,16:00
+KM. KELUD,01.2025,Tg. Balai Karimun,Jum'at,10-Jan-25,14:00,Jum'at,10-Jan-25,15:00
+KM. KELUD,01.2025,Batam,Jum'at,10-Jan-25,18:00,Jum'at,10-Jan-25,21:00
+KM. KELUD,01.2025,Tg. Priok,Minggu,12-Jan-25,02:00,,,
+KM. KELUD,02.2025,Tg. Priok,Minggu,12-Jan-25,02:00,Minggu,12-Jan-25,19:00
+KM. KELUD,02.2025,Batam,Selasa,14-Jan-25,02:00,Selasa,14-Jan-25,05:00
+KM. KELUD,02.2025,Tg. Balai Karimun,Selasa,14-Jan-25,08:00,Selasa,14-Jan-25,09:00
+KM. KELUD,02.2025,Belawan,Rabu,15-Jan-25,07:00,Rabu,15-Jan-25,11:00
+KM. KELUD,02.2025,Tg. Balai Karimun,Kamis,16-Jan-25,09:00,Kamis,16-Jan-25,10:00
+KM. KELUD,02.2025,Batam,Kamis,16-Jan-25,13:00,Kamis,16-Jan-25,22:00
+KM. KELUD,02.2025,Tg. Priok,Sabtu,18-Jan-25,04:00,,,
+KM. KELUD,03.2025,Tg. Priok,Sabtu,18-Jan-25,04:00,Sabtu,18-Jan-25,21:00
+KM. KELUD,03.2025,Batam,Senin,20-Jan-25,04:00,Senin,20-Jan-25,11:00
+KM. KELUD,03.2025,Tg. Balai Karimun,Senin,20-Jan-25,14:00,Senin,20-Jan-25,15:00
+KM. KELUD,03.2025,Belawan,Selasa,21-Jan-25,13:00,Selasa,21-Jan-25,17:00
+KM. KELUD,03.2025,Tg. Balai Karimun,Rabu,22-Jan-25,15:00,Rabu,22-Jan-25,16:00
+KM. KELUD,03.2025,Batam,Rabu,22-Jan-25,19:00,Rabu,22-Jan-25,23:00
+KM. KELUD,03.2025,Tg. Priok,Jum'at,24-Jan-25,05:00,,,
+KM. KELUD,04.2025,Tg. Priok,Jum'at,24-Jan-25,05:00,Jum'at,24-Jan-25,21:00
+KM. KELUD,04.2025,Batam,Minggu,26-Jan-25,04:00,Minggu,26-Jan-25,08:00
+KM. KELUD,04.2025,Tg. Balai Karimun,Minggu,26-Jan-25,11:00,Minggu,26-Jan-25,12:00
+KM. KELUD,04.2025,Belawan,Senin,27-Jan-25,10:00,Selasa,28-Jan-25,07:00
+KM. KELUD,04.2025,Tg. Balai Karimun,Rabu,29-Jan-25,05:00,Rabu,29-Jan-25,06:00
+KM. KELUD,04.2025,Batam,Rabu,29-Jan-25,09:00,Rabu,29-Jan-25,12:00
+KM. KELUD,04.2025,Tg. Priok,Kamis,30-Jan-25,18:00,,,
+KM. KELUD,05.2025,Tg. Priok,Kamis,30-Jan-25,18:00,Jum'at,31-Jan-25,21:00
+KM. KELUD,05.2025,Batam,Minggu,2-Feb-25,04:00,Minggu,2-Feb-25,09:00
+KM. KELUD,05.2025,Tg. Balai Karimun,Minggu,2-Feb-25,12:00,Minggu,2-Feb-25,13:00
+KM. KELUD,05.2025,Belawan,Senin,3-Feb-25,11:00,Selasa,4-Feb-25,12:00
+KM. KELUD,05.2025,Tg. Balai Karimun,Rabu,5-Feb-25,10:00,Rabu,5-Feb-25,11:00
+KM. KELUD,05.2025,Batam,Rabu,5-Feb-25,14:00,Rabu,5-Feb-25,17:00
+KM. KELUD,05.2025,Tg. Priok,Kamis,6-Feb-25,23:00,,,
+KM. LABOBAR,01.2025,Tg. Priok,Minggu,29-Dec-24,00:01,Minggu,29-Dec-24,12:00
+KM. LABOBAR,01.2025,Surabaya,Senin,30-Dec-24,12:00,Senin,30-Dec-24,16:00
+KM. LABOBAR,01.2025,Makassar,Selasa,31-Dec-24,18:00,Selasa,31-Dec-24,21:00
+KM. LABOBAR,01.2025,Bau-Bau,Rabu,1-Jan-25,11:00,Rabu,1-Jan-25,13:00
+KM. LABOBAR,01.2025,Namlea,Kamis,2-Jan-25,12:00,Kamis,2-Jan-25,14:00
+KM. LABOBAR,01.2025,Ambon,Kamis,2-Jan-25,19:00,Kamis,2-Jan-25,22:00
+KM. LABOBAR,01.2025,Banda,Jum'at,3-Jan-25,05:00,Jum'at,3-Jan-25,07:00
+KM. LABOBAR,01.2025,Tual,Jum'at,3-Jan-25,19:00,Jum'at,3-Jan-25,22:00
+KM. LABOBAR,01.2025,Dobo,Sabtu,4-Jan-25,05:00,Sabtu,4-Jan-25,08:00
+KM. LABOBAR,01.2025,Kaimana,Sabtu,4-Jan-25,17:00,Sabtu,4-Jan-25,19:00
+KM. LABOBAR,01.2025,Fak-Fak,Minggu,5-Jan-25,05:00,Minggu,5-Jan-25,08:00
+KM. LABOBAR,01.2025,Sorong,Minggu,5-Jan-25,22:00,Senin,6-Jan-25,01:00
+KM. LABOBAR,01.2025,Manokwari,Senin,6-Jan-25,14:00,Senin,6-Jan-25,16:00
+KM. LABOBAR,01.2025,Nabire,Selasa,7-Jan-25,01:00,Selasa,7-Jan-25,04:00
+KM. LABOBAR,01.2025,Manokwari,Selasa,7-Jan-25,14:00,Selasa,7-Jan-25,16:00
+KM. LABOBAR,01.2025,Sorong,Rabu,8-Jan-25,05:00,Rabu,8-Jan-25,08:00
+KM. LABOBAR,01.2025,Fak-Fak,Rabu,8-Jan-25,21:00,Rabu,8-Jan-25,23:00
+KM. LABOBAR,01.2025,Kaimana,Kamis,9-Jan-25,09:00,Kamis,9-Jan-25,11:00
+KM. LABOBAR,01.2025,Dobo,Kamis,9-Jan-25,20:00,Kamis,9-Jan-25,22:00
+KM. LABOBAR,01.2025,Tual,Jum'at,10-Jan-25,05:00,Jum'at,10-Jan-25,07:00
+KM. LABOBAR,01.2025,Banda,Jum'at,10-Jan-25,20:00,Jum'at,10-Jan-25,21:00
+KM. LABOBAR,01.2025,Ambon,Sabtu,11-Jan-25,06:00,Sabtu,11-Jan-25,08:00
+KM. LABOBAR,01.2025,Namlea,Sabtu,11-Jan-25,13:00,Sabtu,11-Jan-25,15:00
+KM. LABOBAR,01.2025,Bau-Bau,Minggu,12-Jan-25,15:00,Minggu,12-Jan-25,17:00
+KM. LABOBAR,01.2025,Makassar,Senin,13-Jan-25,09:00,Senin,13-Jan-25,11:00
+KM. LABOBAR,01.2025,Surabaya,Selasa,14-Jan-25,15:00,Selasa,14-Jan-25,18:00
+KM. LABOBAR,01.2025,Tg. Priok,Rabu,15-Jan-25,19:00,,,
+KM. LABOBAR,02.2025,Tg. Priok,Rabu,15-Jan-25,19:00,Kamis,16-Jan-25,04:00
+KM. LABOBAR,02.2025,Surabaya,Jum'at,17-Jan-25,03:00,Jum'at,17-Jan-25,07:00
+KM. LABOBAR,02.2025,Makassar,Sabtu,18-Jan-25,10:00,Sabtu,18-Jan-25,13:00
+KM. LABOBAR,02.2025,Bau-Bau,Minggu,19-Jan-25,03:00,Minggu,19-Jan-25,05:00
+KM. LABOBAR,02.2025,Ambon,Senin,20-Jan-25,05:00,Senin,20-Jan-25,08:00
+KM. LABOBAR,02.2025,Banda,Senin,20-Jan-25,16:00,Senin,20-Jan-25,18:00
+KM. LABOBAR,02.2025,Tual,Selasa,21-Jan-25,06:00,Selasa,21-Jan-25,09:00
+KM. LABOBAR,02.2025,Dobo,Selasa,21-Jan-25,16:00,Selasa,21-Jan-25,19:00
+KM. LABOBAR,02.2025,Kaimana,Rabu,22-Jan-25,04:00,Rabu,22-Jan-25,06:00
+KM. LABOBAR,02.2025,Dobo,Rabu,22-Jan-25,15:00,Rabu,22-Jan-25,17:00
+KM. LABOBAR,02.2025,Tual,Kamis,23-Jan-25,00:01,Kamis,23-Jan-25,02:00
+KM. LABOBAR,02.2025,Banda,Kamis,23-Jan-25,15:00,Kamis,23-Jan-25,16:00
+KM. LABOBAR,02.2025,Ambon,Jum'at,24-Jan-25,00:01,Jum'at,24-Jan-25,02:00
+KM. LABOBAR,02.2025,Bau-Bau,Sabtu,25-Jan-25,03:00,Sabtu,25-Jan-25,05:00
+KM. LABOBAR,02.2025,Makassar,Sabtu,25-Jan-25,20:00,Sabtu,25-Jan-25,22:00
+KM. LABOBAR,02.2025,Surabaya,Senin,27-Jan-25,02:00,Senin,27-Jan-25,05:00
+KM. LABOBAR,02.2025,Tg. Priok,Selasa,28-Jan-25,05:00,,,
+KM. LABOBAR,03.2025,Tg. Priok,Selasa,28-Jan-25,05:00,Selasa,28-Jan-25,19:00
+KM. LABOBAR,03.2025,Surabaya,Rabu,29-Jan-25,19:00,Rabu,29-Jan-25,23:00
+KM. LABOBAR,03.2025,Makassar,Jum'at,31-Jan-25,02:00,Jum'at,31-Jan-25,05:00
+KM. LABOBAR,03.2025,Bau-Bau,Jum'at,31-Jan-25,20:00,Jum'at,31-Jan-25,22:00
+KM. LABOBAR,03.2025,Ambon,Sabtu,1-Feb-25,22:00,Minggu,2-Feb-25,01:00
+KM. LABOBAR,03.2025,Banda,Minggu,2-Feb-25,09:00,Minggu,2-Feb-25,11:00
+KM. LABOBAR,03.2025,Tual,Minggu,2-Feb-25,23:00,Senin,3-Feb-25,02:00
+KM. LABOBAR,03.2025,Dobo,Senin,3-Feb-25,09:00,Senin,3-Feb-25,12:00
+KM. LABOBAR,03.2025,Kaimana,Senin,3-Feb-25,21:00,Senin,3-Feb-25,23:00
+KM. LABOBAR,03.2025,Fak-Fak,Selasa,4-Feb-25,09:00,Selasa,4-Feb-25,13:00
+KM. LABOBAR,03.2025,Kaimana,Selasa,4-Feb-25,23:00,Rabu,5-Feb-25,01:00
+KM. LABOBAR,03.2025,Dobo,Rabu,5-Feb-25,10:00,Rabu,5-Feb-25,12:00
+KM. LABOBAR,03.2025,Tual,Rabu,5-Feb-25,19:00,Rabu,5-Feb-25,21:00
+KM. LABOBAR,03.2025,Banda,Kamis,6-Feb-25,10:00,Kamis,6-Feb-25,11:00
+KM. LABOBAR,03.2025,Ambon,Kamis,6-Feb-25,19:00,Kamis,6-Feb-25,21:00
+KM. LABOBAR,03.2025,Bau-Bau,Jum'at,7-Feb-25,22:00,Jum'at,7-Feb-25,23:59
+KM. LABOBAR,03.2025,Makassar,Sabtu,8-Feb-25,14:00,Sabtu,8-Feb-25,16:00
+KM. LABOBAR,03.2025,Surabaya,Minggu,9-Feb-25,20:00,Minggu,9-Feb-25,23:00
+KM. LABOBAR,03.2025,Tg. Priok,Selasa,11-Feb-25,00:01,,,
+KM. LABOBAR,04.2025,Tg. Priok,Selasa,11-Feb-25,00:01,Selasa,11-Feb-25,16:00
+KM. LABOBAR,04.2025,Surabaya,Rabu,12-Feb-25,17:00,Rabu,12-Feb-25,21:00
+KM. LABOBAR,04.2025,Makassar,Jum'at,14-Feb-25,00:01,Jum'at,14-Feb-25,03:00
+KM. LABOBAR,04.2025,Bau-Bau,Jum'at,14-Feb-25,18:00,Jum'at,14-Feb-25,20:00
+KM. LABOBAR,04.2025,Ambon,Sabtu,15-Feb-25,20:00,Sabtu,15-Feb-25,23:00
+KM. LABOBAR,04.2025,Banda,Minggu,16-Feb-25,07:00,Minggu,16-Feb-25,09:00
+KM. LABOBAR,04.2025,Tual,Minggu,16-Feb-25,21:00,Minggu,16-Feb-25,23:59
+KM. LABOBAR,04.2025,Dobo,Senin,17-Feb-25,08:00,Senin,17-Feb-25,11:00
+KM. LABOBAR,04.2025,Kaimana,Senin,17-Feb-25,20:00,Senin,17-Feb-25,22:00
+KM. LABOBAR,04.2025,Fak-Fak,Selasa,18-Feb-25,08:00,Selasa,18-Feb-25,12:00
+KM. LABOBAR,04.2025,Kaimana,Selasa,18-Feb-25,22:00,Selasa,18-Feb-25,23:59
+KM. LABOBAR,04.2025,Dobo,Rabu,19-Feb-25,09:00,Rabu,19-Feb-25,11:00
+KM. LABOBAR,04.2025,Tual,Rabu,19-Feb-25,18:00,Rabu,19-Feb-25,20:00
+KM. LABOBAR,04.2025,Banda,Kamis,20-Feb-25,09:00,Kamis,20-Feb-25,10:00
+KM. LABOBAR,04.2025,Ambon,Kamis,20-Feb-25,18:00,Kamis,20-Feb-25,20:00
+KM. LABOBAR,04.2025,Bau-Bau,Jum'at,21-Feb-25,21:00,Jum'at,21-Feb-25,23:00
+KM. LABOBAR,04.2025,Makassar,Sabtu,22-Feb-25,13:00,Sabtu,22-Feb-25,15:00
+KM. LABOBAR,04.2025,Surabaya,Minggu,23-Feb-25,19:00,Minggu,23-Feb-25,22:00
+KM. LABOBAR,04.2025,Tg. Priok,Senin,24-Feb-25,23:00,,,
+KM. LABOBAR,05.2025,Tg. Priok,Senin,24-Feb-25,23:00,Selasa,25-Feb-25,12:00
+KM. LABOBAR,05.2025,Surabaya,Rabu,26-Feb-25,13:00,Rabu,26-Feb-25,17:00
+KM. LABOBAR,05.2025,Makassar,Kamis,27-Feb-25,20:00,Kamis,27-Feb-25,23:00
+KM. LABOBAR,05.2025,Bau-Bau,Jum'at,28-Feb-25,14:00,Jum'at,28-Feb-25,16:00
+KM. LABOBAR,05.2025,Ambon,Sabtu,1-Mar-25,16:00,Sabtu,1-Mar-25,19:00
+KM. LABOBAR,05.2025,Banda,Minggu,2-Mar-25,03:00,Minggu,2-Mar-25,05:00
+KM. LABOBAR,05.2025,Tual,Minggu,2-Mar-25,17:00,Minggu,2-Mar-25,20:00
+KM. LABOBAR,05.2025,Dobo,Senin,3-Mar-25,04:00,Senin,3-Mar-25,07:00
+KM. LABOBAR,05.2025,Kaimana,Senin,3-Mar-25,16:00,Senin,3-Mar-25,19:00
+KM. LABOBAR,05.2025,Fak-Fak,Selasa,4-Mar-25,05:00,Selasa,4-Mar-25,10:00
+KM. LABOBAR,05.2025,Kaimana,Selasa,4-Mar-25,20:00,Selasa,4-Mar-25,22:00
+KM. LABOBAR,05.2025,Dobo,Rabu,5-Mar-25,07:00,Rabu,5-Mar-25,09:00
+KM. LABOBAR,05.2025,Tual,Rabu,5-Mar-25,16:00,Rabu,5-Mar-25,18:00
+KM. LABOBAR,05.2025,Banda,Kamis,6-Mar-25,07:00,Kamis,6-Mar-25,09:00
+KM. LABOBAR,05.2025,Ambon,Kamis,6-Mar-25,17:00,Kamis,6-Mar-25,19:00
+KM. LABOBAR,05.2025,Bau-Bau,Jum'at,7-Mar-25,20:00,Jum'at,7-Mar-25,22:00
+KM. LABOBAR,05.2025,Makassar,Sabtu,8-Mar-25,12:00,Sabtu,8-Mar-25,14:00
+KM. LABOBAR,05.2025,Surabaya,Minggu,9-Mar-25,18:00,Minggu,9-Mar-25,21:00
+KM. LABOBAR,05.2025,Tg. Priok,Senin,10-Mar-25,22:00,,,
+KM. LAMBELU,01.2025,Makassar,Jum'at,27-Dec-24,04:00,Jum'at,27-Dec-24,11:00
+KM. LAMBELU,01.2025,Pare-Pare,Jum'at,27-Dec-24,18:00,Jum'at,27-Dec-24,21:00
+KM. LAMBELU,01.2025,Balikpapan,Sabtu,28-Dec-24,14:00,Sabtu,28-Dec-24,17:00
+KM. LAMBELU,01.2025,Pare-Pare,Minggu,29-Dec-24,10:00,Minggu,29-Dec-24,13:00
+KM. LAMBELU,01.2025,Makassar,Minggu,29-Dec-24,19:00,Minggu,29-Dec-24,22:00
+KM. LAMBELU,01.2025,Bau-Bau,Senin,30-Dec-24,14:00,Senin,30-Dec-24,16:00
+KM. LAMBELU,01.2025,Makassar,Selasa,31-Dec-24,08:00,Selasa,31-Dec-24,13:00
+KM. LAMBELU,01.2025,Pare-Pare,Selasa,31-Dec-24,19:00,Selasa,31-Dec-24,22:00
+KM. LAMBELU,01.2025,Balikpapan,Rabu,1-Jan-25,15:00,Rabu,1-Jan-25,18:00
+KM. LAMBELU,01.2025,Pantoloan,Kamis,2-Jan-25,07:00,Kamis,2-Jan-25,09:00
+KM. LAMBELU,01.2025,Balikpapan,Kamis,2-Jan-25,22:00,Jum'at,3-Jan-25,01:00
+KM. LAMBELU,01.2025,Pare-Pare,Jum'at,3-Jan-25,17:00,Jum'at,3-Jan-25,20:00
+KM. LAMBELU,01.2025,Makassar,Sabtu,4-Jan-25,02:00,Sabtu,4-Jan-25,07:00
+KM. LAMBELU,01.2025,Bau-Bau,Sabtu,4-Jan-25,23:00,Minggu,5-Jan-25,01:00
+KM. LAMBELU,01.2025,Makassar,Minggu,5-Jan-25,17:00,Minggu,5-Jan-25,20:00
+KM. LAMBELU,01.2025,Pare-Pare,Senin,6-Jan-25,02:00,Senin,6-Jan-25,04:00
+KM. LAMBELU,01.2025,Balikpapan,Senin,6-Jan-25,21:00,Senin,6-Jan-25,23:00
+KM. LAMBELU,01.2025,Pantoloan,Selasa,7-Jan-25,12:00,Selasa,7-Jan-25,14:00
+KM. LAMBELU,01.2025,Tarakan,Rabu,8-Jan-25,10:00,Rabu,8-Jan-25,13:00
+KM. LAMBELU,01.2025,Nunukan,Rabu,8-Jan-25,19:00,Rabu,8-Jan-25,21:00
+KM. LAMBELU,01.2025,Balikpapan,Jum'at,10-Jan-25,01:00,Jum'at,10-Jan-25,04:00
+KM. LAMBELU,01.2025,Pare-Pare,Jum'at,10-Jan-25,20:00,Jum'at,10-Jan-25,22:00
+KM. LAMBELU,01.2025,Makassar,Sabtu,11-Jan-25,04:00,,,
+KM. LAMBELU,02.2025,Makassar,Sabtu,11-Jan-25,04:00,Sabtu,11-Jan-25,16:00
+KM. LAMBELU,02.2025,Pare-Pare,Sabtu,11-Jan-25,21:00,Sabtu,11-Jan-25,23:59
+KM. LAMBELU,02.2025,Balikpapan,Minggu,12-Jan-25,16:00,Minggu,12-Jan-25,18:00
+KM. LAMBELU,02.2025,Pare-Pare,Senin,13-Jan-25,10:00,Senin,13-Jan-25,13:00
+KM. LAMBELU,02.2025,Makassar,Senin,13-Jan-25,18:00,Senin,13-Jan-25,21:00
+KM. LAMBELU,02.2025,Bau-Bau,Selasa,14-Jan-25,12:00,Selasa,14-Jan-25,14:00
+KM. LAMBELU,02.2025,Maumere,Rabu,15-Jan-25,02:00,Rabu,15-Jan-25,04:00
+KM. LAMBELU,02.2025,Larantuka,Rabu,15-Jan-25,09:00,Rabu,15-Jan-25,11:00
+KM. LAMBELU,02.2025,Bau-Bau,Rabu,15-Jan-25,23:00,Kamis,16-Jan-25,01:00
+KM. LAMBELU,02.2025,Makassar,Kamis,16-Jan-25,16:00,Kamis,16-Jan-25,20:00
+KM. LAMBELU,02.2025,Pare-Pare,Jum'at,17-Jan-25,02:00,Jum'at,17-Jan-25,06:00
+KM. LAMBELU,02.2025,Balikpapan,Jum'at,17-Jan-25,22:00,Jum'at,17-Jan-25,23:59
+KM. LAMBELU,02.2025,Pantoloan,Sabtu,18-Jan-25,13:00,Sabtu,18-Jan-25,15:00
+KM. LAMBELU,02.2025,Tarakan,Minggu,19-Jan-25,10:00,Minggu,19-Jan-25,14:00
+KM. LAMBELU,02.2025,Nunukan,Minggu,19-Jan-25,20:00,Minggu,19-Jan-25,22:00
+KM. LAMBELU,02.2025,Balikpapan,Selasa,21-Jan-25,01:00,Selasa,21-Jan-25,03:00
+KM. LAMBELU,02.2025,Pare-Pare,Selasa,21-Jan-25,19:00,Selasa,21-Jan-25,22:00
+KM. LAMBELU,02.2025,Makassar,Rabu,22-Jan-25,03:00,,,
+KM. LAMBELU,03.2025,Makassar,Rabu,22-Jan-25,03:00,Rabu,22-Jan-25,11:00
+KM. LAMBELU,03.2025,Pare-Pare,Rabu,22-Jan-25,16:00,Rabu,22-Jan-25,19:00
+KM. LAMBELU,03.2025,Balikpapan,Kamis,23-Jan-25,11:00,Kamis,23-Jan-25,13:00
+KM. LAMBELU,03.2025,Tarakan,Jum'at,24-Jan-25,15:00,Jum'at,24-Jan-25,18:00
+KM. LAMBELU,03.2025,Nunukan,Sabtu,25-Jan-25,00:01,Sabtu,25-Jan-25,03:00
+KM. LAMBELU,03.2025,Pantoloan,Minggu,26-Jan-25,00:01,Minggu,26-Jan-25,02:00
+KM. LAMBELU,03.2025,Balikpapan,Minggu,26-Jan-25,15:00,Minggu,26-Jan-25,17:00
+KM. LAMBELU,03.2025,Pare-Pare,Senin,27-Jan-25,09:00,Senin,27-Jan-25,12:00
+KM. LAMBELU,03.2025,Makassar,Senin,27-Jan-25,17:00,Senin,27-Jan-25,20:00
+KM. LAMBELU,03.2025,Bau-Bau,Selasa,28-Jan-25,11:00,Selasa,28-Jan-25,13:00
+KM. LAMBELU,03.2025,Maumere,Rabu,29-Jan-25,02:00,Rabu,29-Jan-25,04:00
+KM. LAMBELU,03.2025,Larantuka,Rabu,29-Jan-25,09:00,Rabu,29-Jan-25,11:00
+KM. LAMBELU,03.2025,Bau-Bau,Rabu,29-Jan-25,23:00,Kamis,30-Jan-25,01:00
+KM. LAMBELU,03.2025,Makassar,Kamis,30-Jan-25,16:00,Kamis,30-Jan-25,20:00
+KM. LAMBELU,03.2025,Pare-Pare,Jum'at,31-Jan-25,01:00,Jum'at,31-Jan-25,06:00
+KM. LAMBELU,03.2025,Balikpapan,Jum'at,31-Jan-25,22:00,Jum'at,31-Jan-25,23:59
+KM. LAMBELU,03.2025,Pantoloan,Sabtu,1-Feb-25,13:00,Sabtu,1-Feb-25,15:00
+KM. LAMBELU,03.2025,Tarakan,Minggu,2-Feb-25,10:00,Minggu,2-Feb-25,14:00
+KM. LAMBELU,03.2025,Nunukan,Minggu,2-Feb-25,20:00,Minggu,2-Feb-25,23:00
+KM. LAMBELU,03.2025,Balikpapan,Selasa,4-Feb-25,02:00,Selasa,4-Feb-25,04:00
+KM. LAMBELU,03.2025,Pare-Pare,Selasa,4-Feb-25,20:00,Selasa,4-Feb-25,22:00
+KM. LAMBELU,03.2025,Makassar,Rabu,5-Feb-25,03:00,,,
+KM. LAMBELU,04.2025,Makassar,Rabu,5-Feb-25,03:00,Rabu,5-Feb-25,11:00
+KM. LAMBELU,04.2025,Pare-Pare,Rabu,5-Feb-25,16:00,Rabu,5-Feb-25,19:00
+KM. LAMBELU,04.2025,Balikpapan,Kamis,6-Feb-25,11:00,Kamis,6-Feb-25,13:00
+KM. LAMBELU,04.2025,Tarakan,Jum'at,7-Feb-25,15:00,Jum'at,7-Feb-25,18:00
+KM. LAMBELU,04.2025,Nunukan,Sabtu,8-Feb-25,00:01,Sabtu,8-Feb-25,03:00
+KM. LAMBELU,04.2025,Pantoloan,Minggu,9-Feb-25,00:01,Minggu,9-Feb-25,02:00
+KM. LAMBELU,04.2025,Balikpapan,Minggu,9-Feb-25,15:00,Minggu,9-Feb-25,17:00
+KM. LAMBELU,04.2025,Pare-Pare,Senin,10-Feb-25,09:00,Senin,10-Feb-25,12:00
+KM. LAMBELU,04.2025,Makassar,Senin,10-Feb-25,17:00,Senin,10-Feb-25,20:00
+KM. LAMBELU,04.2025,Bau-Bau,Selasa,11-Feb-25,11:00,Selasa,11-Feb-25,13:00
+KM. LAMBELU,04.2025,Maumere,Rabu,12-Feb-25,02:00,Rabu,12-Feb-25,04:00
+KM. LAMBELU,04.2025,Larantuka,Rabu,12-Feb-25,09:00,Rabu,12-Feb-25,11:00
+KM. LAMBELU,04.2025,Bau-Bau,Rabu,12-Feb-25,23:00,Kamis,13-Feb-25,01:00
+KM. LAMBELU,04.2025,Makassar,Kamis,13-Feb-25,16:00,Kamis,13-Feb-25,20:00
+KM. LAMBELU,04.2025,Pare-Pare,Jum'at,14-Feb-25,01:00,Jum'at,14-Feb-25,06:00
+KM. LAMBELU,04.2025,Balikpapan,Jum'at,14-Feb-25,22:00,Jum'at,14-Feb-25,23:59
+KM. LAMBELU,04.2025,Pantoloan,Sabtu,15-Feb-25,13:00,Sabtu,15-Feb-25,15:00
+KM. LAMBELU,04.2025,Tarakan,Minggu,16-Feb-25,10:00,Minggu,16-Feb-25,14:00
+KM. LAMBELU,04.2025,Nunukan,Minggu,16-Feb-25,20:00,Minggu,16-Feb-25,23:00
+KM. LAMBELU,04.2025,Balikpapan,Selasa,18-Feb-25,02:00,Selasa,18-Feb-25,04:00
+KM. LAMBELU,04.2025,Pare-Pare,Selasa,18-Feb-25,20:00,Selasa,18-Feb-25,22:00
+KM. LAMBELU,04.2025,Makassar,Rabu,19-Feb-25,03:00,,,
+KM. LAMBELU,05.2025,Makassar,Rabu,19-Feb-25,03:00,Rabu,19-Feb-25,11:00
+KM. LAMBELU,05.2025,Pare-Pare,Rabu,19-Feb-25,16:00,Rabu,19-Feb-25,19:00
+KM. LAMBELU,05.2025,Balikpapan,Kamis,20-Feb-25,11:00,Kamis,20-Feb-25,13:00
+KM. LAMBELU,05.2025,Tarakan,Jum'at,21-Feb-25,15:00,Jum'at,21-Feb-25,18:00
+KM. LAMBELU,05.2025,Nunukan,Sabtu,22-Feb-25,00:01,Sabtu,22-Feb-25,03:00
+KM. LAMBELU,05.2025,Pantoloan,Minggu,23-Feb-25,00:01,Minggu,23-Feb-25,02:00
+KM. LAMBELU,05.2025,Balikpapan,Minggu,23-Feb-25,15:00,Minggu,23-Feb-25,17:00
+KM. LAMBELU,05.2025,Pare-Pare,Senin,24-Feb-25,09:00,Senin,24-Feb-25,12:00
+KM. LAMBELU,05.2025,Makassar,Senin,24-Feb-25,17:00,Senin,24-Feb-25,20:00
+KM. LAMBELU,05.2025,Bau-Bau,Selasa,25-Feb-25,11:00,Selasa,25-Feb-25,13:00
+KM. LAMBELU,05.2025,Maumere,Rabu,26-Feb-25,02:00,Rabu,26-Feb-25,04:00
+KM. LAMBELU,05.2025,Larantuka,Rabu,26-Feb-25,09:00,Rabu,26-Feb-25,11:00
+KM. LAMBELU,05.2025,Bau-Bau,Rabu,26-Feb-25,23:00,Kamis,27-Feb-25,01:00
+KM. LAMBELU,05.2025,Makassar,Kamis,27-Feb-25,16:00,Kamis,27-Feb-25,20:00
+KM. LAMBELU,05.2025,Pare-Pare,Jum'at,28-Feb-25,01:00,Jum'at,28-Feb-25,06:00
+KM. LAMBELU,05.2025,Balikpapan,Jum'at,28-Feb-25,22:00,Jum'at,28-Feb-25,23:59
+KM. LAMBELU,05.2025,Pantoloan,Sabtu,1-Mar-25,13:00,Sabtu,1-Mar-25,15:00
+KM. LAMBELU,05.2025,Tarakan,Minggu,2-Mar-25,10:00,Minggu,2-Mar-25,14:00
+KM. LAMBELU,05.2025,Nunukan,Minggu,2-Mar-25,20:00,Minggu,2-Mar-25,23:00
+KM. LAMBELU,05.2025,Balikpapan,Selasa,4-Mar-25,02:00,Selasa,4-Mar-25,04:00
+KM. LAMBELU,05.2025,Pare-Pare,Selasa,4-Mar-25,20:00,Selasa,4-Mar-25,22:00
+KM. LAMBELU,05.2025,Makassar,Rabu,5-Mar-25,03:00,,,
+KM. LAWIT,01.2025,Tg. Priok,Rabu,1-Jan-25,13:00,Kamis,2-Jan-25,23:59
+KM. LAWIT,01.2025,Surabaya,Sabtu,4-Jan-25,16:00,Sabtu,4-Jan-25,20:00
+KM. LAWIT,01.2025,Sampit,Senin,6-Jan-25,00:01,Senin,6-Jan-25,20:00
+KM. LAWIT,01.2025,Semarang,Rabu,8-Jan-25,04:00,Rabu,8-Jan-25,10:00
+KM. LAWIT,01.2025,Kumai,Kamis,9-Jan-25,13:00,Kamis,9-Jan-25,15:00
+KM. LAWIT,01.2025,Semarang,Jum'at,10-Jan-25,17:00,Jum'at,10-Jan-25,23:00
+KM. LAWIT,01.2025,Karimun Jawa,Sabtu,11-Jan-25,06:00,Minggu,12-Jan-25,02:00
+KM. LAWIT,01.2025,Semarang,Minggu,12-Jan-25,08:00,Minggu,12-Jan-25,11:00
+KM. LAWIT,01.2025,Sampit,Senin,13-Jan-25,20:00,Selasa,14-Jan-25,15:00
+KM. LAWIT,01.2025,Surabaya,Rabu,15-Jan-25,20:00,Rabu,15-Jan-25,23:59
+KM. LAWIT,01.2025,Kumai,Jum'at,17-Jan-25,04:00,,,
+KM. LAWIT,02.2025,Kumai,Jum'at,17-Jan-25,04:00,Jum'at,17-Jan-25,14:00
+KM. LAWIT,02.2025,Surabaya,Sabtu,18-Jan-25,18:00,Sabtu,18-Jan-25,23:59
+KM. LAWIT,02.2025,Benoa,Senin,20-Jan-25,05:00,Senin,20-Jan-25,10:00
+KM. LAWIT,02.2025,Bima,Selasa,21-Jan-25,08:00,Selasa,21-Jan-25,10:00
+KM. LAWIT,02.2025,Waingapu,Rabu,22-Jan-25,01:00,Rabu,22-Jan-25,04:00
+KM. LAWIT,02.2025,Ende,Rabu,22-Jan-25,14:00,Rabu,22-Jan-25,16:00
+KM. LAWIT,02.2025,Kalabahi,Kamis,23-Jan-25,11:00,Kamis,23-Jan-25,13:00
+KM. LAWIT,02.2025,Kupang,Jum'at,24-Jan-25,02:00,Jum'at,24-Jan-25,06:00
+KM. LAWIT,02.2025,Rote,Jum'at,24-Jan-25,11:00,Jum'at,24-Jan-25,13:00
+KM. LAWIT,02.2025,Kupang,Jum'at,24-Jan-25,18:00,Jum'at,24-Jan-25,22:00
+KM. LAWIT,02.2025,Kalabahi,Sabtu,25-Jan-25,11:00,Sabtu,25-Jan-25,13:00
+KM. LAWIT,02.2025,Ende,Minggu,26-Jan-25,08:00,Minggu,26-Jan-25,10:00
+KM. LAWIT,02.2025,Waingapu,Minggu,26-Jan-25,20:00,Minggu,26-Jan-25,23:00
+KM. LAWIT,02.2025,Bima,Senin,27-Jan-25,14:00,Senin,27-Jan-25,16:00
+KM. LAWIT,02.2025,Benoa,Selasa,28-Jan-25,14:00,Selasa,28-Jan-25,17:00
+KM. LAWIT,02.2025,Surabaya,Rabu,29-Jan-25,23:00,Kamis,30-Jan-25,02:00
+KM. LAWIT,02.2025,Kumai,Jum'at,31-Jan-25,07:00,,,
+KM. LAWIT,03.2025,Kumai,Jum'at,31-Jan-25,07:00,Sabtu,1-Feb-25,04:00
+KM. LAWIT,03.2025,Surabaya,Minggu,2-Feb-25,09:00,Minggu,2-Feb-25,15:00
+KM. LAWIT,03.2025,Sampit,Senin,3-Feb-25,23:00,Selasa,4-Feb-25,20:00
+KM. LAWIT,03.2025,Semarang,Kamis,6-Feb-25,04:00,Kamis,6-Feb-25,12:00
+KM. LAWIT,03.2025,Kumai,Jum'at,7-Feb-25,13:00,Jum'at,7-Feb-25,15:00
+KM. LAWIT,03.2025,Semarang,Sabtu,8-Feb-25,16:00,Sabtu,8-Feb-25,20:00
+KM. LAWIT,03.2025,Karimun Jawa,Minggu,9-Feb-25,03:00,Minggu,9-Feb-25,22:00
+KM. LAWIT,03.2025,Semarang,Senin,10-Feb-25,04:00,Senin,10-Feb-25,09:00
+KM. LAWIT,03.2025,Sampit,Selasa,11-Feb-25,19:00,Rabu,12-Feb-25,15:00
+KM. LAWIT,03.2025,Surabaya,Kamis,13-Feb-25,19:00,Kamis,13-Feb-25,22:00
+KM. LAWIT,03.2025,Kumai,Sabtu,15-Feb-25,02:00,,,
+KM. LAWIT,04.2025,Kumai,Sabtu,15-Feb-25,02:00,Sabtu,15-Feb-25,04:00
+KM. LAWIT,04.2025,Surabaya,Minggu,16-Feb-25,09:00,Minggu,16-Feb-25,14:00
+KM. LAWIT,04.2025,Benoa,Senin,17-Feb-25,19:00,Senin,17-Feb-25,23:59
+KM. LAWIT,04.2025,Bima,Selasa,18-Feb-25,22:00,Selasa,18-Feb-25,23:59
+KM. LAWIT,04.2025,Waingapu,Rabu,19-Feb-25,15:00,Rabu,19-Feb-25,18:00
+KM. LAWIT,04.2025,Ende,Kamis,20-Feb-25,04:00,Kamis,20-Feb-25,06:00
+KM. LAWIT,04.2025,Kalabahi,Jum'at,21-Feb-25,01:00,Jum'at,21-Feb-25,03:00
+KM. LAWIT,04.2025,Kupang,Jum'at,21-Feb-25,16:00,Jum'at,21-Feb-25,20:00
+KM. LAWIT,04.2025,Rote,Sabtu,22-Feb-25,01:00,Sabtu,22-Feb-25,03:00
+KM. LAWIT,04.2025,Kupang,Sabtu,22-Feb-25,08:00,Sabtu,22-Feb-25,12:00
+KM. LAWIT,04.2025,Kalabahi,Minggu,23-Feb-25,01:00,Minggu,23-Feb-25,03:00
+KM. LAWIT,04.2025,Ende,Minggu,23-Feb-25,22:00,Minggu,23-Feb-25,23:59
+KM. LAWIT,04.2025,Waingapu,Senin,24-Feb-25,10:00,Senin,24-Feb-25,13:00
+KM. LAWIT,04.2025,Bima,Selasa,25-Feb-25,04:00,Selasa,25-Feb-25,06:00
+KM. LAWIT,04.2025,Benoa,Rabu,26-Feb-25,04:00,Rabu,26-Feb-25,07:00
+KM. LAWIT,04.2025,Surabaya,Kamis,27-Feb-25,13:00,Kamis,27-Feb-25,16:00
+KM. LAWIT,04.2025,Kumai,Jum'at,28-Feb-25,21:00,,,
+KM. LAWIT,05.2025,Kumai,Jum'at,28-Feb-25,21:00,Jum'at,28-Feb-25,23:59
+KM. LAWIT,05.2025,Surabaya,Minggu,2-Mar-25,05:00,Minggu,2-Mar-25,11:00
+KM. LAWIT,05.2025,Kumai,Senin,3-Mar-25,19:00,Senin,3-Mar-25,23:59
+KM. LAWIT,05.2025,Semarang,Rabu,5-Mar-25,02:00,Rabu,5-Mar-25,10:00
+KM. LAWIT,05.2025,Kumai,Kamis,6-Mar-25,11:00,Kamis,6-Mar-25,13:00
+KM. LAWIT,05.2025,Semarang,Jum'at,7-Mar-25,14:00,Jum'at,7-Mar-25,22:00
+KM. LAWIT,05.2025,Karimun Jawa,Sabtu,8-Mar-25,05:00,Minggu,9-Mar-25,15:00
+KM. LAWIT,05.2025,Semarang,Minggu,9-Mar-25,21:00,Senin,10-Mar-25,07:00
+KM. LAWIT,05.2025,Sampit,Selasa,11-Mar-25,17:00,Rabu,12-Mar-25,13:00
+KM. LAWIT,05.2025,Surabaya,Kamis,13-Mar-25,17:00,Kamis,13-Mar-25,20:00
+KM. LAWIT,05.2025,Kumai,Sabtu,15-Mar-25,00:01,,,
+KM. LEUSER,01.2025,Surabaya,Minggu,12-Jan-25,17:00,Senin,13-Jan-25,21:00
+KM. LEUSER,01.2025,Benoa,Rabu,15-Jan-25,02:00,Rabu,15-Jan-25,04:00
+KM. LEUSER,01.2025,Bima,Kamis,16-Jan-25,03:00,Kamis,16-Jan-25,05:00
+KM. LEUSER,01.2025,Labuan Bajo,Kamis,16-Jan-25,13:00,Kamis,16-Jan-25,15:00
+KM. LEUSER,01.2025,Makassar,Jum'at,17-Jan-25,11:00,Jum'at,17-Jan-25,16:00
+KM. LEUSER,01.2025,Bau-Bau,Sabtu,18-Jan-25,15:00,Sabtu,18-Jan-25,17:00
+KM. LEUSER,01.2025,Wanci,Minggu,19-Jan-25,02:00,Minggu,19-Jan-25,04:00
+KM. LEUSER,01.2025,Namrole,Senin,20-Jan-25,04:00,Senin,20-Jan-25,06:00
+KM. LEUSER,01.2025,Ambon,Senin,20-Jan-25,17:00,Senin,20-Jan-25,21:00
+KM. LEUSER,01.2025,Saumlaki,Rabu,22-Jan-25,06:00,Rabu,22-Jan-25,08:00
+KM. LEUSER,01.2025,Tual,Kamis,23-Jan-25,06:00,Kamis,23-Jan-25,10:00
+KM. LEUSER,01.2025,Dobo,Kamis,23-Jan-25,21:00,Kamis,23-Jan-25,23:00
+KM. LEUSER,01.2025,Timika,Jum'at,24-Jan-25,19:00,Jum'at,24-Jan-25,21:00
+KM. LEUSER,01.2025,Agats,Sabtu,25-Jan-25,10:00,Sabtu,25-Jan-25,16:00
+KM. LEUSER,01.2025,Merauke,Senin,27-Jan-25,10:00,Selasa,28-Jan-25,09:00
+KM. LEUSER,01.2025,Agats,Kamis,30-Jan-25,01:00,Kamis,30-Jan-25,09:00
+KM. LEUSER,01.2025,Timika,Kamis,30-Jan-25,23:00,Jum'at,31-Jan-25,01:00
+KM. LEUSER,01.2025,Dobo,Jum'at,31-Jan-25,19:00,Jum'at,31-Jan-25,21:00
+KM. LEUSER,01.2025,Tual,Sabtu,1-Feb-25,07:00,Sabtu,1-Feb-25,11:00
+KM. LEUSER,01.2025,Saumlaki,Minggu,2-Feb-25,06:00,Minggu,2-Feb-25,08:00
+KM. LEUSER,01.2025,Ambon,Senin,3-Feb-25,16:00,Senin,3-Feb-25,19:00
+KM. LEUSER,01.2025,Namrole,Selasa,4-Feb-25,05:00,Selasa,4-Feb-25,07:00
+KM. LEUSER,01.2025,Wanci,Rabu,5-Feb-25,03:00,Rabu,5-Feb-25,04:00
+KM. LEUSER,01.2025,Bau-Bau,Rabu,5-Feb-25,12:00,Rabu,5-Feb-25,14:00
+KM. LEUSER,01.2025,Makassar,Kamis,6-Feb-25,13:00,Kamis,6-Feb-25,16:00
+KM. LEUSER,01.2025,Labuan Bajo,Jum'at,7-Feb-25,12:00,Jum'at,7-Feb-25,13:00
+KM. LEUSER,01.2025,Bima,Jum'at,7-Feb-25,21:00,Jum'at,7-Feb-25,22:00
+KM. LEUSER,01.2025,Benoa,Sabtu,8-Feb-25,22:00,Sabtu,8-Feb-25,23:59
+KM. LEUSER,01.2025,Surabaya,Senin,10-Feb-25,06:00,,,
+KM. LEUSER,02.2025,Surabaya,Senin,10-Feb-25,06:00,Senin,10-Feb-25,13:00
+KM. LEUSER,02.2025,Benoa,Selasa,11-Feb-25,17:00,Selasa,11-Feb-25,19:00
+KM. LEUSER,02.2025,Bima,Rabu,12-Feb-25,17:00,Rabu,12-Feb-25,19:00
+KM. LEUSER,02.2025,Labuan Bajo,Kamis,13-Feb-25,03:00,Kamis,13-Feb-25,05:00
+KM. LEUSER,02.2025,Makassar,Jum'at,14-Feb-25,02:00,Jum'at,14-Feb-25,05:00
+KM. LEUSER,02.2025,Bau-Bau,Sabtu,15-Feb-25,03:00,Sabtu,15-Feb-25,05:00
+KM. LEUSER,02.2025,Wanci,Sabtu,15-Feb-25,13:00,Sabtu,15-Feb-25,15:00
+KM. LEUSER,02.2025,Namrole,Minggu,16-Feb-25,12:00,Minggu,16-Feb-25,14:00
+KM. LEUSER,02.2025,Ambon,Senin,17-Feb-25,00:01,Senin,17-Feb-25,03:00
+KM. LEUSER,02.2025,Saumlaki,Selasa,18-Feb-25,10:00,Selasa,18-Feb-25,12:00
+KM. LEUSER,02.2025,Tual,Rabu,19-Feb-25,07:00,Rabu,19-Feb-25,11:00
+KM. LEUSER,02.2025,Dobo,Rabu,19-Feb-25,22:00,Rabu,19-Feb-25,23:59
+KM. LEUSER,02.2025,Timika,Kamis,20-Feb-25,19:00,Kamis,20-Feb-25,21:00
+KM. LEUSER,02.2025,Agats,Jum'at,21-Feb-25,09:00,Jum'at,21-Feb-25,11:00
+KM. LEUSER,02.2025,Merauke,Minggu,23-Feb-25,06:00,Senin,24-Feb-25,02:00
+KM. LEUSER,02.2025,Agats,Selasa,25-Feb-25,19:00,Selasa,25-Feb-25,20:00
+KM. LEUSER,02.2025,Timika,Rabu,26-Feb-25,09:00,Rabu,26-Feb-25,18:00
+KM. LEUSER,02.2025,Dobo,Kamis,27-Feb-25,13:00,Kamis,27-Feb-25,15:00
+KM. LEUSER,02.2025,Tual,Jum'at,28-Feb-25,01:00,Jum'at,28-Feb-25,05:00
+KM. LEUSER,02.2025,Saumlaki,Jum'at,28-Feb-25,23:00,Sabtu,1-Mar-25,01:00
+KM. LEUSER,02.2025,Ambon,Minggu,2-Mar-25,09:00,Minggu,2-Mar-25,12:00
+KM. LEUSER,02.2025,Namrole,Minggu,2-Mar-25,21:00,Minggu,2-Mar-25,23:00
+KM. LEUSER,02.2025,Wanci,Senin,3-Mar-25,19:00,Senin,3-Mar-25,20:00
+KM. LEUSER,02.2025,Bau-Bau,Selasa,4-Mar-25,05:00,Selasa,4-Mar-25,07:00
+KM. LEUSER,02.2025,Makassar,Rabu,5-Mar-25,04:00,Rabu,5-Mar-25,08:00
+KM. LEUSER,02.2025,Labuan Bajo,Kamis,6-Mar-25,03:00,Kamis,6-Mar-25,04:00
+KM. LEUSER,02.2025,Bima,Kamis,6-Mar-25,12:00,Kamis,6-Mar-25,13:00
+KM. LEUSER,02.2025,Benoa,Jum'at,7-Mar-25,12:00,Jum'at,7-Mar-25,14:00
+KM. LEUSER,02.2025,Surabaya,Sabtu,8-Mar-25,18:00,,,
+KM. LEUSER,03.2025,Surabaya,Rabu,12-Mar-25,12:00,Kamis,13-Mar-25,11:00
+KM. LEUSER,03.2025,Kumai,Jum'at,14-Mar-25,15:00,Jum'at,14-Mar-25,18:00
+KM. LEUSER,03.2025,Semarang,Sabtu,15-Mar-25,19:00,Minggu,16-Mar-25,11:00
+KM. LEUSER,03.2025,Batulicin,Selasa,18-Mar-25,02:00,Selasa,18-Mar-25,05:00
+KM. LEUSER,03.2025,Surabaya,Rabu,19-Mar-25,13:00,Rabu,19-Mar-25,17:00
+KM. LEUSER,03.2025,Kumai,Kamis,20-Mar-25,20:00,Kamis,20-Mar-25,23:00
+KM. LEUSER,03.2025,Semarang,Sabtu,22-Mar-25,00:01,Sabtu,22-Mar-25,04:00
+KM. LEUSER,03.2025,Sampit,Minggu,23-Mar-25,14:00,Senin,24-Mar-25,11:00
+KM. LEUSER,03.2025,Semarang,Selasa,25-Mar-25,18:00,Selasa,25-Mar-25,21:00
+KM. LEUSER,03.2025,Kumai,Rabu,26-Mar-25,22:00,Rabu,26-Mar-25,23:59
+KM. LEUSER,03.2025,Semarang,Jum'at,28-Mar-25,00:01,Jum'at,28-Mar-25,08:00
+KM. LEUSER,03.2025,Kumai,Sabtu,29-Mar-25,09:00,Sabtu,29-Mar-25,11:00
+KM. LEUSER,03.2025,Surabaya,Minggu,30-Mar-25,14:00,,,
+KM. LEUSER,04.2025,Surabaya,Minggu,30-Mar-25,14:00,Selasa,1-Apr-25,23:59
+KM. LEUSER,04.2025,Kumai,Kamis,3-Apr-25,04:00,Kamis,3-Apr-25,07:00
+KM. LEUSER,04.2025,Semarang,Jum'at,4-Apr-25,08:00,Jum'at,4-Apr-25,11:00
+KM. LEUSER,04.2025,Kumai,Sabtu,5-Apr-25,12:00,Sabtu,5-Apr-25,15:00
+KM. LEUSER,04.2025,Semarang,Minggu,6-Apr-25,16:00,Senin,7-Apr-25,01:00
+KM. LEUSER,04.2025,Sampit,Selasa,8-Apr-25,15:00,Rabu,9-Apr-25,12:00
+KM. LEUSER,04.2025,Semarang,Kamis,10-Apr-25,19:00,Kamis,10-Apr-25,23:59
+KM. LEUSER,04.2025,Kumai,Sabtu,12-Apr-25,04:00,Sabtu,12-Apr-25,08:00
+KM. LEUSER,04.2025,Surabaya,Minggu,13-Apr-25,11:00,Minggu,13-Apr-25,15:00
+KM. LEUSER,04.2025,Kumai,Senin,14-Apr-25,19:00,Senin,14-Apr-25,22:00
+KM. LEUSER,04.2025,Surabaya,Rabu,16-Apr-25,01:00,Rabu,16-Apr-25,05:00
+KM. LEUSER,04.2025,Sampit,Kamis,17-Apr-25,11:00,Jum'at,18-Apr-25,07:00
+KM. LEUSER,04.2025,Surabaya,Sabtu,19-Apr-25,11:00,Sabtu,19-Apr-25,14:00
+KM. LEUSER,04.2025,Kumai,Minggu,20-Apr-25,18:00,Senin,21-Apr-25,06:00
+KM. LEUSER,04.2025,Semarang,Selasa,22-Apr-25,07:00,Selasa,22-Apr-25,12:00
+KM. LEUSER,04.2025,Kumai,Rabu,23-Apr-25,13:00,Rabu,23-Apr-25,16:00
+KM. LEUSER,04.2025,Surabaya,Kamis,24-Apr-25,19:00,Kamis,24-Apr-25,23:00
+KM. LEUSER,04.2025,Kumai,Sabtu,26-Apr-25,03:00,Sabtu,26-Apr-25,06:00
+KM. LEUSER,04.2025,Surabaya,Minggu,27-Apr-25,09:00,,,
+KM. LEUSER,05.2025,Surabaya,Minggu,27-Apr-25,09:00,Minggu,27-Apr-25,16:00
+KM. LEUSER,05.2025,Benoa,Senin,28-Apr-25,21:00,Selasa,29-Apr-25,01:00
+KM. LEUSER,05.2025,Bima,Rabu,30-Apr-25,00:01,Rabu,30-Apr-25,02:00
+KM. LEUSER,05.2025,Labuan Bajo,Rabu,30-Apr-25,10:00,Rabu,30-Apr-25,12:00
+KM. LEUSER,05.2025,Makassar,Kamis,1-May-25,09:00,Kamis,1-May-25,14:00
+KM. LEUSER,05.2025,Bau-Bau,Jum'at,2-May-25,13:00,Jum'at,2-May-25,17:00
+KM. LEUSER,05.2025,Wanci,Sabtu,3-May-25,01:00,Sabtu,3-May-25,03:00
+KM. LEUSER,05.2025,Namrole,Minggu,4-May-25,00:01,Minggu,4-May-25,02:00
+KM. LEUSER,05.2025,Ambon,Minggu,4-May-25,12:00,Minggu,4-May-25,16:00
+KM. LEUSER,05.2025,Saumlaki,Senin,5-May-25,23:00,Selasa,6-May-25,01:00
+KM. LEUSER,05.2025,Tual,Selasa,6-May-25,20:00,Rabu,7-May-25,01:00
+KM. LEUSER,05.2025,Dobo,Rabu,7-May-25,12:00,Rabu,7-May-25,16:00
+KM. LEUSER,05.2025,Timika,Kamis,8-May-25,13:00,Kamis,8-May-25,15:00
+KM. LEUSER,05.2025,Agats,Jum'at,9-May-25,03:00,Jum'at,9-May-25,05:00
+KM. LEUSER,05.2025,Merauke,Minggu,11-May-25,01:00,Minggu,11-May-25,23:59
+KM. LEUSER,05.2025,Agats,Selasa,13-May-25,17:00,Selasa,13-May-25,20:00
+KM. LEUSER,05.2025,Timika,Rabu,14-May-25,11:00,Rabu,14-May-25,13:00
+KM. LEUSER,05.2025,Dobo,Kamis,15-May-25,08:00,Kamis,15-May-25,10:00
+KM. LEUSER,05.2025,Tual,Kamis,15-May-25,20:00,Kamis,15-May-25,23:59
+KM. LEUSER,05.2025,Saumlaki,Jum'at,16-May-25,18:00,Jum'at,16-May-25,20:00
+KM. LEUSER,05.2025,Ambon,Minggu,18-May-25,04:00,Minggu,18-May-25,07:00
+KM. LEUSER,05.2025,Namrole,Minggu,18-May-25,16:00,Minggu,18-May-25,18:00
+KM. LEUSER,05.2025,Wanci,Senin,19-May-25,14:00,Senin,19-May-25,15:00
+KM. LEUSER,05.2025,Bau-Bau,Selasa,20-May-25,00:01,Selasa,20-May-25,02:00
+KM. LEUSER,05.2025,Makassar,Selasa,20-May-25,23:00,Rabu,21-May-25,03:00
+KM. LEUSER,05.2025,Labuan Bajo,Rabu,21-May-25,22:00,Rabu,21-May-25,23:00
+KM. LEUSER,05.2025,Bima,Kamis,22-May-25,07:00,Kamis,22-May-25,08:00
+KM. LEUSER,05.2025,Benoa,Jum'at,23-May-25,07:00,Jum'at,23-May-25,09:00
+KM. LEUSER,05.2025,Surabaya,Sabtu,24-May-25,13:00,,,
+KM. PANGRANGO,01.2025,Ambon,Kamis,2-Jan-25,12:00,Jum'at,3-Jan-25,16:00
+KM. PANGRANGO,01.2025,Banda,Sabtu,4-Jan-25,06:00,Sabtu,4-Jan-25,16:00
+KM. PANGRANGO,01.2025,Ambon,Minggu,5-Jan-25,06:00,Minggu,5-Jan-25,20:00
+KM. PANGRANGO,01.2025,Namrole,Senin,6-Jan-25,06:00,Senin,6-Jan-25,08:00
+KM. PANGRANGO,01.2025,Ambon,Senin,6-Jan-25,18:00,Selasa,7-Jan-25,23:59
+KM. PANGRANGO,01.2025,Banda,Rabu,8-Jan-25,14:00,Rabu,8-Jan-25,16:00
+KM. PANGRANGO,01.2025,Saumlaki,Kamis,9-Jan-25,19:00,Kamis,9-Jan-25,23:59
+KM. PANGRANGO,01.2025,Banda,Sabtu,11-Jan-25,05:00,Sabtu,11-Jan-25,07:00
+KM. PANGRANGO,01.2025,Ambon,Sabtu,11-Jan-25,21:00,Minggu,12-Jan-25,17:00
+KM. PANGRANGO,01.2025,Banda,Senin,13-Jan-25,07:00,Senin,13-Jan-25,09:00
+KM. PANGRANGO,01.2025,Saumlaki,Selasa,14-Jan-25,12:00,Selasa,14-Jan-25,16:00
+KM. PANGRANGO,01.2025,Banda,Rabu,15-Jan-25,20:00,Rabu,15-Jan-25,22:00
+KM. PANGRANGO,01.2025,Ambon,Kamis,16-Jan-25,12:00,,,
+KM. PANGRANGO,02.2025,Ambon,Kamis,16-Jan-25,12:00,Jum'at,17-Jan-25,16:00
+KM. PANGRANGO,02.2025,Banda,Sabtu,18-Jan-25,06:00,Minggu,19-Jan-25,16:00
+KM. PANGRANGO,02.2025,Ambon,Senin,20-Jan-25,06:00,Senin,20-Jan-25,20:00
+KM. PANGRANGO,02.2025,Namrole,Selasa,21-Jan-25,06:00,Selasa,21-Jan-25,08:00
+KM. PANGRANGO,02.2025,Ambon,Selasa,21-Jan-25,18:00,Selasa,21-Jan-25,23:59
+KM. PANGRANGO,02.2025,Banda,Rabu,22-Jan-25,14:00,Rabu,22-Jan-25,16:00
+KM. PANGRANGO,02.2025,Saumlaki,Kamis,23-Jan-25,19:00,Kamis,23-Jan-25,23:59
+KM. PANGRANGO,02.2025,Banda,Sabtu,25-Jan-25,05:00,Sabtu,25-Jan-25,07:00
+KM. PANGRANGO,02.2025,Ambon,Sabtu,25-Jan-25,21:00,Minggu,26-Jan-25,17:00
+KM. PANGRANGO,02.2025,Banda,Senin,27-Jan-25,07:00,Senin,27-Jan-25,09:00
+KM. PANGRANGO,02.2025,Saumlaki,Selasa,28-Jan-25,12:00,Selasa,28-Jan-25,16:00
+KM. PANGRANGO,02.2025,Banda,Rabu,29-Jan-25,20:00,Rabu,29-Jan-25,22:00
+KM. PANGRANGO,02.2025,Ambon,Kamis,30-Jan-25,12:00,,,
+KM. PANGRANGO,03.2025,Ambon,Kamis,30-Jan-25,12:00,Jum'at,31-Jan-25,16:00
+KM. PANGRANGO,03.2025,Banda,Sabtu,1-Feb-25,06:00,Sabtu,1-Feb-25,16:00
+KM. PANGRANGO,03.2025,Ambon,Minggu,2-Feb-25,06:00,Minggu,2-Feb-25,20:00
+KM. PANGRANGO,03.2025,Namrole,Senin,3-Feb-25,06:00,Senin,3-Feb-25,08:00
+KM. PANGRANGO,03.2025,Ambon,Senin,3-Feb-25,18:00,Selasa,4-Feb-25,23:59
+KM. PANGRANGO,03.2025,Banda,Rabu,5-Feb-25,14:00,Rabu,5-Feb-25,16:00
+KM. PANGRANGO,03.2025,Saumlaki,Kamis,6-Feb-25,19:00,Kamis,6-Feb-25,23:59
+KM. PANGRANGO,03.2025,Banda,Sabtu,8-Feb-25,05:00,Sabtu,8-Feb-25,07:00
+KM. PANGRANGO,03.2025,Ambon,Sabtu,8-Feb-25,21:00,Minggu,9-Feb-25,17:00
+KM. PANGRANGO,03.2025,Banda,Senin,10-Feb-25,07:00,Senin,10-Feb-25,09:00
+KM. PANGRANGO,03.2025,Saumlaki,Selasa,11-Feb-25,12:00,Selasa,11-Feb-25,16:00
+KM. PANGRANGO,03.2025,Banda,Rabu,12-Feb-25,20:00,Rabu,12-Feb-25,22:00
+KM. PANGRANGO,03.2025,Ambon,Kamis,13-Feb-25,12:00,,,
+KM. PANGRANGO,04.2025,Ambon,Kamis,13-Feb-25,12:00,Jum'at,14-Feb-25,16:00
+KM. PANGRANGO,04.2025,Banda,Sabtu,15-Feb-25,06:00,Minggu,16-Feb-25,16:00
+KM. PANGRANGO,04.2025,Ambon,Senin,17-Feb-25,06:00,Senin,17-Feb-25,20:00
+KM. PANGRANGO,04.2025,Namrole,Selasa,18-Feb-25,06:00,Selasa,18-Feb-25,08:00
+KM. PANGRANGO,04.2025,Ambon,Selasa,18-Feb-25,18:00,Selasa,18-Feb-25,23:59
+KM. PANGRANGO,04.2025,Banda,Rabu,19-Feb-25,14:00,Rabu,19-Feb-25,16:00
+KM. PANGRANGO,04.2025,Saumlaki,Kamis,20-Feb-25,19:00,Kamis,20-Feb-25,23:59
+KM. PANGRANGO,04.2025,Banda,Sabtu,22-Feb-25,05:00,Sabtu,22-Feb-25,07:00
+KM. PANGRANGO,04.2025,Ambon,Sabtu,22-Feb-25,21:00,Minggu,23-Feb-25,17:00
+KM. PANGRANGO,04.2025,Banda,Senin,24-Feb-25,07:00,Senin,24-Feb-25,09:00
+KM. PANGRANGO,04.2025,Saumlaki,Selasa,25-Feb-25,12:00,Selasa,25-Feb-25,16:00
+KM. PANGRANGO,04.2025,Banda,Rabu,26-Feb-25,20:00,Rabu,26-Feb-25,22:00
+KM. PANGRANGO,04.2025,Ambon,Kamis,27-Feb-25,12:00,,,
+KM. PANGRANGO,05.2025,Ambon,Kamis,27-Feb-25,12:00,Jum'at,28-Feb-25,11:00
+KM. PANGRANGO,05.2025,Banda,Sabtu,1-Mar-25,01:00,Sabtu,1-Mar-25,16:00
+KM. PANGRANGO,05.2025,Ambon,Minggu,2-Mar-25,06:00,Minggu,2-Mar-25,20:00
+KM. PANGRANGO,05.2025,Namrole,Senin,3-Mar-25,06:00,Senin,3-Mar-25,08:00
+KM. PANGRANGO,05.2025,Ambon,Senin,3-Mar-25,18:00,Senin,3-Mar-25,23:59
+KM. PANGRANGO,05.2025,Banda,Selasa,4-Mar-25,14:00,Selasa,4-Mar-25,16:00
+KM. PANGRANGO,05.2025,Saumlaki,Rabu,5-Mar-25,19:00,Rabu,5-Mar-25,23:59
+KM. PANGRANGO,05.2025,Banda,Jum'at,7-Mar-25,05:00,Jum'at,7-Mar-25,07:00
+KM. PANGRANGO,05.2025,Ambon,Jum'at,7-Mar-25,21:00,Sabtu,8-Mar-25,17:00
+KM. PANGRANGO,05.2025,Banda,Minggu,9-Mar-25,07:00,Minggu,9-Mar-25,09:00
+KM. PANGRANGO,05.2025,Saumlaki,Senin,10-Mar-25,12:00,Senin,10-Mar-25,16:00
+KM. PANGRANGO,05.2025,Banda,Selasa,11-Mar-25,20:00,Selasa,11-Mar-25,22:00
+KM. PANGRANGO,05.2025,Ambon,Rabu,12-Mar-25,12:00,,,
+KM. SANGIANG,01.2025,Bitung,Selasa,7-Jan-25,17:00,Kamis,9-Jan-25,16:00
+KM. SANGIANG,01.2025,Ternate,Jum'at,10-Jan-25,14:00,Jum'at,10-Jan-25,17:00
+KM. SANGIANG,01.2025,Bacan,Sabtu,11-Jan-25,06:00,Sabtu,11-Jan-25,08:00
+KM. SANGIANG,01.2025,Sanana,Minggu,12-Jan-25,06:00,Minggu,12-Jan-25,08:00
+KM. SANGIANG,01.2025,Namlea,Minggu,12-Jan-25,22:00,Minggu,12-Jan-25,23:00
+KM. SANGIANG,01.2025,Ambon,Senin,13-Jan-25,09:00,Senin,13-Jan-25,13:00
+KM. SANGIANG,01.2025,Banda,Selasa,14-Jan-25,05:00,Selasa,14-Jan-25,07:00
+KM. SANGIANG,01.2025,Geser,Selasa,14-Jan-25,17:00,Selasa,14-Jan-25,19:00
+KM. SANGIANG,01.2025,Fak-Fak,Rabu,15-Jan-25,07:00,Rabu,15-Jan-25,16:00
+KM. SANGIANG,01.2025,Geser,Kamis,16-Jan-25,05:00,Kamis,16-Jan-25,07:00
+KM. SANGIANG,01.2025,Banda,Kamis,16-Jan-25,17:00,Kamis,16-Jan-25,19:00
+KM. SANGIANG,01.2025,Ambon,Jum'at,17-Jan-25,13:00,Jum'at,17-Jan-25,23:59
+KM. SANGIANG,01.2025,Namlea,Sabtu,18-Jan-25,12:00,Sabtu,18-Jan-25,16:00
+KM. SANGIANG,01.2025,Sanana,Minggu,19-Jan-25,06:00,Minggu,19-Jan-25,08:00
+KM. SANGIANG,01.2025,Bacan,Senin,20-Jan-25,05:00,Senin,20-Jan-25,07:00
+KM. SANGIANG,01.2025,Ternate,Senin,20-Jan-25,20:00,Senin,20-Jan-25,22:00
+KM. SANGIANG,01.2025,Bitung,Selasa,21-Jan-25,17:00,,,
+KM. SANGIANG,02.2025,Bitung,Selasa,21-Jan-25,17:00,Kamis,23-Jan-25,16:00
+KM. SANGIANG,02.2025,Ternate,Jum’at,24-Jan-25,13:00,,24-Jan-25,16:00
+KM. SANGIANG,02.2025,Bacan,Sabtu,25-Jan-25,05:00,Sabtu,25-Jan-25,07:00
+KM. SANGIANG,02.2025,Sanana,Minggu,26-Jan-25,06:00,Minggu,26-Jan-25,08:00
+KM. SANGIANG,02.2025,Namlea,Minggu,26-Jan-25,22:00,Minggu,26-Jan-25,23:00
+KM. SANGIANG,02.2025,Ambon,Senin,27-Jan-25,09:00,Senin,27-Jan-25,13:00
+KM. SANGIANG,02.2025,Banda,Selasa,28-Jan-25,05:00,Selasa,28-Jan-25,07:00
+KM. SANGIANG,02.2025,Geser,Selasa,28-Jan-25,17:00,Selasa,28-Jan-25,19:00
+KM. SANGIANG,02.2025,Fak-Fak,Rabu,29-Jan-25,07:00,Rabu,29-Jan-25,16:00
+KM. SANGIANG,02.2025,Geser,Kamis,30-Jan-25,05:00,Kamis,30-Jan-25,07:00
+KM. SANGIANG,02.2025,Banda,Kamis,30-Jan-25,17:00,Kamis,30-Jan-25,19:00
+KM. SANGIANG,02.2025,Ambon,Jum’at,31-Jan-25,13:00,,31-Jan-25,23:59
+KM. SANGIANG,02.2025,Namlea,Sabtu,1-Feb-25,11:00,Sabtu,1-Feb-25,16:00
+KM. SANGIANG,02.2025,Sanana,Minggu,2-Feb-25,06:00,Minggu,2-Feb-25,08:00
+KM. SANGIANG,02.2025,Bacan,Senin,3-Feb-25,05:00,Senin,3-Feb-25,07:00
+KM. SANGIANG,02.2025,Ternate,Senin,3-Feb-25,19:00,Senin,3-Feb-25,21:00
+KM. SANGIANG,02.2025,Bitung,Selasa,4-Feb-25,17:00,,,
+KM. SANGIANG,03.2025,Bitung,Selasa,4-Feb-25,17:00,Kamis,6-Feb-25,16:00
+KM. SANGIANG,03.2025,Ternate,Jum'at,7-Feb-25,13:00,Jum'at,7-Feb-25,16:00
+KM. SANGIANG,03.2025,Bacan,Sabtu,8-Feb-25,05:00,Sabtu,8-Feb-25,07:00
+KM. SANGIANG,03.2025,Sanana,Minggu,9-Feb-25,06:00,Minggu,9-Feb-25,08:00
+KM. SANGIANG,03.2025,Namlea,Minggu,9-Feb-25,22:00,Minggu,9-Feb-25,23:00
+KM. SANGIANG,03.2025,Ambon,Senin,10-Feb-25,09:00,Senin,10-Feb-25,13:00
+KM. SANGIANG,03.2025,Banda,Selasa,11-Feb-25,05:00,Selasa,11-Feb-25,07:00
+KM. SANGIANG,03.2025,Geser,Selasa,11-Feb-25,17:00,Selasa,11-Feb-25,19:00
+KM. SANGIANG,03.2025,Fak-Fak,Rabu,12-Feb-25,07:00,Rabu,12-Feb-25,16:00
+KM. SANGIANG,03.2025,Geser,Kamis,13-Feb-25,05:00,Kamis,13-Feb-25,07:00
+KM. SANGIANG,03.2025,Banda,Kamis,13-Feb-25,17:00,Kamis,13-Feb-25,19:00
+KM. SANGIANG,03.2025,Ambon,Jum'at,14-Feb-25,13:00,Jum'at,14-Feb-25,23:59
+KM. SANGIANG,03.2025,Namlea,Sabtu,15-Feb-25,11:00,Sabtu,15-Feb-25,16:00
+KM. SANGIANG,03.2025,Sanana,Minggu,16-Feb-25,06:00,Minggu,16-Feb-25,08:00
+KM. SANGIANG,03.2025,Bacan,Senin,17-Feb-25,05:00,Senin,17-Feb-25,07:00
+KM. SANGIANG,03.2025,Ternate,Senin,17-Feb-25,19:00,Senin,17-Feb-25,21:00
+KM. SANGIANG,03.2025,Bitung,Selasa,18-Feb-25,17:00,,,
+KM. SANGIANG,04.2025,Bitung,Selasa,18-Feb-25,17:00,Kamis,20-Feb-25,16:00
+KM. SANGIANG,04.2025,Ternate,Jum'at,21-Feb-25,13:00,Jum'at,21-Feb-25,16:00
+KM. SANGIANG,04.2025,Bacan,Sabtu,22-Feb-25,05:00,Sabtu,22-Feb-25,07:00
+KM. SANGIANG,04.2025,Sanana,Minggu,23-Feb-25,06:00,Minggu,23-Feb-25,08:00
+KM. SANGIANG,04.2025,Namlea,Minggu,23-Feb-25,22:00,Minggu,23-Feb-25,23:00
+KM. SANGIANG,04.2025,Ambon,Senin,24-Feb-25,09:00,Senin,24-Feb-25,13:00
+KM. SANGIANG,04.2025,Banda,Selasa,25-Feb-25,05:00,Selasa,25-Feb-25,07:00
+KM. SANGIANG,04.2025,Geser,Selasa,25-Feb-25,17:00,Selasa,25-Feb-25,19:00
+KM. SANGIANG,04.2025,Fak-Fak,Rabu,26-Feb-25,07:00,Rabu,26-Feb-25,16:00
+KM. SANGIANG,04.2025,Geser,Kamis,27-Feb-25,05:00,Kamis,27-Feb-25,07:00
+KM. SANGIANG,04.2025,Banda,Kamis,27-Feb-25,17:00,Kamis,27-Feb-25,19:00
+KM. SANGIANG,04.2025,Ambon,Jum'at,28-Feb-25,13:00,Jum'at,28-Feb-25,23:59
+KM. SANGIANG,04.2025,Namlea,Sabtu,1-Mar-25,11:00,Sabtu,1-Mar-25,16:00
+KM. SANGIANG,04.2025,Sanana,Minggu,2-Mar-25,06:00,Minggu,2-Mar-25,08:00
+KM. SANGIANG,04.2025,Bacan,Senin,3-Mar-25,05:00,Senin,3-Mar-25,07:00
+KM. SANGIANG,04.2025,Ternate,Senin,3-Mar-25,19:00,Senin,3-Mar-25,21:00
+KM. SANGIANG,04.2025,Bitung,Selasa,4-Mar-25,17:00,,,
+KM. SANGIANG,05.2025,Bitung,Selasa,4-Mar-25,17:00,Rabu,5-Mar-25,14:00
+KM. SANGIANG,05.2025,Ternate,Kamis,6-Mar-25,12:00,Kamis,6-Mar-25,16:00
+KM. SANGIANG,05.2025,Bacan,Jum'at,7-Mar-25,05:00,Jum'at,7-Mar-25,07:00
+KM. SANGIANG,05.2025,Sanana,Sabtu,8-Mar-25,06:00,Sabtu,8-Mar-25,08:00
+KM. SANGIANG,05.2025,Namlea,Sabtu,8-Mar-25,23:00,Minggu,9-Mar-25,01:00
+KM. SANGIANG,05.2025,Ambon,Minggu,9-Mar-25,11:00,Minggu,9-Mar-25,15:00
+KM. SANGIANG,05.2025,Banda,Senin,10-Mar-25,07:00,Senin,10-Mar-25,19:00
+KM. SANGIANG,05.2025,Ambon,Selasa,11-Mar-25,13:00,Selasa,11-Mar-25,23:59
+KM. SANGIANG,05.2025,Namlea,Rabu,12-Mar-25,11:00,Rabu,12-Mar-25,16:00
+KM. SANGIANG,05.2025,Sanana,Kamis,13-Mar-25,06:00,Kamis,13-Mar-25,08:00
+KM. SANGIANG,05.2025,Bacan,Jum'at,14-Mar-25,05:00,Jum'at,14-Mar-25,07:00
+KM. SANGIANG,05.2025,Ternate,Jum'at,14-Mar-25,19:00,Jum'at,14-Mar-25,21:00
+KM. SANGIANG,05.2025,Bitung,Sabtu,15-Mar-25,17:00,,,
+KM. SINABUNG,01.2025,Surabaya,Selasa,7-Jan-25,09:00,Selasa,7-Jan-25,19:00
+KM. SINABUNG,01.2025,Makassar,Kamis,9-Jan-25,02:00,Kamis,9-Jan-25,04:00
+KM. SINABUNG,01.2025,Bau-Bau,Kamis,9-Jan-25,20:00,Kamis,9-Jan-25,22:00
+KM. SINABUNG,01.2025,Banggai,Jum'at,10-Jan-25,15:00,Jum'at,10-Jan-25,17:00
+KM. SINABUNG,01.2025,Bitung,Sabtu,11-Jan-25,09:00,Sabtu,11-Jan-25,11:00
+KM. SINABUNG,01.2025,Ternate,Sabtu,11-Jan-25,21:00,Sabtu,11-Jan-25,23:00
+KM. SINABUNG,01.2025,Ambon,Minggu,12-Jan-25,21:00,Minggu,12-Jan-25,23:59
+KM. SINABUNG,01.2025,Sorong,Selasa,14-Jan-25,00:01,Selasa,14-Jan-25,02:00
+KM. SINABUNG,01.2025,Manokwari,Selasa,14-Jan-25,17:00,Selasa,14-Jan-25,19:00
+KM. SINABUNG,01.2025,Biak,Rabu,15-Jan-25,04:00,Rabu,15-Jan-25,06:00
+KM. SINABUNG,01.2025,Jayapura,Kamis,16-Jan-25,04:00,Kamis,16-Jan-25,10:00
+KM. SINABUNG,01.2025,Biak,Jum'at,17-Jan-25,07:00,Jum'at,17-Jan-25,09:00
+KM. SINABUNG,01.2025,Manokwari,Jum'at,17-Jan-25,18:00,Jum'at,17-Jan-25,20:00
+KM. SINABUNG,01.2025,Sorong,Sabtu,18-Jan-25,11:00,Sabtu,18-Jan-25,13:00
+KM. SINABUNG,01.2025,Bacan,Minggu,19-Jan-25,04:00,Minggu,19-Jan-25,05:00
+KM. SINABUNG,01.2025,Ternate,Minggu,19-Jan-25,12:00,Minggu,19-Jan-25,14:00
+KM. SINABUNG,01.2025,Bitung,Senin,20-Jan-25,00:01,Senin,20-Jan-25,02:00
+KM. SINABUNG,01.2025,Banggai,Senin,20-Jan-25,18:00,Senin,20-Jan-25,20:00
+KM. SINABUNG,01.2025,Bau-Bau,Selasa,21-Jan-25,13:00,Selasa,21-Jan-25,15:00
+KM. SINABUNG,01.2025,Makassar,Rabu,22-Jan-25,07:00,Rabu,22-Jan-25,09:00
+KM. SINABUNG,01.2025,Surabaya,Kamis,23-Jan-25,16:00,,,
+KM. SINABUNG,02.2025,Surabaya,Kamis,23-Jan-25,16:00,Jum'at,24-Jan-25,03:00
+KM. SINABUNG,02.2025,Makassar,Sabtu,25-Jan-25,10:00,Sabtu,25-Jan-25,13:00
+KM. SINABUNG,02.2025,Bau-Bau,Minggu,26-Jan-25,06:00,Minggu,26-Jan-25,08:00
+KM. SINABUNG,02.2025,Banggai,Senin,27-Jan-25,02:00,Senin,27-Jan-25,03:00
+KM. SINABUNG,02.2025,Bitung,Senin,27-Jan-25,18:00,Senin,27-Jan-25,21:00
+KM. SINABUNG,02.2025,Ternate,Selasa,28-Jan-25,08:00,Selasa,28-Jan-25,10:00
+KM. SINABUNG,02.2025,Bacan,Selasa,28-Jan-25,17:00,Selasa,28-Jan-25,18:00
+KM. SINABUNG,02.2025,Sorong,Rabu,29-Jan-25,09:00,Rabu,29-Jan-25,12:00
+KM. SINABUNG,02.2025,Manokwari,Kamis,30-Jan-25,02:00,Kamis,30-Jan-25,04:00
+KM. SINABUNG,02.2025,Biak,Kamis,30-Jan-25,14:00,Kamis,30-Jan-25,16:00
+KM. SINABUNG,02.2025,Jayapura,Jum'at,31-Jan-25,12:00,Jum'at,31-Jan-25,16:00
+KM. SINABUNG,02.2025,Biak,Sabtu,1-Feb-25,16:00,Sabtu,1-Feb-25,18:00
+KM. SINABUNG,02.2025,Manokwari,Minggu,2-Feb-25,04:00,Minggu,2-Feb-25,06:00
+KM. SINABUNG,02.2025,Sorong,Minggu,2-Feb-25,21:00,Minggu,2-Feb-25,23:00
+KM. SINABUNG,02.2025,Bacan,Senin,3-Feb-25,15:00,Senin,3-Feb-25,16:00
+KM. SINABUNG,02.2025,Ternate,Senin,3-Feb-25,23:00,Selasa,4-Feb-25,01:00
+KM. SINABUNG,02.2025,Bitung,Selasa,4-Feb-25,11:00,Selasa,4-Feb-25,13:00
+KM. SINABUNG,02.2025,Banggai,Rabu,5-Feb-25,05:00,Rabu,5-Feb-25,07:00
+KM. SINABUNG,02.2025,Bau-Bau,Kamis,6-Feb-25,01:00,Kamis,6-Feb-25,03:00
+KM. SINABUNG,02.2025,Makassar,Kamis,6-Feb-25,20:00,Kamis,6-Feb-25,22:00
+KM. SINABUNG,02.2025,Surabaya,Sabtu,8-Feb-25,06:00,,,
+KM. SINABUNG,03.2025,Surabaya,Sabtu,8-Feb-25,22:00,Minggu,9-Feb-25,19:00
+KM. SINABUNG,03.2025,Makassar,Selasa,11-Feb-25,02:00,Selasa,11-Feb-25,05:00
+KM. SINABUNG,03.2025,Bau-Bau,Selasa,11-Feb-25,22:00,Selasa,11-Feb-25,23:59
+KM. SINABUNG,03.2025,Banggai,Rabu,12-Feb-25,18:00,Rabu,12-Feb-25,19:00
+KM. SINABUNG,03.2025,Bitung,Kamis,13-Feb-25,10:00,Kamis,13-Feb-25,13:00
+KM. SINABUNG,03.2025,Ternate,Jum'at,14-Feb-25,00:01,Jum'at,14-Feb-25,02:00
+KM. SINABUNG,03.2025,Bacan,Jum'at,14-Feb-25,09:00,Jum'at,14-Feb-25,10:00
+KM. SINABUNG,03.2025,Sorong,Sabtu,15-Feb-25,01:00,Sabtu,15-Feb-25,04:00
+KM. SINABUNG,03.2025,Manokwari,Sabtu,15-Feb-25,18:00,Sabtu,15-Feb-25,20:00
+KM. SINABUNG,03.2025,Biak,Minggu,16-Feb-25,06:00,Minggu,16-Feb-25,08:00
+KM. SINABUNG,03.2025,Jayapura,Senin,17-Feb-25,04:00,Senin,17-Feb-25,08:00
+KM. SINABUNG,03.2025,Biak,Selasa,18-Feb-25,08:00,Selasa,18-Feb-25,10:00
+KM. SINABUNG,03.2025,Manokwari,Selasa,18-Feb-25,20:00,Selasa,18-Feb-25,22:00
+KM. SINABUNG,03.2025,Sorong,Rabu,19-Feb-25,13:00,Rabu,19-Feb-25,15:00
+KM. SINABUNG,03.2025,Bacan,Kamis,20-Feb-25,07:00,Kamis,20-Feb-25,08:00
+KM. SINABUNG,03.2025,Ternate,Kamis,20-Feb-25,15:00,Kamis,20-Feb-25,17:00
+KM. SINABUNG,03.2025,Bitung,Jum'at,21-Feb-25,03:00,Jum'at,21-Feb-25,05:00
+KM. SINABUNG,03.2025,Banggai,Jum'at,21-Feb-25,21:00,Jum'at,21-Feb-25,23:00
+KM. SINABUNG,03.2025,Bau-Bau,Sabtu,22-Feb-25,17:00,Sabtu,22-Feb-25,19:00
+KM. SINABUNG,03.2025,Makassar,Minggu,23-Feb-25,12:00,Minggu,23-Feb-25,14:00
+KM. SINABUNG,03.2025,Surabaya,Senin,24-Feb-25,22:00,,,
+KM. SINABUNG,04.2025,Surabaya,Senin,24-Feb-25,22:00,Selasa,25-Feb-25,14:00
+KM. SINABUNG,04.2025,Makassar,Rabu,26-Feb-25,19:00,Rabu,26-Feb-25,22:00
+KM. SINABUNG,04.2025,Bau-Bau,Kamis,27-Feb-25,13:00,Kamis,27-Feb-25,15:00
+KM. SINABUNG,04.2025,Banggai,Jum'at,28-Feb-25,07:00,Jum'at,28-Feb-25,08:00
+KM. SINABUNG,04.2025,Bitung,Jum'at,28-Feb-25,22:00,Sabtu,1-Mar-25,01:00
+KM. SINABUNG,04.2025,Ternate,Sabtu,1-Mar-25,10:00,Sabtu,1-Mar-25,12:00
+KM. SINABUNG,04.2025,Bacan,Sabtu,1-Mar-25,18:00,Sabtu,1-Mar-25,19:00
+KM. SINABUNG,04.2025,Sorong,Minggu,2-Mar-25,11:00,Minggu,2-Mar-25,14:00
+KM. SINABUNG,04.2025,Manokwari,Senin,3-Mar-25,04:00,Senin,3-Mar-25,06:00
+KM. SINABUNG,04.2025,Biak,Senin,3-Mar-25,15:00,Senin,3-Mar-25,17:00
+KM. SINABUNG,04.2025,Jayapura,Selasa,4-Mar-25,14:00,Selasa,4-Mar-25,20:00
+KM. SINABUNG,04.2025,Biak,Rabu,5-Mar-25,17:00,Rabu,5-Mar-25,19:00
+KM. SINABUNG,04.2025,Manokwari,Kamis,6-Mar-25,04:00,Kamis,6-Mar-25,06:00
+KM. SINABUNG,04.2025,Sorong,Kamis,6-Mar-25,20:00,Kamis,6-Mar-25,22:00
+KM. SINABUNG,04.2025,Bacan,Jum'at,7-Mar-25,13:00,Jum'at,7-Mar-25,14:00
+KM. SINABUNG,04.2025,Ternate,Jum'at,7-Mar-25,20:00,Jum'at,7-Mar-25,22:00
+KM. SINABUNG,04.2025,Bitung,Sabtu,8-Mar-25,07:00,Sabtu,8-Mar-25,09:00
+KM. SINABUNG,04.2025,Banggai,Minggu,9-Mar-25,01:00,Minggu,9-Mar-25,03:00
+KM. SINABUNG,04.2025,Bau-Bau,Minggu,9-Mar-25,20:00,Minggu,9-Mar-25,22:00
+KM. SINABUNG,04.2025,Makassar,Senin,10-Mar-25,14:00,Senin,10-Mar-25,16:00
+KM. SINABUNG,04.2025,Surabaya,Selasa,11-Mar-25,21:00,,,
+KM. SINABUNG,05.2025,Surabaya,Selasa,11-Mar-25,21:00,Rabu,12-Mar-25,07:00
+KM. SINABUNG,05.2025,Makassar,Kamis,13-Mar-25,12:00,Kamis,13-Mar-25,15:00
+KM. SINABUNG,05.2025,Bau-Bau,Jum'at,14-Mar-25,07:00,Jum'at,14-Mar-25,10:00
+KM. SINABUNG,05.2025,Banggai,Sabtu,15-Mar-25,03:00,Sabtu,15-Mar-25,04:00
+KM. SINABUNG,05.2025,Bitung,Sabtu,15-Mar-25,20:00,Sabtu,15-Mar-25,23:59
+KM. SINABUNG,05.2025,Ternate,Minggu,16-Mar-25,10:00,Minggu,16-Mar-25,13:00
+KM. SINABUNG,05.2025,Bacan,Minggu,16-Mar-25,20:00,Minggu,16-Mar-25,21:00
+KM. SINABUNG,05.2025,Ambon,Senin,17-Mar-25,10:00,Senin,17-Mar-25,14:00
+KM. SINABUNG,05.2025,Sorong,Selasa,18-Mar-25,12:00,Selasa,18-Mar-25,15:00
+KM. SINABUNG,05.2025,Manokwari,Rabu,19-Mar-25,05:00,Rabu,19-Mar-25,07:00
+KM. SINABUNG,05.2025,Biak,Rabu,19-Mar-25,16:00,Rabu,19-Mar-25,18:00
+KM. SINABUNG,05.2025,Jayapura,Kamis,20-Mar-25,15:00,Kamis,20-Mar-25,20:00
+KM. SINABUNG,05.2025,Biak,Jum'at,21-Mar-25,17:00,Jum'at,21-Mar-25,19:00
+KM. SINABUNG,05.2025,Manokwari,Sabtu,22-Mar-25,04:00,Sabtu,22-Mar-25,06:00
+KM. SINABUNG,05.2025,Sorong,Sabtu,22-Mar-25,20:00,Sabtu,22-Mar-25,23:00
+KM. SINABUNG,05.2025,Bacan,Minggu,23-Mar-25,14:00,Minggu,23-Mar-25,15:00
+KM. SINABUNG,05.2025,Ternate,Minggu,23-Mar-25,21:00,Minggu,23-Mar-25,23:00
+KM. SINABUNG,05.2025,Bitung,Senin,24-Mar-25,08:00,Senin,24-Mar-25,12:00
+KM. SINABUNG,05.2025,Banggai,Selasa,25-Mar-25,03:00,Selasa,25-Mar-25,05:00
+KM. SINABUNG,05.2025,Bau-Bau,Selasa,25-Mar-25,21:00,Selasa,25-Mar-25,23:00
+KM. SINABUNG,05.2025,Makassar,Rabu,26-Mar-25,14:00,Rabu,26-Mar-25,17:00
+KM. SINABUNG,05.2025,Balikpapan,Kamis,27-Mar-25,13:00,Kamis,27-Mar-25,16:00
+KM. SINABUNG,05.2025,Surabaya,Jum'at,28-Mar-25,23:00,,,
+KM. SIRIMAU,01.2025,Sorong,Sabtu,11-Jan-25,00:01,Sabtu,11-Jan-25,06:00
+KM. SIRIMAU,01.2025,Ambon,Minggu,12-Jan-25,16:00,Minggu,12-Jan-25,19:00
+KM. SIRIMAU,01.2025,Wanci,Selasa,14-Jan-25,02:00,Selasa,14-Jan-25,04:00
+KM. SIRIMAU,01.2025,Bau-Bau,Selasa,14-Jan-25,13:00,Selasa,14-Jan-25,16:00
+KM. SIRIMAU,01.2025,Maumere,Rabu,15-Jan-25,14:00,Rabu,15-Jan-25,16:00
+KM. SIRIMAU,01.2025,Lewoleba,Kamis,16-Jan-25,02:00,Kamis,16-Jan-25,04:00
+KM. SIRIMAU,01.2025,Kupang,Kamis,16-Jan-25,17:00,Kamis,16-Jan-25,23:00
+KM. SIRIMAU,01.2025,Kalabahi,Jum'at,17-Jan-25,14:00,Jum'at,17-Jan-25,16:00
+KM. SIRIMAU,01.2025,Saumlaki,Minggu,19-Jan-25,09:00,Minggu,19-Jan-25,11:00
+KM. SIRIMAU,01.2025,Tual,Senin,20-Jan-25,07:00,Senin,20-Jan-25,12:00
+KM. SIRIMAU,01.2025,Dobo,Senin,20-Jan-25,23:00,Selasa,21-Jan-25,01:00
+KM. SIRIMAU,01.2025,Timika,Selasa,21-Jan-25,19:00,Selasa,21-Jan-25,21:00
+KM. SIRIMAU,01.2025,Agats,Rabu,22-Jan-25,09:00,Rabu,22-Jan-25,11:00
+KM. SIRIMAU,01.2025,Merauke,Jum'at,24-Jan-25,07:00,Sabtu,25-Jan-25,05:00
+KM. SIRIMAU,01.2025,Agats,Senin,27-Jan-25,00:01,Senin,27-Jan-25,03:00
+KM. SIRIMAU,01.2025,Timika,Senin,27-Jan-25,21:00,Senin,27-Jan-25,23:00
+KM. SIRIMAU,01.2025,Dobo,Selasa,28-Jan-25,18:00,Selasa,28-Jan-25,20:00
+KM. SIRIMAU,01.2025,Tual,Rabu,29-Jan-25,06:00,Rabu,29-Jan-25,11:00
+KM. SIRIMAU,01.2025,Saumlaki,Kamis,30-Jan-25,06:00,Kamis,30-Jan-25,08:00
+KM. SIRIMAU,01.2025,Kalabahi,Sabtu,1-Feb-25,03:00,Sabtu,1-Feb-25,05:00
+KM. SIRIMAU,01.2025,Kupang,Sabtu,1-Feb-25,18:00,Minggu,2-Feb-25,03:00
+KM. SIRIMAU,01.2025,Lewoleba,Minggu,2-Feb-25,16:00,Minggu,2-Feb-25,18:00
+KM. SIRIMAU,01.2025,Maumere,Senin,3-Feb-25,03:00,Senin,3-Feb-25,05:00
+KM. SIRIMAU,01.2025,Bau-Bau,Senin,3-Feb-25,23:00,Selasa,4-Feb-25,01:00
+KM. SIRIMAU,01.2025,Wanci,Selasa,4-Feb-25,09:00,Selasa,4-Feb-25,11:00
+KM. SIRIMAU,01.2025,Ambon,Rabu,5-Feb-25,17:00,Rabu,5-Feb-25,20:00
+KM. SIRIMAU,01.2025,Sorong,Jum'at,7-Feb-25,04:00,,,
+KM. SIRIMAU,02.2025,Sorong,Jum'at,7-Feb-25,04:00,Jum'at,7-Feb-25,08:00
+KM. SIRIMAU,02.2025,Ambon,Sabtu,8-Feb-25,18:00,Sabtu,8-Feb-25,21:00
+KM. SIRIMAU,02.2025,Wanci,Senin,10-Feb-25,05:00,Senin,10-Feb-25,07:00
+KM. SIRIMAU,02.2025,Bau-Bau,Senin,10-Feb-25,17:00,Senin,10-Feb-25,21:00
+KM. SIRIMAU,02.2025,Maumere,Selasa,11-Feb-25,18:00,Selasa,11-Feb-25,20:00
+KM. SIRIMAU,02.2025,Lewoleba,Rabu,12-Feb-25,06:00,Rabu,12-Feb-25,08:00
+KM. SIRIMAU,02.2025,Kupang,Rabu,12-Feb-25,21:00,Kamis,13-Feb-25,03:00
+KM. SIRIMAU,02.2025,Kalabahi,Kamis,13-Feb-25,18:00,Kamis,13-Feb-25,20:00
+KM. SIRIMAU,02.2025,Saumlaki,Sabtu,15-Feb-25,15:00,Sabtu,15-Feb-25,17:00
+KM. SIRIMAU,02.2025,Tual,Minggu,16-Feb-25,13:00,Minggu,16-Feb-25,19:00
+KM. SIRIMAU,02.2025,Dobo,Senin,17-Feb-25,06:00,Senin,17-Feb-25,08:00
+KM. SIRIMAU,02.2025,Timika,Selasa,18-Feb-25,03:00,Selasa,18-Feb-25,06:00
+KM. SIRIMAU,02.2025,Agats,Selasa,18-Feb-25,18:00,Selasa,18-Feb-25,20:00
+KM. SIRIMAU,02.2025,Merauke,Kamis,20-Feb-25,19:00,Jum'at,21-Feb-25,04:00
+KM. SIRIMAU,02.2025,Agats,Minggu,23-Feb-25,03:00,Minggu,23-Feb-25,05:00
+KM. SIRIMAU,02.2025,Timika,Minggu,23-Feb-25,19:00,Minggu,23-Feb-25,21:00
+KM. SIRIMAU,02.2025,Dobo,Senin,24-Feb-25,15:00,Senin,24-Feb-25,17:00
+KM. SIRIMAU,02.2025,Tual,Selasa,25-Feb-25,05:00,Selasa,25-Feb-25,10:00
+KM. SIRIMAU,02.2025,Saumlaki,Rabu,26-Feb-25,06:00,Rabu,26-Feb-25,08:00
+KM. SIRIMAU,02.2025,Kalabahi,Jum'at,28-Feb-25,03:00,Jum'at,28-Feb-25,05:00
+KM. SIRIMAU,02.2025,Kupang,Jum'at,28-Feb-25,18:00,Jum'at,28-Feb-25,23:59
+KM. SIRIMAU,02.2025,Lewoleba,Sabtu,1-Mar-25,12:00,Sabtu,1-Mar-25,14:00
+KM. SIRIMAU,02.2025,Maumere,Minggu,2-Mar-25,00:01,Minggu,2-Mar-25,02:00
+KM. SIRIMAU,02.2025,Bau-Bau,Minggu,2-Mar-25,22:00,Minggu,2-Mar-25,23:59
+KM. SIRIMAU,02.2025,Wanci,Senin,3-Mar-25,08:00,Senin,3-Mar-25,10:00
+KM. SIRIMAU,02.2025,Ambon,Selasa,4-Mar-25,16:00,Selasa,4-Mar-25,19:00
+KM. SIRIMAU,02.2025,Sorong,Kamis,6-Mar-25,02:00,,,
+KM. SIRIMAU,03.2025,Sorong,Kamis,6-Mar-25,02:00,Kamis,6-Mar-25,08:00
+KM. SIRIMAU,03.2025,Ambon,Jum'at,7-Mar-25,18:00,Jum'at,7-Mar-25,21:00
+KM. SIRIMAU,03.2025,Wanci,Minggu,9-Mar-25,05:00,Minggu,9-Mar-25,07:00
+KM. SIRIMAU,03.2025,Bau-Bau,Minggu,9-Mar-25,17:00,Minggu,9-Mar-25,21:00
+KM. SIRIMAU,03.2025,Maumere,Senin,10-Mar-25,18:00,Senin,10-Mar-25,20:00
+KM. SIRIMAU,03.2025,Lewoleba,Selasa,11-Mar-25,06:00,Selasa,11-Mar-25,08:00
+KM. SIRIMAU,03.2025,Kupang,Selasa,11-Mar-25,21:00,Rabu,12-Mar-25,02:00
+KM. SIRIMAU,03.2025,Kalabahi,Rabu,12-Mar-25,17:00,Rabu,12-Mar-25,19:00
+KM. SIRIMAU,03.2025,Saumlaki,Jum'at,14-Mar-25,14:00,Jum'at,14-Mar-25,16:00
+KM. SIRIMAU,03.2025,Tual,Sabtu,15-Mar-25,13:00,Sabtu,15-Mar-25,17:00
+KM. SIRIMAU,03.2025,Dobo,Minggu,16-Mar-25,06:00,Minggu,16-Mar-25,08:00
+KM. SIRIMAU,03.2025,Timika,Senin,17-Mar-25,04:00,Senin,17-Mar-25,06:00
+KM. SIRIMAU,03.2025,Agats,Senin,17-Mar-25,18:00,Senin,17-Mar-25,20:00
+KM. SIRIMAU,03.2025,Merauke,Rabu,19-Mar-25,17:00,Kamis,20-Mar-25,03:00
+KM. SIRIMAU,03.2025,Agats,Jum'at,21-Mar-25,21:00,Jum'at,21-Mar-25,23:00
+KM. SIRIMAU,03.2025,Timika,Sabtu,22-Mar-25,17:00,Sabtu,22-Mar-25,19:00
+KM. SIRIMAU,03.2025,Dobo,Minggu,23-Mar-25,15:00,Minggu,23-Mar-25,17:00
+KM. SIRIMAU,03.2025,Tual,Senin,24-Mar-25,05:00,Senin,24-Mar-25,10:00
+KM. SIRIMAU,03.2025,Saumlaki,Selasa,25-Mar-25,07:00,Selasa,25-Mar-25,09:00
+KM. SIRIMAU,03.2025,Kalabahi,Kamis,27-Mar-25,08:00,Kamis,27-Mar-25,10:00
+KM. SIRIMAU,03.2025,Kupang,Jum'at,28-Mar-25,01:00,Jum'at,28-Mar-25,08:00
+KM. SIRIMAU,03.2025,Lewoleba,Jum'at,28-Mar-25,21:00,Jum'at,28-Mar-25,23:00
+KM. SIRIMAU,03.2025,Maumere,Sabtu,29-Mar-25,12:00,Sabtu,29-Mar-25,14:00
+KM. SIRIMAU,03.2025,Bau-Bau,Minggu,30-Mar-25,10:00,Minggu,30-Mar-25,13:00
+KM. SIRIMAU,03.2025,Wanci,Minggu,30-Mar-25,22:00,Minggu,30-Mar-25,23:59
+KM. SIRIMAU,03.2025,Ambon,Selasa,1-Apr-25,06:00,Selasa,1-Apr-25,09:00
+KM. SIRIMAU,03.2025,Sorong,Rabu,2-Apr-25,18:00,,,
+KM. SIRIMAU,04.2025,Sorong,Rabu,2-Apr-25,18:00,Kamis,3-Apr-25,03:00
+KM. SIRIMAU,04.2025,Ambon,Jum'at,4-Apr-25,13:00,Jum'at,4-Apr-25,17:00
+KM. SIRIMAU,04.2025,Wanci,Minggu,6-Apr-25,01:00,Minggu,6-Apr-25,03:00
+KM. SIRIMAU,04.2025,Bau-Bau,Minggu,6-Apr-25,13:00,Minggu,6-Apr-25,17:00
+KM. SIRIMAU,04.2025,Maumere,Senin,7-Apr-25,14:00,Senin,7-Apr-25,16:00
+KM. SIRIMAU,04.2025,Lewoleba,Selasa,8-Apr-25,02:00,Selasa,8-Apr-25,04:00
+KM. SIRIMAU,04.2025,Kupang,Selasa,8-Apr-25,17:00,Selasa,8-Apr-25,23:59
+KM. SIRIMAU,04.2025,Kalabahi,Rabu,9-Apr-25,15:00,Rabu,9-Apr-25,17:00
+KM. SIRIMAU,04.2025,Saumlaki,Jum'at,11-Apr-25,12:00,Jum'at,11-Apr-25,14:00
+KM. SIRIMAU,04.2025,Tual,Sabtu,12-Apr-25,11:00,Sabtu,12-Apr-25,15:00
+KM. SIRIMAU,04.2025,Dobo,Minggu,13-Apr-25,04:00,Minggu,13-Apr-25,06:00
+KM. SIRIMAU,04.2025,Timika,Senin,14-Apr-25,03:00,Senin,14-Apr-25,05:00
+KM. SIRIMAU,04.2025,Agats,Senin,14-Apr-25,17:00,Senin,14-Apr-25,19:00
+KM. SIRIMAU,04.2025,Merauke,Rabu,16-Apr-25,16:00,Kamis,17-Apr-25,01:00
+KM. SIRIMAU,04.2025,Agats,Jum'at,18-Apr-25,19:00,Jum'at,18-Apr-25,21:00
+KM. SIRIMAU,04.2025,Timika,Sabtu,19-Apr-25,15:00,Sabtu,19-Apr-25,17:00
+KM. SIRIMAU,04.2025,Dobo,Minggu,20-Apr-25,13:00,Minggu,20-Apr-25,15:00
+KM. SIRIMAU,04.2025,Tual,Senin,21-Apr-25,03:00,Senin,21-Apr-25,08:00
+KM. SIRIMAU,04.2025,Saumlaki,Selasa,22-Apr-25,05:00,Selasa,22-Apr-25,07:00
+KM. SIRIMAU,04.2025,Kalabahi,Kamis,24-Apr-25,06:00,Kamis,24-Apr-25,08:00
+KM. SIRIMAU,04.2025,Kupang,Kamis,24-Apr-25,23:00,Jum'at,25-Apr-25,06:00
+KM. SIRIMAU,04.2025,Lewoleba,Jum'at,25-Apr-25,19:00,Jum'at,25-Apr-25,21:00
+KM. SIRIMAU,04.2025,Maumere,Sabtu,26-Apr-25,10:00,Sabtu,26-Apr-25,12:00
+KM. SIRIMAU,04.2025,Bau-Bau,Minggu,27-Apr-25,08:00,Minggu,27-Apr-25,11:00
+KM. SIRIMAU,04.2025,Wanci,Minggu,27-Apr-25,20:00,Minggu,27-Apr-25,22:00
+KM. SIRIMAU,04.2025,Ambon,Selasa,29-Apr-25,04:00,Selasa,29-Apr-25,07:00
+KM. SIRIMAU,04.2025,Sorong,Rabu,30-Apr-25,16:00,,,
+KM. SIRIMAU,05.2025,Sorong,Rabu,30-Apr-25,16:00,Kamis,1-May-25,04:00
+KM. SIRIMAU,05.2025,Ambon,Jum'at,2-May-25,15:00,Jum'at,2-May-25,18:00
+KM. SIRIMAU,05.2025,Wanci,Minggu,4-May-25,03:00,Minggu,4-May-25,05:00
+KM. SIRIMAU,05.2025,Bau-Bau,Minggu,4-May-25,14:00,Minggu,4-May-25,16:00
+KM. SIRIMAU,05.2025,Maumere,Senin,5-May-25,12:00,Senin,5-May-25,15:00
+KM. SIRIMAU,05.2025,Lewoleba,Selasa,6-May-25,01:00,Selasa,6-May-25,03:00
+KM. SIRIMAU,05.2025,Kupang,Selasa,6-May-25,15:00,Selasa,6-May-25,21:00
+KM. SIRIMAU,05.2025,Kalabahi,Rabu,7-May-25,11:00,Rabu,7-May-25,21:00
+KM. SIRIMAU,05.2025,Kupang,Kamis,8-May-25,11:00,Kamis,8-May-25,17:00
+KM. SIRIMAU,05.2025,Lewoleba,Jum'at,9-May-25,06:00,Jum'at,9-May-25,08:00
+KM. SIRIMAU,05.2025,Maumere,Jum'at,9-May-25,23:00,Sabtu,10-May-25,02:00
+KM. SIRIMAU,05.2025,Bau-Bau,Sabtu,10-May-25,22:00,Minggu,11-May-25,02:00
+KM. SIRIMAU,05.2025,Makassar,Senin,12-May-25,01:00,Senin,12-May-25,04:00
+KM. SIRIMAU,05.2025,Surabaya,Rabu,14-May-25,02:00,Rabu,14-May-25,04:00
+KM. SIRIMAU,05.2025,Tg. Priok,Kamis,15-May-25,20:00,,,
+KM. TATAMAILAU,01.2025,Bitung,Sabtu,4-Jan-25,13:00,Minggu,5-Jan-25,08:00
+KM. TATAMAILAU,01.2025,Ternate,Minggu,5-Jan-25,21:00,Minggu,5-Jan-25,23:00
+KM. TATAMAILAU,01.2025,Ambon,Selasa,7-Jan-25,02:00,Selasa,7-Jan-25,04:00
+KM. TATAMAILAU,01.2025,Tual,Rabu,8-Jan-25,08:00,Rabu,8-Jan-25,11:00
+KM. TATAMAILAU,01.2025,Dobo,Rabu,8-Jan-25,22:00,Rabu,8-Jan-25,23:59
+KM. TATAMAILAU,01.2025,Timika,Kamis,9-Jan-25,18:00,Kamis,9-Jan-25,20:00
+KM. TATAMAILAU,01.2025,Agats,Jum'at,10-Jan-25,08:00,Jum'at,10-Jan-25,10:00
+KM. TATAMAILAU,01.2025,Merauke,Minggu,12-Jan-25,10:00,Minggu,12-Jan-25,23:59
+KM. TATAMAILAU,01.2025,Agats,Selasa,14-Jan-25,12:00,Selasa,14-Jan-25,20:00
+KM. TATAMAILAU,01.2025,Timika,Rabu,15-Jan-25,07:00,Rabu,15-Jan-25,09:00
+KM. TATAMAILAU,01.2025,Dobo,Kamis,16-Jan-25,00:01,Kamis,16-Jan-25,02:00
+KM. TATAMAILAU,01.2025,Tual,Kamis,16-Jan-25,11:00,Kamis,16-Jan-25,14:00
+KM. TATAMAILAU,01.2025,Ambon,Jum'at,17-Jan-25,16:00,Jum'at,17-Jan-25,19:00
+KM. TATAMAILAU,01.2025,Ternate,Sabtu,18-Jan-25,21:00,Sabtu,18-Jan-25,22:00
+KM. TATAMAILAU,01.2025,Bitung,Minggu,19-Jan-25,10:00,,,
+KM. TATAMAILAU,02.2025,Surabaya,Sabtu,25-Jan-25,19:00,Senin,10-Mar-25,15:00
+KM. TATAMAILAU,02.2025,Balikpapan,Rabu,12-Mar-25,08:00,Rabu,12-Mar-25,11:00
+KM. TATAMAILAU,02.2025,Pantoloan,Kamis,13-Mar-25,04:00,Kamis,13-Mar-25,06:00
+KM. TATAMAILAU,02.2025,Bitung,Sabtu,15-Mar-25,00:01,Sabtu,15-Mar-25,08:00
+KM. TATAMAILAU,02.2025,Tidore,Sabtu,15-Mar-25,21:00,Sabtu,15-Mar-25,22:00
+KM. TATAMAILAU,02.2025,Sorong,Senin,17-Mar-25,00:01,Senin,17-Mar-25,02:00
+KM. TATAMAILAU,02.2025,Fak-Fak,Senin,17-Mar-25,18:00,Senin,17-Mar-25,19:00
+KM. TATAMAILAU,02.2025,Kaimana,Selasa,18-Mar-25,08:00,Selasa,18-Mar-25,09:00
+KM. TATAMAILAU,02.2025,Tual,Selasa,18-Mar-25,21:00,Selasa,18-Mar-25,23:00
+KM. TATAMAILAU,02.2025,Timika,Rabu,19-Mar-25,21:00,Rabu,19-Mar-25,23:00
+KM. TATAMAILAU,02.2025,Agats,Kamis,20-Mar-25,10:00,Kamis,20-Mar-25,12:00
+KM. TATAMAILAU,02.2025,Merauke,Sabtu,22-Mar-25,05:00,Sabtu,22-Mar-25,17:00
+KM. TATAMAILAU,02.2025,Agats,Senin,24-Mar-25,05:00,Senin,24-Mar-25,07:00
+KM. TATAMAILAU,02.2025,Timika,Senin,24-Mar-25,19:00,Senin,24-Mar-25,21:00
+KM. TATAMAILAU,02.2025,Tual,Selasa,25-Mar-25,18:00,Selasa,25-Mar-25,20:00
+KM. TATAMAILAU,02.2025,Kaimana,Rabu,26-Mar-25,08:00,Rabu,26-Mar-25,09:00
+KM. TATAMAILAU,02.2025,Fak-Fak,Rabu,26-Mar-25,22:00,Rabu,26-Mar-25,23:00
+KM. TATAMAILAU,02.2025,Sorong,Kamis,27-Mar-25,15:00,Kamis,27-Mar-25,17:00
+KM. TATAMAILAU,02.2025,Ambon,Jum'at,28-Mar-25,21:00,Jum'at,28-Mar-25,23:59
+KM. TATAMAILAU,02.2025,Tidore,Minggu,30-Mar-25,04:00,Minggu,30-Mar-25,05:00
+KM. TATAMAILAU,02.2025,Bitung,Minggu,30-Mar-25,17:00,,,
+KM. TATAMAILAU,03.2025,Bitung,Selasa,1-Apr-25,11:00,Rabu,2-Apr-25,02:00
+KM. TATAMAILAU,03.2025,Ternate,Rabu,2-Apr-25,16:00,Rabu,2-Apr-25,17:00
+KM. TATAMAILAU,03.2025,Ambon,Kamis,3-Apr-25,21:00,Kamis,3-Apr-25,23:00
+KM. TATAMAILAU,03.2025,Tual,Sabtu,5-Apr-25,04:00,Sabtu,5-Apr-25,07:00
+KM. TATAMAILAU,03.2025,Dobo,Sabtu,5-Apr-25,18:00,Sabtu,5-Apr-25,20:00
+KM. TATAMAILAU,03.2025,Timika,Minggu,6-Apr-25,16:00,Minggu,6-Apr-25,18:00
+KM. TATAMAILAU,03.2025,Agats,Senin,7-Apr-25,05:00,Senin,7-Apr-25,07:00
+KM. TATAMAILAU,03.2025,Merauke,Rabu,9-Apr-25,02:00,Rabu,9-Apr-25,23:00
+KM. TATAMAILAU,03.2025,Agats,Jum'at,11-Apr-25,11:00,Jum'at,11-Apr-25,13:00
+KM. TATAMAILAU,03.2025,Timika,Sabtu,12-Apr-25,00:01,Sabtu,12-Apr-25,02:00
+KM. TATAMAILAU,03.2025,Dobo,Sabtu,12-Apr-25,19:00,Sabtu,12-Apr-25,21:00
+KM. TATAMAILAU,03.2025,Tual,Minggu,13-Apr-25,07:00,Minggu,13-Apr-25,10:00
+KM. TATAMAILAU,03.2025,Ambon,Senin,14-Apr-25,15:00,Senin,14-Apr-25,18:00
+KM. TATAMAILAU,03.2025,Ternate,Selasa,15-Apr-25,22:00,Selasa,15-Apr-25,23:00
+KM. TATAMAILAU,03.2025,Bitung,Rabu,16-Apr-25,12:00,,,
+KM. TATAMAILAU,04.2025,Bitung,Rabu,16-Apr-25,12:00,Kamis,17-Apr-25,02:00
+KM. TATAMAILAU,04.2025,Tidore,Kamis,17-Apr-25,16:00,Kamis,17-Apr-25,18:00
+KM. TATAMAILAU,04.2025,Ambon,Jum'at,18-Apr-25,21:00,Jum'at,18-Apr-25,23:00
+KM. TATAMAILAU,04.2025,Sorong,Minggu,20-Apr-25,05:00,Minggu,20-Apr-25,07:00
+KM. TATAMAILAU,04.2025,Fak-Fak,Minggu,20-Apr-25,23:00,Minggu,20-Apr-25,23:59
+KM. TATAMAILAU,04.2025,Kaimana,Senin,21-Apr-25,13:00,Senin,21-Apr-25,14:00
+KM. TATAMAILAU,04.2025,Tual,Selasa,22-Apr-25,02:00,Selasa,22-Apr-25,05:00
+KM. TATAMAILAU,04.2025,Timika,Rabu,23-Apr-25,04:00,Rabu,23-Apr-25,06:00
+KM. TATAMAILAU,04.2025,Agats,Rabu,23-Apr-25,18:00,Rabu,23-Apr-25,20:00
+KM. TATAMAILAU,04.2025,Merauke,Jum'at,25-Apr-25,11:00,Jum'at,25-Apr-25,22:00
+KM. TATAMAILAU,04.2025,Agats,Minggu,27-Apr-25,08:00,Minggu,27-Apr-25,10:00
+KM. TATAMAILAU,04.2025,Timika,Minggu,27-Apr-25,20:00,Minggu,27-Apr-25,23:59
+KM. TATAMAILAU,04.2025,Tual,Senin,28-Apr-25,22:00,Senin,28-Apr-25,23:59
+KM. TATAMAILAU,04.2025,Kaimana,Selasa,29-Apr-25,12:00,Selasa,29-Apr-25,13:00
+KM. TATAMAILAU,04.2025,Fak-Fak,Rabu,30-Apr-25,02:00,Rabu,30-Apr-25,03:00
+KM. TATAMAILAU,04.2025,Sorong,Rabu,30-Apr-25,21:00,Rabu,30-Apr-25,23:00
+KM. TATAMAILAU,04.2025,Tidore,Jum'at,2-May-25,03:00,Jum'at,2-May-25,04:00
+KM. TATAMAILAU,04.2025,Bitung,Jum'at,2-May-25,16:00,,,
+KM. TATAMAILAU,05.2025,Bitung,Jum'at,2-May-25,16:00,Sabtu,3-May-25,01:00
+KM. TATAMAILAU,05.2025,Tidore,Sabtu,3-May-25,14:00,Sabtu,3-May-25,15:00
+KM. TATAMAILAU,05.2025,Sorong,Minggu,4-May-25,16:00,Minggu,4-May-25,18:00
+KM. TATAMAILAU,05.2025,Fak-Fak,Senin,5-May-25,08:00,Senin,5-May-25,10:00
+KM. TATAMAILAU,05.2025,Kaimana,Senin,5-May-25,22:00,Senin,5-May-25,23:59
+KM. TATAMAILAU,05.2025,Tual,Selasa,6-May-25,12:00,Selasa,6-May-25,15:00
+KM. TATAMAILAU,05.2025,Timika,Rabu,7-May-25,12:00,Rabu,7-May-25,14:00
+KM. TATAMAILAU,05.2025,Agats,Kamis,8-May-25,04:00,Kamis,8-May-25,06:00
+KM. TATAMAILAU,05.2025,Merauke,Sabtu,10-May-25,01:00,Sabtu,10-May-25,11:00
+KM. TATAMAILAU,05.2025,Agats,Senin,12-May-25,00:01,Senin,12-May-25,04:00
+KM. TATAMAILAU,05.2025,Timika,Senin,12-May-25,14:00,Senin,12-May-25,16:00
+KM. TATAMAILAU,05.2025,Tual,Selasa,13-May-25,14:00,Selasa,13-May-25,16:00
+KM. TATAMAILAU,05.2025,Kaimana,Rabu,14-May-25,04:00,Rabu,14-May-25,05:00
+KM. TATAMAILAU,05.2025,Fak-Fak,Rabu,14-May-25,17:00,Rabu,14-May-25,18:00
+KM. TATAMAILAU,05.2025,Sorong,Kamis,15-May-25,08:00,Kamis,15-May-25,10:00
+KM. TATAMAILAU,05.2025,Tidore,Jum'at,16-May-25,12:00,Jum'at,16-May-25,13:00
+KM. TATAMAILAU,05.2025,Bitung,Sabtu,17-May-25,01:00,,,
+KM. TIDAR,01.2025,Kijang,Jum'at,3-Jan-25,07:00,Jum'at,3-Jan-25,10:00
+KM. TIDAR,01.2025,Tg. Priok,Sabtu,4-Jan-25,22:00,Minggu,5-Jan-25,08:00
+KM. TIDAR,01.2025,Surabaya,Senin,6-Jan-25,12:00,Senin,6-Jan-25,15:00
+KM. TIDAR,01.2025,Makassar,Selasa,7-Jan-25,23:00,Rabu,8-Jan-25,02:00
+KM. TIDAR,01.2025,Bau-Bau,Rabu,8-Jan-25,19:00,Rabu,8-Jan-25,22:00
+KM. TIDAR,01.2025,Maumere,Kamis,9-Jan-25,12:00,Kamis,9-Jan-25,14:00
+KM. TIDAR,01.2025,Larantuka,Kamis,9-Jan-25,19:00,Kamis,9-Jan-25,21:00
+KM. TIDAR,01.2025,Lewoleba,Jum'at,10-Jan-25,00:01,Jum'at,10-Jan-25,02:00
+KM. TIDAR,01.2025,Kupang,Jum'at,10-Jan-25,10:00,Jum'at,10-Jan-25,14:00
+KM. TIDAR,01.2025,Lewoleba,Jum'at,10-Jan-25,22:00,Jum'at,10-Jan-25,23:59
+KM. TIDAR,01.2025,Larantuka,Sabtu,11-Jan-25,03:00,Sabtu,11-Jan-25,05:00
+KM. TIDAR,01.2025,Maumere,Sabtu,11-Jan-25,10:00,Sabtu,11-Jan-25,12:00
+KM. TIDAR,01.2025,Bau-Bau,Minggu,12-Jan-25,01:00,Minggu,12-Jan-25,04:00
+KM. TIDAR,01.2025,Makassar,Minggu,12-Jan-25,21:00,Minggu,12-Jan-25,23:59
+KM. TIDAR,01.2025,Surabaya,Selasa,14-Jan-25,07:00,Selasa,14-Jan-25,10:00
+KM. TIDAR,01.2025,Tg. Priok,Rabu,15-Jan-25,13:00,Rabu,15-Jan-25,16:00
+KM. TIDAR,01.2025,Kijang,Jum'at,17-Jan-25,02:00,,,
+KM. TIDAR,02.2025,Kijang,Jum'at,17-Jan-25,02:00,Jum'at,17-Jan-25,09:00
+KM. TIDAR,02.2025,Tg. Priok,Sabtu,18-Jan-25,21:00,Minggu,19-Jan-25,05:00
+KM. TIDAR,02.2025,Surabaya,Senin,20-Jan-25,09:00,Senin,20-Jan-25,12:00
+KM. TIDAR,02.2025,Makassar,Selasa,21-Jan-25,20:00,Selasa,21-Jan-25,23:00
+KM. TIDAR,02.2025,Bau-Bau,Rabu,22-Jan-25,16:00,Rabu,22-Jan-25,19:00
+KM. TIDAR,02.2025,Maumere,Kamis,23-Jan-25,09:00,Kamis,23-Jan-25,11:00
+KM. TIDAR,02.2025,Larantuka,Kamis,23-Jan-25,17:00,Kamis,23-Jan-25,19:00
+KM. TIDAR,02.2025,Lewoleba,Kamis,23-Jan-25,22:00,Kamis,23-Jan-25,23:59
+KM. TIDAR,02.2025,Kupang,Jum'at,24-Jan-25,09:00,Jum'at,24-Jan-25,13:00
+KM. TIDAR,02.2025,Lewoleba,Jum'at,24-Jan-25,21:00,Jum'at,24-Jan-25,23:00
+KM. TIDAR,02.2025,Larantuka,Sabtu,25-Jan-25,02:00,Sabtu,25-Jan-25,04:00
+KM. TIDAR,02.2025,Maumere,Sabtu,25-Jan-25,10:00,Sabtu,25-Jan-25,12:00
+KM. TIDAR,02.2025,Bau-Bau,Minggu,26-Jan-25,01:00,Minggu,26-Jan-25,04:00
+KM. TIDAR,02.2025,Makassar,Minggu,26-Jan-25,21:00,Minggu,26-Jan-25,23:59
+KM. TIDAR,02.2025,Surabaya,Selasa,28-Jan-25,08:00,Selasa,28-Jan-25,11:00
+KM. TIDAR,02.2025,Tg. Priok,Rabu,29-Jan-25,15:00,Rabu,29-Jan-25,18:00
+KM. TIDAR,02.2025,Kijang,Jum'at,31-Jan-25,05:00,,,
+KM. TIDAR,03.2025,Kijang,Jum'at,31-Jan-25,05:00,Jum'at,31-Jan-25,09:00
+KM. TIDAR,03.2025,Tg. Priok,Sabtu,1-Feb-25,21:00,Minggu,2-Feb-25,03:00
+KM. TIDAR,03.2025,Surabaya,Senin,3-Feb-25,08:00,Senin,3-Feb-25,10:00
+KM. TIDAR,03.2025,Makassar,Selasa,4-Feb-25,18:00,Selasa,4-Feb-25,21:00
+KM. TIDAR,03.2025,Bau-Bau,Rabu,5-Feb-25,14:00,Rabu,5-Feb-25,17:00
+KM. TIDAR,03.2025,Maumere,Kamis,6-Feb-25,07:00,Kamis,6-Feb-25,09:00
+KM. TIDAR,03.2025,Larantuka,Kamis,6-Feb-25,15:00,Kamis,6-Feb-25,17:00
+KM. TIDAR,03.2025,Lewoleba,Kamis,6-Feb-25,20:00,Kamis,6-Feb-25,22:00
+KM. TIDAR,03.2025,Kupang,Jum'at,7-Feb-25,07:00,Jum'at,7-Feb-25,11:00
+KM. TIDAR,03.2025,Lewoleba,Jum'at,7-Feb-25,19:00,Jum'at,7-Feb-25,21:00
+KM. TIDAR,03.2025,Larantuka,Sabtu,8-Feb-25,00:01,Sabtu,8-Feb-25,02:00
+KM. TIDAR,03.2025,Maumere,Sabtu,8-Feb-25,08:00,Sabtu,8-Feb-25,10:00
+KM. TIDAR,03.2025,Bau-Bau,Sabtu,8-Feb-25,23:00,Minggu,9-Feb-25,02:00
+KM. TIDAR,03.2025,Makassar,Minggu,9-Feb-25,19:00,Minggu,9-Feb-25,23:59
+KM. TIDAR,03.2025,Surabaya,Selasa,11-Feb-25,08:00,Selasa,11-Feb-25,11:00
+KM. TIDAR,03.2025,Tg. Priok,Rabu,12-Feb-25,15:00,Rabu,12-Feb-25,18:00
+KM. TIDAR,03.2025,Kijang,Jum'at,14-Feb-25,05:00,,,
+KM. TIDAR,04.2025,Kijang,Jum'at,14-Feb-25,05:00,Jum'at,14-Feb-25,09:00
+KM. TIDAR,04.2025,Tg. Priok,Sabtu,15-Feb-25,21:00,Minggu,16-Feb-25,03:00
+KM. TIDAR,04.2025,Surabaya,Senin,17-Feb-25,08:00,Senin,17-Feb-25,10:00
+KM. TIDAR,04.2025,Makassar,Selasa,18-Feb-25,18:00,Selasa,18-Feb-25,21:00
+KM. TIDAR,04.2025,Bau-Bau,Rabu,19-Feb-25,14:00,Rabu,19-Feb-25,17:00
+KM. TIDAR,04.2025,Maumere,Kamis,20-Feb-25,07:00,Kamis,20-Feb-25,09:00
+KM. TIDAR,04.2025,Larantuka,Kamis,20-Feb-25,15:00,Kamis,20-Feb-25,17:00
+KM. TIDAR,04.2025,Lewoleba,Kamis,20-Feb-25,20:00,Kamis,20-Feb-25,22:00
+KM. TIDAR,04.2025,Kupang,Jum'at,21-Feb-25,07:00,Jum'at,21-Feb-25,11:00
+KM. TIDAR,04.2025,Lewoleba,Jum'at,21-Feb-25,19:00,Jum'at,21-Feb-25,21:00
+KM. TIDAR,04.2025,Larantuka,Sabtu,22-Feb-25,00:01,Sabtu,22-Feb-25,02:00
+KM. TIDAR,04.2025,Maumere,Sabtu,22-Feb-25,08:00,Sabtu,22-Feb-25,10:00
+KM. TIDAR,04.2025,Bau-Bau,Sabtu,22-Feb-25,23:00,Minggu,23-Feb-25,02:00
+KM. TIDAR,04.2025,Makassar,Minggu,23-Feb-25,19:00,Minggu,23-Feb-25,23:59
+KM. TIDAR,04.2025,Surabaya,Selasa,25-Feb-25,08:00,Selasa,25-Feb-25,11:00
+KM. TIDAR,04.2025,Tg. Priok,Rabu,26-Feb-25,15:00,Rabu,26-Feb-25,18:00
+KM. TIDAR,04.2025,Kijang,Jum'at,28-Feb-25,05:00,,,
+KM. TIDAR,05.2025,Kijang,Jum'at,28-Feb-25,05:00,Jum'at,28-Feb-25,09:00
+KM. TIDAR,05.2025,Tg. Priok,Sabtu,1-Mar-25,21:00,Minggu,2-Mar-25,03:00
+KM. TIDAR,05.2025,Surabaya,Senin,3-Mar-25,07:00,Senin,3-Mar-25,09:00
+KM. TIDAR,05.2025,Makassar,Selasa,4-Mar-25,15:00,Selasa,4-Mar-25,18:00
+KM. TIDAR,05.2025,Bau-Bau,Rabu,5-Mar-25,10:00,Rabu,5-Mar-25,13:00
+KM. TIDAR,05.2025,Maumere,Kamis,6-Mar-25,03:00,Kamis,6-Mar-25,05:00
+KM. TIDAR,05.2025,Larantuka,Kamis,6-Mar-25,11:00,Kamis,6-Mar-25,13:00
+KM. TIDAR,05.2025,Lewoleba,Kamis,6-Mar-25,16:00,Kamis,6-Mar-25,17:00
+KM. TIDAR,05.2025,Kupang,Jum'at,7-Mar-25,01:00,Jum'at,7-Mar-25,04:00
+KM. TIDAR,05.2025,Lewoleba,Jum'at,7-Mar-25,13:00,Jum'at,7-Mar-25,14:00
+KM. TIDAR,05.2025,Larantuka,Jum'at,7-Mar-25,17:00,Jum'at,7-Mar-25,19:00
+KM. TIDAR,05.2025,Maumere,Sabtu,8-Mar-25,01:00,Sabtu,8-Mar-25,03:00
+KM. TIDAR,05.2025,Bau-Bau,Sabtu,8-Mar-25,16:00,Sabtu,8-Mar-25,19:00
+KM. TIDAR,05.2025,Makassar,Minggu,9-Mar-25,12:00,Minggu,9-Mar-25,16:00
+KM. TIDAR,05.2025,Surabaya,Selasa,11-Mar-25,00:01,Selasa,11-Mar-25,03:00
+KM. TIDAR,05.2025,Tg. Priok,Rabu,12-Mar-25,09:00,Rabu,12-Mar-25,12:00
+KM. TIDAR,05.2025,Kijang,Kamis,13-Mar-25,22:00,,,
+KM. TILONGKABILA,01.2025,Benoa,Rabu,25-Dec-24,08:00,Kamis,26-Dec-24,09:00
+KM. TILONGKABILA,01.2025,Lembar,Kamis,26-Dec-24,15:00,Kamis,26-Dec-24,17:00
+KM. TILONGKABILA,01.2025,Bima,Jum'at,27-Dec-24,11:00,Jum'at,27-Dec-24,15:00
+KM. TILONGKABILA,01.2025,Labuan Bajo,Jum'at,27-Dec-24,22:00,Jum'at,27-Dec-24,23:59
+KM. TILONGKABILA,01.2025,Makassar,Sabtu,28-Dec-24,18:00,Sabtu,28-Dec-24,23:00
+KM. TILONGKABILA,01.2025,Bau-Bau,Minggu,29-Dec-24,20:00,Minggu,29-Dec-24,22:00
+KM. TILONGKABILA,01.2025,Raha,Senin,30-Dec-24,02:00,Senin,30-Dec-24,04:00
+KM. TILONGKABILA,01.2025,Kendari,Senin,30-Dec-24,10:00,Senin,30-Dec-24,14:00
+KM. TILONGKABILA,01.2025,Luwuk,Selasa,31-Dec-24,07:00,Selasa,31-Dec-24,10:00
+KM. TILONGKABILA,01.2025,Gorontalo,Selasa,31-Dec-24,21:00,Selasa,31-Dec-24,23:00
+KM. TILONGKABILA,01.2025,Bitung,Rabu,1-Jan-25,14:00,Kamis,2-Jan-25,03:00
+KM. TILONGKABILA,01.2025,Gorontalo,Kamis,2-Jan-25,18:00,Kamis,2-Jan-25,20:00
+KM. TILONGKABILA,01.2025,Luwuk,Jum'at,3-Jan-25,07:00,Jum'at,3-Jan-25,09:00
+KM. TILONGKABILA,01.2025,Kendari,Sabtu,4-Jan-25,03:00,Sabtu,4-Jan-25,07:00
+KM. TILONGKABILA,01.2025,Raha,Sabtu,4-Jan-25,14:00,Sabtu,4-Jan-25,15:00
+KM. TILONGKABILA,01.2025,Bau-Bau,Sabtu,4-Jan-25,20:00,Sabtu,4-Jan-25,22:00
+KM. TILONGKABILA,01.2025,Makassar,Minggu,5-Jan-25,20:00,Senin,6-Jan-25,01:00
+KM. TILONGKABILA,01.2025,Labuan Bajo,Senin,6-Jan-25,19:00,Senin,6-Jan-25,21:00
+KM. TILONGKABILA,01.2025,Bima,Selasa,7-Jan-25,04:00,Selasa,7-Jan-25,06:00
+KM. TILONGKABILA,01.2025,Lembar,Rabu,8-Jan-25,00:01,Rabu,8-Jan-25,02:00
+KM. TILONGKABILA,01.2025,Benoa,Rabu,8-Jan-25,08:00,,,
+KM. TILONGKABILA,02.2025,Benoa,Rabu,8-Jan-25,08:00,Kamis,9-Jan-25,08:00
+KM. TILONGKABILA,02.2025,Lembar,Kamis,9-Jan-25,14:00,Kamis,9-Jan-25,16:00
+KM. TILONGKABILA,02.2025,Bima,Jum'at,10-Jan-25,10:00,Jum'at,10-Jan-25,14:00
+KM. TILONGKABILA,02.2025,Labuan Bajo,Jum'at,10-Jan-25,21:00,Jum'at,10-Jan-25,23:59
+KM. TILONGKABILA,02.2025,Makassar,Sabtu,11-Jan-25,18:00,Sabtu,11-Jan-25,23:00
+KM. TILONGKABILA,02.2025,Bau-Bau,Minggu,12-Jan-25,20:00,Minggu,12-Jan-25,22:00
+KM. TILONGKABILA,02.2025,Raha,Senin,13-Jan-25,02:00,Senin,13-Jan-25,04:00
+KM. TILONGKABILA,02.2025,Kendari,Senin,13-Jan-25,10:00,Senin,13-Jan-25,14:00
+KM. TILONGKABILA,02.2025,Luwuk,Selasa,14-Jan-25,07:00,Selasa,14-Jan-25,10:00
+KM. TILONGKABILA,02.2025,Gorontalo,Selasa,14-Jan-25,21:00,Selasa,14-Jan-25,23:00
+KM. TILONGKABILA,02.2025,Bitung,Rabu,15-Jan-25,14:00,Kamis,16-Jan-25,03:00
+KM. TILONGKABILA,02.2025,Gorontalo,Kamis,16-Jan-25,18:00,Kamis,16-Jan-25,20:00
+KM. TILONGKABILA,02.2025,Luwuk,Jum'at,17-Jan-25,07:00,Jum'at,17-Jan-25,09:00
+KM. TILONGKABILA,02.2025,Kendari,Sabtu,18-Jan-25,03:00,Sabtu,18-Jan-25,07:00
+KM. TILONGKABILA,02.2025,Raha,Sabtu,18-Jan-25,14:00,Sabtu,18-Jan-25,15:00
+KM. TILONGKABILA,02.2025,Bau-Bau,Sabtu,18-Jan-25,20:00,Sabtu,18-Jan-25,22:00
+KM. TILONGKABILA,02.2025,Makassar,Minggu,19-Jan-25,20:00,Senin,20-Jan-25,01:00
+KM. TILONGKABILA,02.2025,Labuan Bajo,Senin,20-Jan-25,19:00,Senin,20-Jan-25,21:00
+KM. TILONGKABILA,02.2025,Bima,Selasa,21-Jan-25,04:00,Selasa,21-Jan-25,06:00
+KM. TILONGKABILA,02.2025,Lembar,Rabu,22-Jan-25,00:01,Rabu,22-Jan-25,02:00
+KM. TILONGKABILA,02.2025,Benoa,Rabu,22-Jan-25,08:00,,,
+KM. TILONGKABILA,03.2025,Cirebon,Jum'at,24-Jan-25,,Sabtu,22-Feb-25,
+KM. TILONGKABILA,03.2025,Surabaya,Minggu,23-Feb-25,,Senin,24-Feb-25,
+KM. TILONGKABILA,03.2025,Benoa,Selasa,25-Feb-25,,Selasa,25-Feb-25,
+KM. TILONGKABILA,03.2025,Lembar,Selasa,25-Feb-25,,Rabu,26-Feb-25,
+KM. TILONGKABILA,03.2025,Bima,Rabu,26-Feb-25,,Rabu,26-Feb-25,
+KM. TILONGKABILA,03.2025,Labuan Bajo,Kamis,27-Feb-25,,Kamis,27-Feb-25,
+KM. TILONGKABILA,03.2025,Makassar,Jum'at,28-Feb-25,,Jum'at,28-Feb-25,
+KM. TILONGKABILA,03.2025,Bau-Bau,Sabtu,1-Mar-25,,Sabtu,1-Mar-25,
+KM. TILONGKABILA,03.2025,Raha,Sabtu,1-Mar-25,,Sabtu,1-Mar-25,
+KM. TILONGKABILA,03.2025,Kendari,Sabtu,1-Mar-25,,Sabtu,1-Mar-25,
+KM. TILONGKABILA,03.2025,Luwuk,Minggu,2-Mar-25,,Minggu,2-Mar-25,
+KM. TILONGKABILA,03.2025,Gorontalo,Senin,3-Mar-25,,Senin,3-Mar-25,
+KM. TILONGKABILA,03.2025,Bitung,Senin,3-Mar-25,,Selasa,4-Mar-25,
+KM. TILONGKABILA,03.2025,Gorontalo,Selasa,4-Mar-25,,Selasa,4-Mar-25,
+KM. TILONGKABILA,03.2025,Luwuk,Rabu,5-Mar-25,,Rabu,5-Mar-25,
+KM. TILONGKABILA,03.2025,Kendari,Kamis,6-Mar-25,,Kamis,6-Mar-25,
+KM. TILONGKABILA,03.2025,Raha,Kamis,6-Mar-25,,Kamis,6-Mar-25,
+KM. TILONGKABILA,03.2025,Bau-Bau,Kamis,6-Mar-25,,Jum'at,7-Mar-25,
+KM. TILONGKABILA,03.2025,Makassar,Jum'at,7-Mar-25,,Sabtu,8-Mar-25,
+KM. TILONGKABILA,03.2025,Labuan Bajo,Sabtu,8-Mar-25,,Sabtu,8-Mar-25,
+KM. TILONGKABILA,03.2025,Bima,Minggu,9-Mar-25,,Minggu,9-Mar-25,
+KM. TILONGKABILA,03.2025,Lembar,Senin,10-Mar-25,,Senin,10-Mar-25,
+KM. TILONGKABILA,03.2025,Benoa,Senin,10-Mar-25,,,,
+KM. TILONGKABILA,04.2025,Benoa,Senin,10-Mar-25,09:00,Selasa,11-Mar-25,08:00
+KM. TILONGKABILA,04.2025,Lembar,Selasa,11-Mar-25,14:00,Selasa,11-Mar-25,16:00
+KM. TILONGKABILA,04.2025,Bima,Rabu,12-Mar-25,10:00,Rabu,12-Mar-25,14:00
+KM. TILONGKABILA,04.2025,Labuan Bajo,Rabu,12-Mar-25,21:00,Rabu,12-Mar-25,23:00
+KM. TILONGKABILA,04.2025,Makassar,Kamis,13-Mar-25,17:00,Kamis,13-Mar-25,22:00
+KM. TILONGKABILA,04.2025,Bau-Bau,Jum'at,14-Mar-25,19:00,Jum'at,14-Mar-25,22:00
+KM. TILONGKABILA,04.2025,Raha,Sabtu,15-Mar-25,02:00,Sabtu,15-Mar-25,04:00
+KM. TILONGKABILA,04.2025,Kendari,Sabtu,15-Mar-25,10:00,Sabtu,15-Mar-25,14:00
+KM. TILONGKABILA,04.2025,Luwuk,Minggu,16-Mar-25,07:00,Minggu,16-Mar-25,10:00
+KM. TILONGKABILA,04.2025,Gorontalo,Minggu,16-Mar-25,21:00,Minggu,16-Mar-25,23:00
+KM. TILONGKABILA,04.2025,Bitung,Senin,17-Mar-25,15:00,Rabu,19-Mar-25,02:00
+KM. TILONGKABILA,04.2025,Gorontalo,Rabu,19-Mar-25,17:00,Rabu,19-Mar-25,19:00
+KM. TILONGKABILA,04.2025,Luwuk,Kamis,20-Mar-25,06:00,Kamis,20-Mar-25,09:00
+KM. TILONGKABILA,04.2025,Kendari,Jum'at,21-Mar-25,04:00,Jum'at,21-Mar-25,08:00
+KM. TILONGKABILA,04.2025,Raha,Jum'at,21-Mar-25,15:00,Jum'at,21-Mar-25,16:00
+KM. TILONGKABILA,04.2025,Bau-Bau,Jum'at,21-Mar-25,21:00,Jum'at,21-Mar-25,23:00
+KM. TILONGKABILA,04.2025,Makassar,Sabtu,22-Mar-25,21:00,Minggu,23-Mar-25,01:00
+KM. TILONGKABILA,04.2025,Bima,Minggu,23-Mar-25,21:00,Minggu,23-Mar-25,23:59
+KM. TILONGKABILA,04.2025,Labuan Bajo,Senin,24-Mar-25,07:00,Senin,24-Mar-25,09:00
+KM. TILONGKABILA,04.2025,Makassar,Selasa,25-Mar-25,04:00,Selasa,25-Mar-25,08:00
+KM. TILONGKABILA,04.2025,Labuan Bajo,Rabu,26-Mar-25,04:00,Rabu,26-Mar-25,06:00
+KM. TILONGKABILA,04.2025,Bima,Rabu,26-Mar-25,13:00,Rabu,26-Mar-25,15:00
+KM. TILONGKABILA,04.2025,Lembar,Kamis,27-Mar-25,10:00,Kamis,27-Mar-25,12:00
+KM. TILONGKABILA,04.2025,Benoa,Kamis,27-Mar-25,18:00,,,
+KM. TILONGKABILA,05.2025,Benoa,Kamis,27-Mar-25,18:00,Jum'at,28-Mar-25,11:00
+KM. TILONGKABILA,05.2025,Lembar,Jum'at,28-Mar-25,17:00,Jum'at,28-Mar-25,19:00
+KM. TILONGKABILA,05.2025,Bima,Sabtu,29-Mar-25,13:00,Sabtu,29-Mar-25,16:00
+KM. TILONGKABILA,05.2025,Labuan Bajo,Sabtu,29-Mar-25,23:00,Minggu,30-Mar-25,01:00
+KM. TILONGKABILA,05.2025,Makassar,Minggu,30-Mar-25,19:00,Minggu,30-Mar-25,23:00
+KM. TILONGKABILA,05.2025,Bau-Bau,Senin,31-Mar-25,20:00,Senin,31-Mar-25,22:00
+KM. TILONGKABILA,05.2025,Raha,Selasa,1-Apr-25,02:00,Selasa,1-Apr-25,04:00
+KM. TILONGKABILA,05.2025,Kendari,Selasa,1-Apr-25,10:00,Selasa,1-Apr-25,14:00
+KM. TILONGKABILA,05.2025,Luwuk,Rabu,2-Apr-25,07:00,Rabu,2-Apr-25,10:00
+KM. TILONGKABILA,05.2025,Gorontalo,Rabu,2-Apr-25,21:00,Rabu,2-Apr-25,23:00
+KM. TILONGKABILA,05.2025,Bitung,Kamis,3-Apr-25,14:00,Sabtu,5-Apr-25,02:00
+KM. TILONGKABILA,05.2025,Gorontalo,Sabtu,5-Apr-25,17:00,Sabtu,5-Apr-25,19:00
+KM. TILONGKABILA,05.2025,Luwuk,Minggu,6-Apr-25,06:00,Minggu,6-Apr-25,08:00
+KM. TILONGKABILA,05.2025,Kendari,Senin,7-Apr-25,02:00,Senin,7-Apr-25,06:00
+KM. TILONGKABILA,05.2025,Raha,Senin,7-Apr-25,13:00,Senin,7-Apr-25,14:00
+KM. TILONGKABILA,05.2025,Bau-Bau,Senin,7-Apr-25,19:00,Senin,7-Apr-25,21:00
+KM. TILONGKABILA,05.2025,Makassar,Selasa,8-Apr-25,19:00,Selasa,8-Apr-25,23:59
+KM. TILONGKABILA,05.2025,Bima,Rabu,9-Apr-25,20:00,Rabu,9-Apr-25,23:00
+KM. TILONGKABILA,05.2025,Labuan Bajo,Kamis,10-Apr-25,06:00,Kamis,10-Apr-25,08:00
+KM. TILONGKABILA,05.2025,Makassar,Jum'at,11-Apr-25,03:00,Jum'at,11-Apr-25,07:00
+KM. TILONGKABILA,05.2025,Labuan Bajo,Sabtu,12-Apr-25,03:00,Sabtu,12-Apr-25,05:00
+KM. TILONGKABILA,05.2025,Bima,Sabtu,12-Apr-25,12:00,Sabtu,12-Apr-25,14:00
+KM. TILONGKABILA,05.2025,Lembar,Minggu,13-Apr-25,10:00,Minggu,13-Apr-25,12:00
+KM. TILONGKABILA,05.2025,Benoa,Minggu,13-Apr-25,18:00,,,
+KM. WILIS,01.2025,Batulicin,Selasa,31-Dec-24,15:00,Rabu,1-Jan-25,18:00
+KM. WILIS,01.2025,Makassar,Jum'at,3-Jan-25,00:01,Jum'at,3-Jan-25,08:00
+KM. WILIS,01.2025,Labuan Bajo,Sabtu,4-Jan-25,08:00,Sabtu,4-Jan-25,09:00
+KM. WILIS,01.2025,Bima,Sabtu,4-Jan-25,18:00,Sabtu,4-Jan-25,19:00
+KM. WILIS,01.2025,Waikelo,Minggu,5-Jan-25,06:00,Minggu,5-Jan-25,07:00
+KM. WILIS,01.2025,Waingapu,Minggu,5-Jan-25,16:00,Minggu,5-Jan-25,20:00
+KM. WILIS,01.2025,Ende,Senin,6-Jan-25,07:00,Senin,6-Jan-25,09:00
+KM. WILIS,01.2025,Kupang,Selasa,7-Jan-25,01:00,Selasa,7-Jan-25,09:00
+KM. WILIS,01.2025,Kalabahi,Rabu,8-Jan-25,02:00,Rabu,8-Jan-25,14:00
+KM. WILIS,01.2025,Kupang,Kamis,9-Jan-25,06:00,Kamis,9-Jan-25,14:00
+KM. WILIS,01.2025,Ende,Jum'at,10-Jan-25,06:00,Jum'at,10-Jan-25,08:00
+KM. WILIS,01.2025,Waingapu,Jum'at,10-Jan-25,19:00,Jum'at,10-Jan-25,21:00
+KM. WILIS,01.2025,Waikelo,Sabtu,11-Jan-25,06:00,Sabtu,11-Jan-25,07:00
+KM. WILIS,01.2025,Bima,Sabtu,11-Jan-25,18:00,Sabtu,11-Jan-25,20:00
+KM. WILIS,01.2025,Labuan Bajo,Minggu,12-Jan-25,05:00,Minggu,12-Jan-25,06:00
+KM. WILIS,01.2025,Makassar,Senin,13-Jan-25,06:00,Senin,13-Jan-25,09:00
+KM. WILIS,01.2025,Batulicin,Selasa,14-Jan-25,15:00,,,
+KM. WILIS,02.2025,Batulicin,Selasa,14-Jan-25,15:00,Rabu,15-Jan-25,18:00
+KM. WILIS,02.2025,Makassar,Jum'at,17-Jan-25,00:01,Jum'at,17-Jan-25,08:00
+KM. WILIS,02.2025,Labuan Bajo,Sabtu,18-Jan-25,08:00,Sabtu,18-Jan-25,09:00
+KM. WILIS,02.2025,Bima,Sabtu,18-Jan-25,18:00,Sabtu,18-Jan-25,19:00
+KM. WILIS,02.2025,Waikelo,Minggu,19-Jan-25,06:00,Minggu,19-Jan-25,07:00
+KM. WILIS,02.2025,Waingapu,Minggu,19-Jan-25,16:00,Minggu,19-Jan-25,20:00
+KM. WILIS,02.2025,Ende,Senin,20-Jan-25,07:00,Senin,20-Jan-25,09:00
+KM. WILIS,02.2025,Kupang,Selasa,21-Jan-25,01:00,Selasa,21-Jan-25,09:00
+KM. WILIS,02.2025,Kalabahi,Rabu,22-Jan-25,02:00,Rabu,22-Jan-25,14:00
+KM. WILIS,02.2025,Kupang,Kamis,23-Jan-25,06:00,Kamis,23-Jan-25,14:00
+KM. WILIS,02.2025,Ende,Jum'at,24-Jan-25,06:00,Jum'at,24-Jan-25,08:00
+KM. WILIS,02.2025,Waingapu,Jum'at,24-Jan-25,19:00,Jum'at,24-Jan-25,21:00
+KM. WILIS,02.2025,Waikelo,Sabtu,25-Jan-25,06:00,Sabtu,25-Jan-25,07:00
+KM. WILIS,02.2025,Bima,Sabtu,25-Jan-25,18:00,Sabtu,25-Jan-25,20:00
+KM. WILIS,02.2025,Labuan Bajo,Minggu,26-Jan-25,05:00,Minggu,26-Jan-25,06:00
+KM. WILIS,02.2025,Makassar,Senin,27-Jan-25,06:00,Senin,27-Jan-25,09:00
+KM. WILIS,02.2025,Batulicin,Selasa,28-Jan-25,15:00,,,
+KM. WILIS,03.2025,Batulicin,Selasa,28-Jan-25,15:00,Rabu,29-Jan-25,18:00
+KM. WILIS,03.2025,Makassar,Jum'at,31-Jan-25,00:01,Jum'at,31-Jan-25,08:00
+KM. WILIS,03.2025,Labuan Bajo,Sabtu,1-Feb-25,08:00,Sabtu,1-Feb-25,09:00
+KM. WILIS,03.2025,Bima,Sabtu,1-Feb-25,18:00,Sabtu,1-Feb-25,19:00
+KM. WILIS,03.2025,Waikelo,Minggu,2-Feb-25,06:00,Minggu,2-Feb-25,07:00
+KM. WILIS,03.2025,Waingapu,Minggu,2-Feb-25,16:00,Minggu,2-Feb-25,20:00
+KM. WILIS,03.2025,Ende,Senin,3-Feb-25,07:00,Senin,3-Feb-25,09:00
+KM. WILIS,03.2025,Kupang,Selasa,4-Feb-25,01:00,Selasa,4-Feb-25,09:00
+KM. WILIS,03.2025,Kalabahi,Rabu,5-Feb-25,02:00,Rabu,5-Feb-25,14:00
+KM. WILIS,03.2025,Kupang,Kamis,6-Feb-25,06:00,Kamis,6-Feb-25,14:00
+KM. WILIS,03.2025,Ende,Jum'at,7-Feb-25,06:00,Jum'at,7-Feb-25,08:00
+KM. WILIS,03.2025,Waingapu,Jum'at,7-Feb-25,19:00,Jum'at,7-Feb-25,21:00
+KM. WILIS,03.2025,Waikelo,Sabtu,8-Feb-25,06:00,Sabtu,8-Feb-25,07:00
+KM. WILIS,03.2025,Bima,Sabtu,8-Feb-25,18:00,Sabtu,8-Feb-25,20:00
+KM. WILIS,03.2025,Labuan Bajo,Minggu,9-Feb-25,05:00,Minggu,9-Feb-25,06:00
+KM. WILIS,03.2025,Makassar,Senin,10-Feb-25,06:00,Senin,10-Feb-25,09:00
+KM. WILIS,03.2025,Batulicin,Selasa,11-Feb-25,15:00,,,
+KM. WILIS,04.2025,Batulicin,Selasa,11-Feb-25,15:00,Rabu,12-Feb-25,18:00
+KM. WILIS,04.2025,Makassar,Jum'at,14-Feb-25,00:01,Jum'at,14-Feb-25,08:00
+KM. WILIS,04.2025,Labuan Bajo,Sabtu,15-Feb-25,08:00,Sabtu,15-Feb-25,09:00
+KM. WILIS,04.2025,Bima,Sabtu,15-Feb-25,18:00,Sabtu,15-Feb-25,19:00
+KM. WILIS,04.2025,Waikelo,Minggu,16-Feb-25,06:00,Minggu,16-Feb-25,07:00
+KM. WILIS,04.2025,Waingapu,Minggu,16-Feb-25,16:00,Minggu,16-Feb-25,20:00
+KM. WILIS,04.2025,Ende,Senin,17-Feb-25,07:00,Senin,17-Feb-25,09:00
+KM. WILIS,04.2025,Kupang,Selasa,18-Feb-25,01:00,Selasa,18-Feb-25,09:00
+KM. WILIS,04.2025,Kalabahi,Rabu,19-Feb-25,02:00,Rabu,19-Feb-25,14:00
+KM. WILIS,04.2025,Kupang,Kamis,20-Feb-25,06:00,Kamis,20-Feb-25,14:00
+KM. WILIS,04.2025,Ende,Jum'at,21-Feb-25,06:00,Jum'at,21-Feb-25,08:00
+KM. WILIS,04.2025,Waingapu,Jum'at,21-Feb-25,19:00,Jum'at,21-Feb-25,21:00
+KM. WILIS,04.2025,Waikelo,Sabtu,22-Feb-25,06:00,Sabtu,22-Feb-25,07:00
+KM. WILIS,04.2025,Bima,Sabtu,22-Feb-25,18:00,Sabtu,22-Feb-25,20:00
+KM. WILIS,04.2025,Labuan Bajo,Minggu,23-Feb-25,05:00,Minggu,23-Feb-25,06:00
+KM. WILIS,04.2025,Makassar,Senin,24-Feb-25,06:00,Senin,24-Feb-25,09:00
+KM. WILIS,04.2025,Batulicin,Selasa,25-Feb-25,15:00,,,
+KM. WILIS,05.2025,Batulicin,Selasa,25-Feb-25,15:00,Rabu,26-Feb-25,18:00
+KM. WILIS,05.2025,Makassar,Jum'at,28-Feb-25,00:01,Jum'at,28-Feb-25,08:00
+KM. WILIS,05.2025,Labuan Bajo,Sabtu,1-Mar-25,08:00,Sabtu,1-Mar-25,09:00
+KM. WILIS,05.2025,Bima,Sabtu,1-Mar-25,18:00,Sabtu,1-Mar-25,19:00
+KM. WILIS,05.2025,Waikelo,Minggu,2-Mar-25,06:00,Minggu,2-Mar-25,07:00
+KM. WILIS,05.2025,Waingapu,Minggu,2-Mar-25,16:00,Minggu,2-Mar-25,20:00
+KM. WILIS,05.2025,Ende,Senin,3-Mar-25,07:00,Senin,3-Mar-25,09:00
+KM. WILIS,05.2025,Kupang,Selasa,4-Mar-25,01:00,Selasa,4-Mar-25,09:00
+KM. WILIS,05.2025,Kalabahi,Rabu,5-Mar-25,02:00,Rabu,5-Mar-25,14:00
+KM. WILIS,05.2025,Kupang,Kamis,6-Mar-25,06:00,Kamis,6-Mar-25,14:00
+KM. WILIS,05.2025,Ende,Jum'at,7-Mar-25,06:00,Jum'at,7-Mar-25,08:00
+KM. WILIS,05.2025,Waingapu,Jum'at,7-Mar-25,19:00,Jum'at,7-Mar-25,21:00
+KM. WILIS,05.2025,Waikelo,Sabtu,8-Mar-25,06:00,Sabtu,8-Mar-25,07:00
+KM. WILIS,05.2025,Bima,Sabtu,8-Mar-25,18:00,Sabtu,8-Mar-25,20:00
+KM. WILIS,05.2025,Labuan Bajo,Minggu,9-Mar-25,05:00,Minggu,9-Mar-25,06:00
+KM. WILIS,05.2025,Makassar,Senin,10-Mar-25,06:00,Senin,10-Mar-25,09:00
+KM. WILIS,05.2025,Batulicin,Selasa,11-Mar-25,15:00,,,
