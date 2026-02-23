@@ -1,0 +1,73 @@
+Nama_Pelabuhan,Wilayah,Max_Ship_Type,Total_Berths,isHub
+BELAWAN,Barat,2000,1,false
+PULAU BATAM,Barat,2000,1,false
+MAKASSAR,Tengah,2000,2,true
+BAU-BAU,Tengah,2000,2,false
+SURABAYA,Barat,2000,1,true
+PARE-PARE,Tengah,2000,1,false
+TANJUNG PRIOK,Barat,2000,2,true
+AMBON,Tengah,2000,2,true
+TERNATE,Timur,2000,1,false
+MANOKWARI,Timur,2000,1,false
+TARAKAN,Tengah,2000,1,false
+SEMARANG,Barat,2000,1,false
+SORONG,Timur,2000,2,true
+NABIRE,Timur,2000,1,false
+JAYAPURA,Timur,2000,1,false
+KUMAI,Barat,1000,1,false
+PANTOLOAN,Tengah,2000,1,false
+ENDE,Tengah,1000,1,false
+BANDA,Timur,2000,1,false
+KUPANG,Tengah,2000,2,true
+BIMA,Tengah,1000,1,false
+KENDARI,Tengah,1000,1,false
+TUAL,Timur,2000,1,false
+BENOA,Tengah,1000,1,false
+LABUAN BAJO,Tengah,1000,1,false
+NAMLEA,Timur,2000,1,false
+MAUMERE,Tengah,1000,1,false
+BIAK,Timur,2000,1,false
+SAMPIT,Barat,1000,1,false
+BITUNG,Tengah,2000,1,false
+LEWOLEBA,Tengah,2000,1,false
+PONTIANAK,Barat,1000,1,false
+DOBO,Timur,2000,1,false
+KIJANG,Barat,2000,1,false
+TIMIKA,Timur,1000,1,false
+LUWUK,Tengah,1000,1,false
+BANGGAI,Tengah,2000,1,false
+WASIOR,Timur,2000,1,false
+TIDORE,Tengah,1000,1,false
+JAILOLO,Tengah,1000,1,false
+BALIKPAPAN,Tengah,2000,1,false
+NUNUKAN,Tengah,2000,1,false
+WAINGAPU,Tengah,1000,1,false
+BONTANG,Tengah,1000,1,false
+SERUI,Timur,2000,1,false
+SAUMLAKI,Timur,1000,1,false
+KALABAHI,Tengah,1000,1,false
+WANCI,Tengah,1000,1,false
+BATULICIN,Barat,1000,1,false
+NAMROLE,Timur,1000,1,false
+FAK-FAK,Timur,2000,1,false
+LARANTUKA,Tengah,1000,1,false
+AMPENAN/LEMBAR,Tengah,1000,1,false
+KAIMANA,Timur,2000,1,false
+TAREMPA,Barat,1000,1,false
+MERAUKE,Timur,1000,1,false
+GORONTALO,Tengah,1000,1,false
+KARIMUN JAWA,Barat,1000,1,false
+NATUNA,Barat,1000,1,false
+AGATS,Timur,1000,1,false
+LETUNG,Barat,1000,1,false
+BELINYU,Barat,1000,1,false
+SERASAN,Barat,1000,1,false
+MIDAI,Barat,1000,1,false
+SANANA,Timur,1000,1,false
+TANJUNG BALAI KARIMUN,Barat,500,1,false
+WAIKELO,Tengah,500,1,false
+RAHA,Tengah,500,1,false
+TANJUNG PANDAN,Barat,1000,1,false
+AWERANGE,Tengah,1000,1,false
+BACAN,Tengah,500,1,false
+GESER,Timur,500,1,false
