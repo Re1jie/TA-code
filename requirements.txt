@@ -1,0 +1,7 @@
+ipykernel
+nbformat
+dash
+numpy
+pandas
+matplotlib
+plotly
