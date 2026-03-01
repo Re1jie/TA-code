@@ -1,10 +1,10 @@
 Nama_Pelabuhan,Wilayah,Max_Ship_Type,Total_Berths,isHub
 BELAWAN,Barat,2000,1,false
-PULAU BATAM,Barat,2000,1,false
+BATAM,Barat,2000,1,false
 MAKASSAR,Tengah,2000,2,true
-BAU-BAU,Tengah,2000,2,false
+BAUBAU,Tengah,2000,2,false
 SURABAYA,Barat,2000,1,true
-PARE-PARE,Tengah,2000,1,false
+PAREPARE,Tengah,2000,1,false
 TANJUNG PRIOK,Barat,2000,2,true
 AMBON,Tengah,2000,2,true
 TERNATE,Timur,2000,1,false
@@ -49,7 +49,7 @@ KALABAHI,Tengah,1000,1,false
 WANCI,Tengah,1000,1,false
 BATULICIN,Barat,1000,1,false
 NAMROLE,Timur,1000,1,false
-FAK-FAK,Timur,2000,1,false
+FAKFAK,Timur,2000,1,false
 LARANTUKA,Tengah,1000,1,false
 AMPENAN/LEMBAR,Tengah,1000,1,false
 KAIMANA,Timur,2000,1,false
