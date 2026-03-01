@@ -12,8 +12,8 @@ app = Dash(__name__)
 # =====================================================
 # LOAD DATA
 # =====================================================
-DATA_INPUT = '/home/re1jie/TA-code/JSSP-CAOA-SSR/Data/raw_data.csv'
-df = pd.read_csv(DATA_INPUT)
+VOYAGE_DATA = '../Data/raw_data.csv'
+df = pd.read_csv(VOYAGE_DATA)
 
 # =====================================================
 # NORMALISASI BULAN

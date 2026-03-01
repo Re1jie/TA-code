@@ -1,6 +1,6 @@
 import pandas as pd
 
-DATA_PATH = "JSSP-CAOA-SSR/Data/raw_data.csv"
+DATA_PATH = "./JSSP-CAOA-SSR/Data/voyage_data.csv"
 df = pd.read_csv(DATA_PATH)
 
 bulan_map = {
