@@ -2580,7 +2580,7 @@ KM.DOROLONDA,08.2025,Surabaya,Selasa,6-Mei-25,14:00,,,
 KM.DOROLONDA,09.2025,Surabaya,Selasa,6-Mei-25,14:00,Selasa,6-Mei-25,21:00
 KM.DOROLONDA,09.2025,Balikpapan,Kamis,8-Mei-25,03:00,Kamis,8-Mei-25,05:00
 KM.DOROLONDA,09.2025,Pantoloan,Kamis,8-Mei-25,18:00,Kamis,8-Mei-25,20:00
-KM.DOROLONDA,09.2025,Bitung,Sabtu,10-Mei-25,00:00,Sabtu,10-Mei-25,02:00
+KM.DOROLONDA,09.2025,Bitung,Sabtu,10-Mei-25,00:01,Sabtu,10-Mei-25,02:00
 KM.DOROLONDA,09.2025,Ternate,Sabtu,10-Mei-25,12:00,Sabtu,10-Mei-25,14:00
 KM.DOROLONDA,09.2025,Bitung,Sabtu,10-Mei-25,23:00,Minggu,11-Mei-25,01:00
 KM.DOROLONDA,09.2025,Pantoloan,Senin,12-Mei-25,06:00,Senin,12-Mei-25,08:00
@@ -3967,7 +3967,7 @@ KM.KELIMUTU,02.2025,Pontianak,Minggu,19-Jan-25,09:00,Minggu,19-Jan-25,11:00
 KM.KELIMUTU,02.2025,Tanjung Pandan,Senin,20-Jan-25,07:00,Senin,20-Jan-25,09:00
 KM.KELIMUTU,02.2025,Tanjung Priok,Selasa,21-Jan-25,03:00,,,
 KM.KELIMUTU,03.2025,Tanjung Priok,Selasa,21-Jan-25,03:00,Rabu,22-Jan-25,05:00
-KM.KELIMUTU,03.2025,Tanjung Pandan,Kamis,23-Jan-25,00:00,Kamis,23-Jan-25,02:00
+KM.KELIMUTU,03.2025,Tanjung Pandan,Kamis,23-Jan-25,00:01,Kamis,23-Jan-25,02:00
 KM.KELIMUTU,03.2025,Pontianak,Jum'at,24-Jan-25,02:00,Jum'at,24-Jan-25,04:00
 KM.KELIMUTU,03.2025,Semarang,Minggu,26-Jan-25,00:01,Minggu,26-Jan-25,04:00
 KM.KELIMUTU,03.2025,Kumai,Senin,27-Jan-25,05:00,Senin,27-Jan-25,12:00
@@ -7515,7 +7515,7 @@ KM.SINABUNG,11.2025,Bitung,Selasa,22-Jul-25,06:00,Selasa,22-Jul-25,09:00
 KM.SINABUNG,11.2025,Banggai,Rabu,23-Jul-25,09:00,Rabu,23-Jul-25,10:00
 KM.SINABUNG,11.2025,Baubau,Kamis,24-Jul-25,17:00,Kamis,24-Jul-25,20:00
 KM.SINABUNG,11.2025,Makassar,Sabtu,26-Jul-25,01:00,Sabtu,26-Jul-25,03:00
-KM.SINABUNG,11.2025,Surabaya,Minggu,27-Jul-25,07:00,,,
+KM.SINABUNG,11.2025,Surabaya,Minggu,28-Jul-25,04:00,,,
 KM.SINABUNG,12.2025,Surabaya,Senin,28-Jul-25,04:00,Senin,28-Jul-25,17:00
 KM.SINABUNG,12.2025,Makassar,Kamis,31-Jul-25,14:00,Kamis,31-Jul-25,18:00
 KM.SINABUNG,12.2025,Baubau,Sabtu,2-Agu-25,07:00,Sabtu,2-Agu-25,10:00
@@ -8837,7 +8837,7 @@ KM.TILONGKABILA,03.2025,Gorontalo,Selasa,4-Mar-25,21:00,Selasa,4-Mar-25,23:00
 KM.TILONGKABILA,03.2025,Luwuk,Rabu,5-Mar-25,10:00,Rabu,5-Mar-25,12:00
 KM.TILONGKABILA,03.2025,Kendari,Kamis,6-Mar-25,06:00,Kamis,6-Mar-25,09:00
 KM.TILONGKABILA,03.2025,Raha,Kamis,6-Mar-25,16:00,Kamis,6-Mar-25,17:00
-KM.TILONGKABILA,03.2025,Baubau,Kamis,6-Mar-25,22:00,Jum'at,7-Mar-25,00:00
+KM.TILONGKABILA,03.2025,Baubau,Kamis,6-Mar-25,22:00,Jum'at,7-Mar-25,00:01
 KM.TILONGKABILA,03.2025,Makassar,Jum'at,7-Mar-25,22:00,Sabtu,8-Mar-25,02:00
 KM.TILONGKABILA,03.2025,Labuan Bajo,Sabtu,8-Mar-25,20:00,Sabtu,8-Mar-25,22:00
 KM.TILONGKABILA,03.2025,Bima,Minggu,9-Mar-25,05:00,Minggu,9-Mar-25,07:00
