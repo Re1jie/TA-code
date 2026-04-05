@@ -2,7 +2,7 @@ import time
 import numpy as np
 
 def CAOA(N, max_iter, lb, ub, dim, fobj, 
-         alpha=0.5, beta=0.1, gamma=0.8, delta=1e-4, initial_energy=100.0,
+         alpha=0.3, beta=0.1, gamma=0.1, delta=1e-3, initial_energy=10.0,
          verbose_interval=100):
     
     if np.isscalar(lb): lb = np.full(dim, lb)
@@ -33,27 +33,38 @@ def CAOA(N, max_iter, lb, ub, dim, fobj,
         old_fitness = fitness.copy()
         n_depleted_count = 0
         
+        # 1. SELEKSI PEMIMPIN STOKASTIK SEJATI (Dipertahankan)
         probs = 1.0 / (1.0 + np.abs(fitness))
-        leader_idx = np.argmax(probs)
+        probs_normalized = probs / np.sum(probs)
+        leader_idx = np.random.choice(N, p=probs_normalized) 
         leader_position = pos[leader_idx, :].copy()
         
         for i in range(N):
             if i == leader_idx: continue
+            
             r = np.random.rand(dim)
+            # 2. PEMBARUAN POSISI KONTINU
             new_pos = pos[i, :] + alpha * (leader_position - pos[i, :]) + beta * (1.0 - 2.0 * r)
             new_pos = np.clip(new_pos, lb, ub)
+
+            # Evaluasi posisi baru (Percobaan Penyergapan)
             new_fit = fobj(new_pos)
+            delta_fit = new_fit - old_fitness[i]
             
-            if abs(new_fit - old_fitness[i]) > delta and new_fit > old_fitness[i]:
+            # 3. KOREKSI FUNDAMENTAL: Threshold-based Random Reinitialization
+            if delta_fit > 0 and abs(delta_fit) > delta:
+                # Jika memburuk melampaui delta, agen di-reset secara acak (Eksplorasi Paksa)
                 new_pos = lb + (ub - lb) * np.random.rand(dim)
                 new_fit = fobj(new_pos)
             
             pos[i, :] = new_pos
             fitness[i] = new_fit
 
+        # 4. PELURUHAN ENERGI ADAPTIF
         distances = np.sqrt(np.sum((pos - old_positions)**2, axis=1))
         energies = energies - gamma * distances
         
+        # 5. REINITIALISASI ENERGI HABIS
         depleted = energies <= 0
         if np.any(depleted):
             n_depleted_count = np.sum(depleted)
