@@ -1,3 +1,1 @@
-from algorithms.CAOA import CAOA
-
-print("ALGORITHMS PACKAGE LOADED!")
+from algorithms.caoa import CAOA
