@@ -20,6 +20,8 @@ def run_sequential_optimization(df, batch_size=30):
     # Memori Global State: Menyimpan waktu kapan setiap pelabuhan siap melayani kapal baru
     machine_ready_times = {machine_id: 0.0 for machine_id in df['Machine_ID'].unique()}
     
+    total_tardiness = 0
+
     for batch_idx, job_ids_in_batch in enumerate(batches):
         batch_data = df[df['Job_ID'].isin(job_ids_in_batch)].copy()
 
@@ -55,7 +57,7 @@ def run_sequential_optimization(df, batch_size=30):
             # Mengubah array probabilitas menjadi jadwal fisik
             S_sequence = decode_rov_single(x_continuous_1d, L_ref_batch)
             # Mengevaluasi simulasi jadwal dengan meneruskan memori machine_ready_times
-            fitness_value, _ = evaluate_schedule_tardiness(S_sequence, job_lookup_dict, machine_ready_times)
+            fitness_value, _ = evaluate_schedule_tardiness(S_sequence, job_lookup_dict, machine_ready_times.copy())
             return fitness_value
             
         # Panggil algoritma pengoptimalan CAOA
@@ -64,16 +66,24 @@ def run_sequential_optimization(df, batch_size=30):
             fobj=fobj_wrapper,
             **CAOA_CONFIG
         )
-        print(f"Batch {batch_idx + 1} Selesai. Best Tardiness: {best_fitness}")
-        
+
         # === DEKODE DAN PENGUNCIAN GLOBAL BEST ===
-        # Eksekusi ulang solusi terbaik untuk mengamankan status akhir pelabuhannya
         best_S_sequence = decode_rov_single(best_x_continuous, L_ref_batch)
         final_tardiness, updated_machine_times = evaluate_schedule_tardiness(
             best_S_sequence, 
             job_lookup_dict, 
             machine_ready_times
         )
+
+        # update total kumulatif
+        total_tardiness += final_tardiness
+
+        print(
+            f"Batch {batch_idx+1} selesai | "
+            f"Batch tardiness: {final_tardiness:.2f} | "
+            f"Kumulatif: {total_tardiness:.2f}"
+        )
+
         
         # TRANSFER STATE ANTAR-BATCH: Mengunci efek riak ke batch selanjutnya
         machine_ready_times = updated_machine_times
