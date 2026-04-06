@@ -1,11 +1,15 @@
+# =============================================================================
+# FILE: sequential_optimizer.py
+# DESKRIPSI: Pipeline pengoptimalan batch-sekuensial. Merakit O(1) Dictionary
+#            dan mengelola transfer memori state pelabuhan (Ripple Effect).
+# =============================================================================
+import numpy as np
+import pandas as pd
 from algorithms.caoa import CAOA
-from encoding.rov import generate_lref_per_batch
-from encoding.rov import decode_rov_single
+from encoding.rov import generate_lref_per_batch, decode_rov_single
 from scheduling.batching import create_job_batches
 from scheduling.objective import evaluate_schedule_tardiness
 from experiments.config import BATCH_SIZE, CAOA_CONFIG
-import numpy as np
-import pandas as pd
 
 def run_sequential_optimization(df, batch_size=30):
     batches = create_job_batches(df, batch_size)
@@ -13,60 +17,69 @@ def run_sequential_optimization(df, batch_size=30):
     print(f"Total Batches terbentuk: {len(batches)}")
     print("-" * 50)
     
-    # Inisialisasi status mesin (kapan mesin/pelabuhan siap melayani kapal baru)
-    # Key: Machine_ID, Value: Waktu penyelesaian operasi terakhir (Completion Time)
+    # Memori Global State: Menyimpan waktu kapan setiap pelabuhan siap melayani kapal baru
     machine_ready_times = {machine_id: 0.0 for machine_id in df['Machine_ID'].unique()}
     
-    all_optimized_schedules = []
-
     for batch_idx, job_ids_in_batch in enumerate(batches):
-        # Ekstrak seluruh operasi (secara utuh) untuk Job di dalam batch ini
         batch_data = df[df['Job_ID'].isin(job_ids_in_batch)].copy()
 
+        # Inisialisasi arsitektur translasi (DNA kromosom) untuk batch ini
         L_ref_batch = generate_lref_per_batch(batch_data)
-        
-        # Hitung dimensi pencarian (D) untuk batch ini
-        D = len(L_ref_batch)
+        D = len(L_ref_batch) # Dimensi yang dinamis
+
+        # === PRAKOMPUTASI: PEMBUATAN KAMUS O(1) LOOKUP ===
+        # Mengubah Pandas DataFrame yang lambat menjadi nested dict murni agar
+        # proses pemanggilan data di dalam jutaan iterasi JSSP berjalan instan.
+        job_lookup_dict = {}
+        for _, row in batch_data.iterrows():
+            j_id = int(row['Job_ID'])
+            o_seq = int(row['Operation_Seq'])
+            
+            if j_id not in job_lookup_dict:
+                job_lookup_dict[j_id] = {'max_op': 0}
+                
+            job_lookup_dict[j_id][o_seq] = {
+                'machine': int(row['Machine_ID']),
+                'proc_time': float(row['Proc_Time']),
+                'arrival': float(row['Arrival_Time']),
+                'travel': float(row['Travel_Time']),
+                'due_date': float(row['Due_Date'])
+            }
+            # Lacak total operasi untuk mengetahui pemicu perhitungan Tardiness
+            job_lookup_dict[j_id]['max_op'] = max(job_lookup_dict[j_id]['max_op'], o_seq)
 
         print(f"Memproses Batch {batch_idx + 1}/{len(batches)} | Jumlah Job: {len(job_ids_in_batch)} | Dimensi (D): {D}")
         
-        # === 1. BUAT FUNGSI OBJEKTIF (fobj) UNTUK BATCH INI ===
-        # CAOA memanggil ini dengan vektor kontinu 1D (posisi 1 buaya)
+        # === BUNGKUSAN FUNGSI OBJEKTIF (WRAPPER) ===
         def fobj_wrapper(x_continuous_1d):
-            # A. Translasi Kontinu ke Diskrit (ROV untuk 1 buaya)
-            # Karena x_continuous_1d adalah 1D, argsort langsung dipakai
-            pi = np.argsort(x_continuous_1d)
+            # Mengubah array probabilitas menjadi jadwal fisik
             S_sequence = decode_rov_single(x_continuous_1d, L_ref_batch)
-            
-            # B. Evaluasi Jadwal (Hitung Tardiness)
-            fitness_value = evaluate_schedule_tardiness(S_sequence, batch_data, machine_ready_times)
+            # Mengevaluasi simulasi jadwal dengan meneruskan memori machine_ready_times
+            fitness_value, _ = evaluate_schedule_tardiness(S_sequence, job_lookup_dict, machine_ready_times)
             return fitness_value
             
-        # === 2. PANGGIL CAOA ===
-        # Sekarang CAOA dieksekusi dengan fobj_wrapper yang sudah mengerti ROV dan JSSP
+        # Panggil algoritma pengoptimalan CAOA
         best_fitness, best_x_continuous, cg_curve = CAOA(
             dim=D, 
             fobj=fobj_wrapper,
             **CAOA_CONFIG
         )
-        
         print(f"Batch {batch_idx + 1} Selesai. Best Tardiness: {best_fitness}")
         
-        # === 3. DECODE GLOBAL BEST UNTUK UPDATE STATE MESIN ===
-        # Translasi posisi kontinu terbaik kembali ke urutan S
-        pi_best = np.argsort(best_x_continuous)
+        # === DEKODE DAN PENGUNCIAN GLOBAL BEST ===
+        # Eksekusi ulang solusi terbaik untuk mengamankan status akhir pelabuhannya
         best_S_sequence = decode_rov_single(best_x_continuous, L_ref_batch)
+        final_tardiness, updated_machine_times = evaluate_schedule_tardiness(
+            best_S_sequence, 
+            job_lookup_dict, 
+            machine_ready_times
+        )
         
-        # ... (Di sini Anda akan menggunakan best_S_sequence untuk menghitung ulang 
-        # C_l,j final dan memperbarui machine_ready_times untuk batch berikutnya) ...
-        
-        updated_machine_times = machine_ready_times.copy() # Update logika ini nanti
-        
-        # --- TRANSFER STATE KE BATCH BERIKUTNYA ---
+        # TRANSFER STATE ANTAR-BATCH: Mengunci efek riak ke batch selanjutnya
         machine_ready_times = updated_machine_times
         
     return machine_ready_times
 
-# Contoh Eksekusi
-df = pd.read_csv('./data/preprocessed_transformed_data.csv')
-final_machine_states = run_sequential_optimization(df, batch_size=BATCH_SIZE)
+if __name__ == "__main__":
+    df = pd.read_csv('./data/preprocessed_transformed_data.csv')
+    final_machine_states = run_sequential_optimization(df, batch_size=BATCH_SIZE)
