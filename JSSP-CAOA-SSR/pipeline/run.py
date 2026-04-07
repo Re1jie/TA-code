@@ -7,13 +7,14 @@ aturan_pasang_surut = './data/tidal_rules.csv'
 folder_elevasi = './data/tidal'
 global_tidal_matrix = build_sparse_tidal_lookup(aturan_pasang_surut, folder_elevasi)
 
-print("2. Memuat Data Jadwal Final...")
+# UPDATE: Memuat dua data sekaligus
+print("2. Memuat Data Jadwal Final & Port Data...")
 df_final = pd.read_csv('./data/preprocessed_transformed_data_FINAL.csv')
+port_data_df = pd.read_csv('./data/port_data.csv')
 
 print("3. Memulai Pipeline Optimasi Sekuensial...")
-# Eksekusi dengan mengirimkan DataFrame utuh dan Matriks W
-# Sesuaikan batch_size dengan eksperimen Anda
-jadwal_optimal_final = run_sequential_optimization(df_final, global_tidal_matrix, batch_size=30)
+# UPDATE: Kirimkan port_data_df ke dalam optimizer
+jadwal_optimal_final = run_sequential_optimization(df_final, global_tidal_matrix, port_data_df, batch_size=30)
 
 print("4. Menyimpan Hasil Akhir...")
 jadwal_optimal_final.to_csv('./data/Jadwal_Optimum_CAOA_Tidal.csv', index=False)
