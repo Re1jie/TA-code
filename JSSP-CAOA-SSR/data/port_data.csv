@@ -1,4 +1,4 @@
-Nama_Pelabuhan,Wilayah,Max_Ship_Type,Total_Berths,isHub
+port_name,region,max_ship_type,total_berths,is_hub
 BELAWAN,Barat,2000,1,false
 BATAM,Barat,2000,1,false
 MAKASSAR,Tengah,2000,2,true
