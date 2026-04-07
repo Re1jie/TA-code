@@ -75,41 +75,41 @@ def build_sparse_tidal_lookup(
     return global_tidal_lookup
 
 # DEBUGGING
-# def export_tidal_lookup_to_csv(global_tidal_lookup, output_csv_path):
-#     """
-#     Flatten global_tidal_lookup menjadi CSV agar dapat diobservasi.
-#     """
+def export_tidal_lookup_to_csv(global_tidal_lookup, output_csv_path):
+    """
+    Flatten global_tidal_lookup menjadi CSV agar dapat diobservasi.
+    """
 
-#     print(f"Mengekspor tidal lookup ke: {output_csv_path}")
+    print(f"Mengekspor tidal lookup ke: {output_csv_path}")
 
-#     rows = []
+    rows = []
 
-#     for port, ships in global_tidal_lookup.items():
-#         for ship, valid_array in ships.items():
-#             for t, val in enumerate(valid_array):
-#                 rows.append({
-#                     "port_name": port,
-#                     "ship_name": ship,
-#                     "t": t,
-#                     "is_allowed": bool(val)
-#                 })
+    for port, ships in global_tidal_lookup.items():
+        for ship, valid_array in ships.items():
+            for t, val in enumerate(valid_array):
+                rows.append({
+                    "port_name": port,
+                    "ship_name": ship,
+                    "t": t,
+                    "is_allowed": bool(val)
+                })
 
-#     df = pd.DataFrame(rows)
+    df = pd.DataFrame(rows)
 
-#     # sorting biar deterministic
-#     df = df.sort_values(["port_name", "ship_name", "t"]).reset_index(drop=True)
+    # sorting biar deterministic
+    df = df.sort_values(["port_name", "ship_name", "t"]).reset_index(drop=True)
 
-#     df.to_csv(output_csv_path, index=False)
+    df.to_csv(output_csv_path, index=False)
 
-#     print("Export selesai.")
+    print("Export selesai.")
 
-# if __name__ == "__main__":
-#     lookup = build_sparse_tidal_lookup(
-#         './data/tidal_rules.csv',
-#         './data/tidal_data.csv'
-#     )
+if __name__ == "__main__":
+    lookup = build_sparse_tidal_lookup(
+        './data/tidal_rules.csv',
+        './data/tidal_data.csv'
+    )
 
-#     export_tidal_lookup_to_csv(
-#         lookup,
-#         "tidal_lookup_debug.csv"
-#     )
+    export_tidal_lookup_to_csv(
+        lookup,
+        "tidal_lookup_debug.csv"
+    )
