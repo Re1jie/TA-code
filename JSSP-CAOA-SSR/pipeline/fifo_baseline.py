@@ -7,8 +7,9 @@ import pandas as pd
 import numpy as np
 from scheduling.batching import create_job_batches
 from scheduling.objective import evaluate_schedule_tardiness
+from experiments.config import VOYAGE_P3, BATCH_SIZE
 
-def run_fifo_baseline(df, batch_size=30):
+def run_fifo_baseline(df, batch_size):
     batches = create_job_batches(df, batch_size)
     machine_ready_times = {machine_id: 0.0 for machine_id in df['m_id'].unique()}
     cumulative_tardiness = 0.0
@@ -51,5 +52,5 @@ def run_fifo_baseline(df, batch_size=30):
     return cumulative_tardiness
 
 if __name__ == "__main__":
-    df = pd.read_csv('./data/preprocessed_transformed_data.csv')
-    run_fifo_baseline(df, batch_size=15)
+    df = pd.read_csv(VOYAGE_P3)
+    run_fifo_baseline(df, batch_size=BATCH_SIZE)
