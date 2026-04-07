@@ -11,7 +11,7 @@ from utils.jssp_model import JSSP_Tardiness_Env
 from experiments.config import CAOA_CONFIG
 
 # UPDATE: Tambahkan parameter port_data_df
-def run_sequential_optimization(df, global_tidal_matrix, port_data_df, batch_size=30):
+def run_sequential_optimization(df, global_tidal_matrix, port_data_df, batch_size):
     batches = create_job_batches(df, batch_size)
     print(f"Total Jobs: {df['job_id'].nunique()}")
     print(f"Total Batches terbentuk: {len(batches)}")

@@ -4,7 +4,7 @@
 #            (batches) berdasarkan waktu kedatangan awal untuk optimasi sekuensial.
 # =============================================================================
 
-def create_job_batches(df, batch_size=30):
+def create_job_batches(df, batch_size):
     """
     Memecah seluruh Job ke dalam beberapa batch berdasarkan waktu kedatangan terdini.
     Pendekatan ini menjaga agar seluruh operasi dari satu kapal (satu Job_ID)

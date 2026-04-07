@@ -1,76 +1,115 @@
 import pandas as pd
 import numpy as np
-import os
 
-def build_sparse_tidal_lookup(rules_csv_path, tidal_data_folder, anchor_date_str='2025-01-01 00:00:00'):
+def build_sparse_tidal_lookup(
+    rules_csv_path,
+    tidal_csv_path,
+    anchor_date_str='2025-01-01 00:00:00'
+):
     """
-    Membangun Matriks W (Lookup Table) eksklusif secara otomatis menggunakan Numpy Vectorization.
+    Build sparse tidal lookup dari single source-of-truth CSV.
     """
+
     print("Membangun Tidal Lookup Table...")
 
-    # 1. Baca aturan konstrain (Hanya memproses yang ada aturannya)
+    # --- Load rules
     rules_df = pd.read_csv(rules_csv_path)
     anchor_date = pd.to_datetime(anchor_date_str)
-    
+
+    # --- Load tidal (single source)
+    tidal_df = pd.read_csv(tidal_csv_path)
+
+    ts = tidal_df['timestamp'].astype(str)
+
+    mask_24 = ts.str.contains('24:00:00')
+    ts_fixed = ts.str.replace('24:00:00', '00:00:00', regex=False)
+
+    tidal_df['datetime'] = pd.to_datetime(ts_fixed, errors='coerce')
+
+    # 24:00 -> copy ke 00:00 hari berikutnya
+    tidal_df.loc[mask_24, 'datetime'] += pd.Timedelta(days=1)
+
+    tidal_df = tidal_df.dropna(subset=['datetime'])
+
+    # --- Build time index
+    tidal_df['t'] = (
+        (tidal_df['datetime'] - anchor_date)
+        .dt.total_seconds()
+        .floordiv(3600)
+        .astype(int)
+    )
+
+    tidal_df = tidal_df[tidal_df['t'] >= 0]
+
     global_tidal_lookup = {}
-    
-    # Kelompokkan aturan berdasarkan Pelabuhan agar kita hanya membaca file CSV pelabuhan 1 kali
-    rules_by_port = rules_df.groupby('port_name')
-    
-    for port, group in rules_by_port:
-        file_path = os.path.join(tidal_data_folder, f"{port}.csv")
-        
-        if not os.path.exists(file_path):
-            print(f"[WARNING] File elevasi tidak ditemukan untuk pelabuhan: {port}")
-            continue
-            
-        # 2. Baca data elevasi pasang surut aktual
-        tidal_df = pd.read_csv(file_path)
-        
-        # Perbaikan Anomali 24:00:00 (Sesuai skrip check_tidal.py)
-        tidal_df['timestamp_str'] = tidal_df['timestamp'].astype(str).str.replace('24:00:00', '23:59:59', regex=False)
-        tidal_df['datetime'] = pd.to_datetime(tidal_df['timestamp_str'], errors='coerce')
-        
-        # Buang baris yang gagal di-parsing
-        tidal_df = tidal_df.dropna(subset=['datetime'])
-        
-        # 3. Transformasi ke Indeks Waktu (t)
-        # Menghitung selisih jam dari anchor date (1 Januari 2025)
-        tidal_df['t'] = ((tidal_df['datetime'] - anchor_date).dt.total_seconds() / 3600).apply(np.floor).astype(int)
-        
-        # Filter hanya t >= 0 (Abaikan data sebelum 1 Jan 2025 jika ada)
-        tidal_df = tidal_df[tidal_df['t'] >= 0]
-        
-        if len(tidal_df) == 0:
-            continue
-            
-        max_t = tidal_df['t'].max()
-        
-        # 4. Inisialisasi Array Elevasi dengan NaN
-        # Ukuran array disesuaikan dengan nilai t maksimum (misal 8760 jam)
+
+    # --- group once by port
+    for port, tidal_port in tidal_df.groupby('port_name'):
+
+        max_t = tidal_port['t'].max()
         elevations = np.full(max_t + 1, np.nan)
-        
-        # Masukkan elevasi aktual ke indeks t yang sesuai
-        # Hal ini secara otomatis menangani jika ada "waktu yang hilang / lompat"
-        valid_t_indices = tidal_df['t'].values
-        valid_h_values = tidal_df['tidal_elevation'].values
-        elevations[valid_t_indices] = valid_h_values
-        
+
+        elevations[tidal_port['t'].values] = tidal_port['tidal_elevation'].values
+
+        # FIX boundary awal: jika t=0 kosong, isi dari nilai valid pertama
+        if np.isnan(elevations[0]):
+            first_valid = np.flatnonzero(~np.isnan(elevations))
+            if len(first_valid) > 0:
+                elevations[0] = elevations[first_valid[0]]
+
         global_tidal_lookup[port] = {}
-        
-        # 5. Eksekusi Vektorisasi untuk setiap Kapal di pelabuhan ini
-        for _, row in group.iterrows():
-            ship_name = row['ship_name']
+
+        rules_port = rules_df[rules_df['port_name'] == port]
+
+        for _, row in rules_port.iterrows():
+            ship = row['ship_name']
             e_min = row['E_min']
             e_max = row['E_max']
-            
-            # KOMPUTASI INTI: Evaluasi Boolean secara instan untuk seluruh tahun
-            # Peringatan: Numpy akan menganggap (NaN >= e_min) sebagai False
-            # Ini sangat aman! Jika data hilang, kapal tidak diizinkan sandar.
-            is_valid_array = (elevations >= e_min) & (elevations <= e_max)
-            
-            # Simpan array hasil evaluasi ke dalam struktur Sparse Dictionary
-            global_tidal_lookup[port][ship_name] = is_valid_array
-            
+
+            global_tidal_lookup[port][ship] = (
+                (elevations >= e_min) &
+                (elevations <= e_max)
+            )
+
     print("Tidal Lookup Table berhasil dibangun!")
     return global_tidal_lookup
+
+# DEBUGGING
+# def export_tidal_lookup_to_csv(global_tidal_lookup, output_csv_path):
+#     """
+#     Flatten global_tidal_lookup menjadi CSV agar dapat diobservasi.
+#     """
+
+#     print(f"Mengekspor tidal lookup ke: {output_csv_path}")
+
+#     rows = []
+
+#     for port, ships in global_tidal_lookup.items():
+#         for ship, valid_array in ships.items():
+#             for t, val in enumerate(valid_array):
+#                 rows.append({
+#                     "port_name": port,
+#                     "ship_name": ship,
+#                     "t": t,
+#                     "is_allowed": bool(val)
+#                 })
+
+#     df = pd.DataFrame(rows)
+
+#     # sorting biar deterministic
+#     df = df.sort_values(["port_name", "ship_name", "t"]).reset_index(drop=True)
+
+#     df.to_csv(output_csv_path, index=False)
+
+#     print("Export selesai.")
+
+# if __name__ == "__main__":
+#     lookup = build_sparse_tidal_lookup(
+#         './data/tidal_rules.csv',
+#         './data/tidal_data.csv'
+#     )
+
+#     export_tidal_lookup_to_csv(
+#         lookup,
+#         "tidal_lookup_debug.csv"
+#     )

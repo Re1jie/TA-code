@@ -3,6 +3,16 @@
 # DESKRIPSI: File konfigurasi global untuk parameter eksperimen dan algoritma.
 # =============================================================================
 
+VOYAGE_DATA = './data/voyage_data_2025/voyage_data_0000.csv'
+VOYAGE_P1 = './data/voyage_p1.csv' 
+VOYAGE_P2 = './data/voyage_p2.csv'
+VOYAGE_P3 = './data/voyage_p3.csv'
+
+TIDAL_DATA = './data/tidal_data.csv'
+TIDAL_RULES = './data/tidal_rules.csv'
+
+PORT_DATA = './data/port_data.csv'
+
 # Ukuran batch (jumlah kapal/Job yang diproses secara simultan dalam satu jendela optimasi)
 BATCH_SIZE = 15
 
