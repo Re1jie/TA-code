@@ -18,11 +18,11 @@ def create_job_batches(df, batch_size=30):
     - batches (list of lists): Daftar batch, di mana tiap elemen adalah list of Job_ID.
     """
     # 1. Identifikasi Waktu Kedatangan Terdini untuk setiap Job
-    # dengan Operation_Seq == 1 merepresentasikan pelabuhan pertama dalam voyage
-    first_ops = df[df['Operation_Seq'] == 1].copy()
+    # dengan op_seq == 1 merepresentasikan pelabuhan pertama dalam voyage
+    first_ops = df[df['op_seq'] == 1].copy()
     
     # 2. Urutkan Job secara kronologis berdasarkan kedatangan pertama (Arrival_Time)
-    sorted_jobs = first_ops.sort_values(by='Arrival_Time')['Job_ID'].tolist()
+    sorted_jobs = first_ops.sort_values(by='arrival_time')['job_id'].tolist()
     
     # 3. Kelompokkan array Job_ID yang telah diurutkan ke dalam potongan sebesar batch_size
     batches = [sorted_jobs[i:i + batch_size] for i in range(0, len(sorted_jobs), batch_size)]

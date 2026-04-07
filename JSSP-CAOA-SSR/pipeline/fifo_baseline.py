@@ -10,30 +10,30 @@ from scheduling.objective import evaluate_schedule_tardiness
 
 def run_fifo_baseline(df, batch_size=30):
     batches = create_job_batches(df, batch_size)
-    machine_ready_times = {machine_id: 0.0 for machine_id in df['Machine_ID'].unique()}
+    machine_ready_times = {machine_id: 0.0 for machine_id in df['m_id'].unique()}
     cumulative_tardiness = 0.0
 
     for batch_idx, job_ids_in_batch in enumerate(batches):
-        batch_data = df[df['Job_ID'].isin(job_ids_in_batch)].copy()
+        batch_data = df[df['job_id'].isin(job_ids_in_batch)].copy()
 
         # Prakomputasi kamus yang identik dengan pipeline CAOA
         job_lookup_dict = {}
         for _, row in batch_data.iterrows():
-            j_id = int(row['Job_ID'])
-            o_seq = int(row['Operation_Seq'])
+            j_id = int(row['job_id'])
+            o_seq = int(row['op_seq'])
             if j_id not in job_lookup_dict:
                 job_lookup_dict[j_id] = {'max_op': 0}
             job_lookup_dict[j_id][o_seq] = {
-                'machine': int(row['Machine_ID']),
-                'proc_time': float(row['Proc_Time']),
-                'arrival': float(row['Arrival_Time']),
-                'travel': float(row['Travel_Time']),
-                'due_date': float(row['Due_Date'])
+                'machine': int(row['m_id']),
+                'proc_time': float(row['proc_time']),
+                'arrival': float(row['arrival_time']),
+                'travel': float(row['travel_time']),
+                'due_date': float(row['due_date'])
             }
             job_lookup_dict[j_id]['max_op'] = max(job_lookup_dict[j_id]['max_op'], o_seq)
 
         # LOGIKA FIFO: Mengurutkan jadwal murni berdasarkan waktu tiba di data historis
-        fifo_S_sequence = batch_data.sort_values(by='Arrival_Time')['Job_ID'].values
+        fifo_S_sequence = batch_data.sort_values(by='arrival_time')['job_id'].values
         
         # Mengevaluasi keterlambatan menggunakan mesin decoder JSSP yang sama
         batch_tardiness, updated_machine_times = evaluate_schedule_tardiness(

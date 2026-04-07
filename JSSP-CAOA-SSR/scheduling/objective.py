@@ -3,6 +3,7 @@
 # DESKRIPSI: Decoder jadwal semi-aktif dan Fungsi Evaluasi Keterlambatan (Tardiness).
 # =============================================================================
 import numpy as np
+import math
 
 def evaluate_schedule_tardiness(S_sequence, job_lookup_dict, port_registry):
     """
